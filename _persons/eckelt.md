@@ -18,3 +18,14 @@ google_scholar: "_wMz-ewAAAAJ"
 linkedin: "klaus-eckelt"
 website: https://www.eckelt.info
 ---
+
+<p>
+  I'm a PhD student and research assistant in the Visual Data Science Group of the <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria.
+  My research focuses on interactive visualizations in the biomedical field. Together with my colleagues, I design and build data analysis tools to support domain experts.
+  I received my master's and bachelor's degrees at Vienna University of Technology, where I became interested in life sciences and the analysis of biomedical data.
+</p>
+
+<p>
+  I'm teaching assistant for the Information Visualization, Visual Analytics, Explainable AI, and Computer Graphics courses at the Johannes Kepler University,
+  and for the Visualisation module at the <a href="https://www.imperial.ac.uk/business-school/">Imperial College Business School</a>.
+</p>
