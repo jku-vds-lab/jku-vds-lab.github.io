@@ -12,5 +12,9 @@ email: klaus.eckelt@jku.at
 image: /assets/images/team_colored/eckelt.jpg
 organization: Johannes Kepler University Linz
 position: University Assistant
-website: https://eckelt.info
+twitter: "klaus_lml"
+github: "keckelt"
+google_scholar: "_wMz-ewAAAAJ"
+linkedin: "klaus-eckelt"
+website: https://www.eckelt.info
 ---
