@@ -22,7 +22,7 @@ website: https://www.eckelt.info
 <p>
   I'm a PhD student and research assistant in the Visual Data Science Group of the <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria.
   My research focuses on interactive visualizations in the biomedical field. Together with my colleagues, I design and build data analysis tools to support domain experts.
-  I received my master's and bachelor's degrees at Vienna University of Technology, where I became interested in life sciences and the analysis of biomedical data.
+  I received my master's and bachelor's degrees at <a href="https://www.tuwien.at/en/">Vienna University of Technology</a>, where I became interested in life sciences and the analysis of biomedical data.
 </p>
 
 <p>
