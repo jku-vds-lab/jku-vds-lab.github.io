@@ -52,7 +52,7 @@ project:
 external-project: 
 
 # The reference to the video entry
-video: 
+video: 2020_imimic_projective_latent_interventions_video
 # The reference to the preview video entry
 #preview-video:
 
