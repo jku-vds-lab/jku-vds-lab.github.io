@@ -6,12 +6,12 @@ baseurl: ""
 url: "https://jku-vds-lab.at"
 twitter_username: marc_streit
 github_username:  jku-vds-lab
-youtube_username: caleydotugraz
+youtube_username: UCH0ztMDNtQuIx0-ZWIavG0Q
 # facebook_page: Caleydo/110550618994500
 license_url: https://raw.githubusercontent.com/Caleydo/caleydo/develop/LICENSE
 safe: false
 lsi: false
-google_analytics: "'UA-45998043-1'"
+google_analytics: "G-XB7C1C7YVE"
 use_analytics: true
 
 paper_content_url: http://data.caleydo.org/papers/
