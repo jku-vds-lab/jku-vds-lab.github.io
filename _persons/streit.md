@@ -17,7 +17,7 @@ twitter: "marc_streit"
 github: "mstreit"
 google_scholar: "l7TTSP0AAAAJ"
 linkedin: "marcstreit"
-cv: "http://data.caleydo.org/team/marc/cv_streit.pdf"
+# cv: "http://data.caleydo.org/team/marc/cv_streit.pdf"
 
 show_pub_nav: true # set this property, if the "team member page" should have a navigation for publications (i.e. if person has many publiations)
 
@@ -28,7 +28,7 @@ email: marc.streit@jku.at
 image: /assets/images/team_colored/streit.jpg
 organization: Johannes Kepler University Linz
 position: Full Professor
-website: http://marc-streit.com
+website: https://marc-streit.com
 ---
 
 <p>I am a tenured Full Professor at the <a href="http://www.cg.jku.at">Institute of Computer Graphics</a> at <a href="http://www.jku.at">Johannes Kepler University Linz</a> where I lead the JKU Visual Data Science Lab.
