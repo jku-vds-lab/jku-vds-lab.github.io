@@ -219,7 +219,7 @@ layout: default
         {% assign member_posters = site.data.posters | where_exp:"item", "item.authors contains page.key" %}
         {% assign psize = member_posters | size %}
         {% if psize > 0 %}
-            <h2 id="posters">Extended Abstracts and Posters</h2>
+            <h2 id="posters">Selected Abstracts and Posters</h2>
             {% for publication in member_posters %} <!--reversed-->
                 <div>
                     <p>
