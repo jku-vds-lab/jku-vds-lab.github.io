@@ -4,7 +4,7 @@ layout: publication
 title: "Survey on the Analysis of User Interactions and Visualization Provenance"
 key: 2020_eurovis_anaprov
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.caleydo.org
 paper_content_url: 
 
@@ -30,7 +30,7 @@ year: 2020
 
 bibentry: article
 bib:
-  journal: Computer Graphics Forum, EuroVis STAR 2020 (to appear)
+  journal: Computer Graphics Forum, EuroVis STAR 2020 (Early Access)
   booktitle: 
   editor: 
   publisher: https://diglib.eg.org/handle/10.1111/cgf14035
