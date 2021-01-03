@@ -15,7 +15,7 @@ authors:
 advisors: Marc Streit
 year: 2019
 month: April
-award: 
+award: JKU Early Research Achievement Award
 institution: Johannes Kepler University Linz
 thesis_type: PhD Thesis
 
