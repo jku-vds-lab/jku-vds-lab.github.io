@@ -12,9 +12,9 @@ paper_content_url:
 # The shortname is used for auto-generated titels
 shortname: "Visualization Onboarding: Learning how to read and use visualizations"
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2019_viscomm_visualization-onboarding_small.png
+image: 2019_viscomm_visualization-onboarding.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2019_viscomm_visualization-onboarding_large.png
+image_large: 2019_viscomm_visualization-onboarding_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
