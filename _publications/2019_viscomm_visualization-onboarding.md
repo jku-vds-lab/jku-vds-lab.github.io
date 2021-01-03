@@ -35,7 +35,7 @@ bib:
   url: 
   editor: 
   series: 
-  doi: 10.31219/osf.io/c38ab
+  doi: 
   url: 
   volume: 
   number: 
