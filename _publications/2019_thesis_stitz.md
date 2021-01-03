@@ -5,13 +5,13 @@ key: 2019-thesis-stitz
 permalink: /publications/2019_thesis_stitz/
 type: thesis
 
-non_group_project: False
+#non_group_project: False
 
 shortname: Thesis-Stitz
 image: /assets/images/papers/2016_tvcg_thermalplot.png
 
 authors: 
-- streit
+- stitz
 advisors: Marc Streit
 year: 2019
 month: April
