@@ -1,4 +1,19 @@
 - author: streit 
+  role: "Steering Committee"
+  title: Symposium on Biological Data Visualization (BioVis)
+  date: 2018 - 2021
+
+- author: streit 
+  role: "Steering Committee"
+  title: Visualization in Data Science (VDS)
+  date: 2017 - 2020
+
+- author: streit
+  roles: "Organizing Committee"
+  title: 1. Linzer Informatiktag
+  date: 2020
+
+- author: streit 
   role: Guest Editor
   title: BMC Bioinformatics, Special Issue on Highlights from the Symposium on Biological Data Visualization
   date: 2015 - 2017
@@ -8,16 +23,6 @@
   title: IEEE Computer, Special Issue on Visual Analytics
   date: 2013  
   
-- author: streit 
-  role: "Steering Committee"
-  title: Symposium on Biological Data Visualization (BioVis)
-  date: 2018 - 2020
-
-- author: streit 
-  role: "Steering Committee"
-  title: Visualization in Data Science (VDS)
-  date: 2017 - 2020
-
 - author: streit 
   role: "Organizing Committee: General Chair"
   title: Symposium on Biological Data Visualization (BioVis)
