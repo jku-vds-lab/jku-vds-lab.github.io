@@ -8,7 +8,7 @@ type: thesis
 #non_group_project: False
 
 shortname: Thesis-Gratzl
-image: /assets/images/papers/2011_infovis_lineup.png
+image: /assets/images/papers/2013_infovis_lineup.png
 
 authors: 
 - gratzl
