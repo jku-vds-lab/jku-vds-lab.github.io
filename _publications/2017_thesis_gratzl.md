@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visually guiding users in selection, exploration, and presentation tasks"
+title: "Visually Guiding Users in Selection, Exploration, and Presentation Tasks"
 key: 2017-thesis-gratzl
 permalink: /publications/2017_thesis_gratzl/
 type: thesis
