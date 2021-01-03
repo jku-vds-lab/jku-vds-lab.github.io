@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Fuzzy Spreadsheet: Understanding and Exploring Uncertainties in Tabular Calculations"
-key: 2020_preprint_fuzzy_spreadsheets
+key: 2020_preprint_fuzzy-spreadsheets
 # paper | preprint | poster
 type: preprint
 # optional url for a different site; defaults to data.caleydo.org
@@ -12,9 +12,9 @@ paper_content_url:
 # The shortname is used for auto-generated titels
 shortname: Fuzzy Spreadsheets
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2020_preprint_fuzzy_spreadsheets.png
+image: 2020_preprint_fuzzy-spreadsheets.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2020_preprint_fuzzy_spreadsheets_teaser.png
+image_large: 2020_preprint_fuzzy-spreadsheets_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -55,12 +55,12 @@ project:
 external-project: https://jku-vds-lab.at/fuzzy-spreadsheet/
 
 # The reference to the video entry
-video: 2020_fuzzy_spreadsheets_video
+video: 2020_fuzzy-spreadsheets_video
 # The reference to the preview video entry
 #preview-video:
 
 # the prerint
-pdf: 2020_preprint_fuzzy_spreadsheets.pdf
+pdf: 2020_preprint_fuzzy-spreadsheets.pdf
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
