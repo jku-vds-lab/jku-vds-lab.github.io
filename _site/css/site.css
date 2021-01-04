@@ -463,65 +463,65 @@ p { padding-left: 5px; }
 @media screen and (max-width: 519px) { .docs-button { width: 25px; } }
 @media screen and (min-width: 520px) and (max-width: 1023px) { .docs-button { width: 25px; } }
 
-.projects-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
+.projects-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
 .projects-title:last-child { margin-right: 0; }
 .projects-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.project-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
+.project-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
 .project-title:last-child { margin-right: 0; }
 .project-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .project-title h1 { font-size: 1.5em; }
 
-.person-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
+.person-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
 .person-title:last-child { margin-right: 0; }
 .person-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.team-member-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
+.team-member-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
 .team-member-title:last-child { margin-right: 0; }
 .team-member-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .team-member-title h1 { font-size: 1.5em; }
 
-.team-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
+.team-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #3DB7DD; background-color: #f5fbfd; display: inline-block; border-bottom: 4px #3DB7DD solid; margin-bottom: 20px; }
 .team-title:last-child { margin-right: 0; }
 .team-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.acknowledgements-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #B2B2B2; background-color: #fbfbfb; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #B2B2B2 solid; margin-bottom: 20px; }
+.acknowledgements-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #B2B2B2; background-color: #fbfbfb; display: inline-block; border-bottom: 4px #B2B2B2 solid; margin-bottom: 20px; }
 .acknowledgements-title:last-child { margin-right: 0; }
 .acknowledgements-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .acknowledgements-title h1 { font-size: 1.5em; }
 
-.post-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #149747; background-color: #f3faf6; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #149747 solid; margin-bottom: 20px; }
+.post-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #149747; background-color: #f3faf6; display: inline-block; border-bottom: 4px #149747 solid; margin-bottom: 20px; }
 .post-title:last-child { margin-right: 0; }
 .post-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .post-title h1 { font-size: 1.5em; }
 
-.home-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #149747; background-color: #f3faf6; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #149747 solid; margin-bottom: 20px; }
+.home-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #149747; background-color: #f3faf6; display: inline-block; border-bottom: 4px #149747 solid; margin-bottom: 20px; }
 .home-title:last-child { margin-right: 0; }
 .home-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.publications-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #FDB938; background-color: #fffcf5; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #FDB938 solid; margin-bottom: 20px; }
+.publications-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #FDB938; background-color: #fffcf5; display: inline-block; border-bottom: 4px #FDB938 solid; margin-bottom: 20px; }
 .publications-title:last-child { margin-right: 0; }
 .publications-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.publication-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #FDB938; background-color: #fffcf5; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #FDB938 solid; margin-bottom: 20px; }
+.publication-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #FDB938; background-color: #fffcf5; display: inline-block; border-bottom: 4px #FDB938 solid; margin-bottom: 20px; }
 .publication-title:last-child { margin-right: 0; }
 .publication-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .publication-title h1 { font-size: 1.5em; }
 
-.teaching-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
+.teaching-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #EB0021; background-color: #fef2f4; display: inline-block; border-bottom: 4px #EB0021 solid; margin-bottom: 20px; }
 .teaching-title:last-child { margin-right: 0; }
 .teaching-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.download-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #F36229; background-color: #fef7f4; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #F36229 solid; margin-bottom: 20px; }
+.download-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #F36229; background-color: #fef7f4; display: inline-block; border-bottom: 4px #F36229 solid; margin-bottom: 20px; }
 .download-title:last-child { margin-right: 0; }
 .download-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
-.release-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #F36229; background-color: #fef7f4; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #F36229 solid; margin-bottom: 20px; }
+.release-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #F36229; background-color: #fef7f4; display: inline-block; border-bottom: 4px #F36229 solid; margin-bottom: 20px; }
 .release-title:last-child { margin-right: 0; }
 .release-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 .release-title h1 { font-size: 1.5em; }
 
-.docs-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #B2B2B2; background-color: #fbfbfb; padding: 5px 0px 0px 0px; display: inline-block; border-bottom: 4px #B2B2B2 solid; margin-bottom: 20px; }
+.docs-title { float: left; display: block; margin-right: 2.3576515979%; width: 100%; margin-right: 0; color: #B2B2B2; background-color: #fbfbfb; display: inline-block; border-bottom: 4px #B2B2B2 solid; margin-bottom: 20px; }
 .docs-title:last-child { margin-right: 0; }
 .docs-title h1 { font-family: Yantramanav, Helvetica, sans-serif; font-weight: 300; font-style: normal; font-size: 2.25em; border-bottom: none; margin-bottom: 0px; }
 
@@ -961,8 +961,6 @@ footer .footer-disclaimer p { text-align: center; font-family: Yantramanav, Helv
 .repo_list li { margin-bottom: 10px; }
 
 .award { font-style: italic; color: orange; }
-
-.logo { line-height: 0px; }
 
 .logo-subtitle { font-family: Lato,Helvetica,sans-serif; font-size: .7em; line-height: 16px; font-weight: 550; margin-left: 6px; padding-top: 12px; float: left; width: 200px; height: 80px; }
 .logo-subtitle a { color: #444; position: relative; border-bottom-width: 1px; border-bottom-style: dotted; -webkit-box-decoration-break: clone; -o-box-decoration-break: clone; box-decoration-break: clone; }

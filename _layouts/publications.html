@@ -59,9 +59,10 @@ layout: default
 	
   <h1 id="theses">Theses</h1>
 
-  {% for thesis in site.publications reversed %}
+  {% assign member_thesis = site.publications | where:"type", "thesis" %}
+  {% for thesis in member_thesis reversed %}
   {% if thesis.hide or thesis.non_group_project %}
-  {% elsif publication.type == "thesis" %}
+  {% else %}
     <div class="paper-list-block">
       {% if thesis.image %}
         <a href="{{ site.baseurl }}{{ thesis.url }}">
@@ -73,11 +74,11 @@ layout: default
         {% for person in site.persons %}
         {% if person.key == thesis.authors.first %}
         {% if person.cg_website %}
-            <a href="{{ person.cg_website }}">{{ person.first_name }} {{ person.last_name }}</a><br>
+            <a href="{{ person.cg_website }}">{{ person.first_name }} {{ person.last_name }}</a>
         {% elsif person.hide_personal_page %}
-            {{ person.first_name }} {{ person.last_name }}<br>
+            {{ person.first_name }} {{ person.last_name }}
         {% else %}
-            <a href="{{ site.baseurl }}{{ person.url }}">{{ person.first_name }} {{ person.last_name }}</a><br>
+            <a href="{{ site.baseurl }}{{ person.url }}">{{ person.first_name }} {{ person.last_name }}</a>
         {% endif %}
           {% assign known = true %}
         {% endif %}
