@@ -57,7 +57,7 @@ video: 2020_imimic_projective_latent_interventions_video
 #preview-video:
 
 # the prerint
-pdf_local: assets/papers/2020_imimic_projective_latent_interventions.pdf
+pdf_local: /assets/papers/2020_imimic_projective_latent_interventions.pdf
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
