@@ -67,7 +67,7 @@ layout: default
         <br />
         <span class="paper-title">
           {% if page.pdf_local %}
-          <b><a href="{{site.baseurl}}{{page.pdf_local}}">{{page.title}}</a></b>
+          <b><a href="{{page.pdf_local}}">{{page.title}}</a></b>
           {% elsif page.pdf %}
           <b><a href="{{paper_content_url}}{{page.pdf}}">{{page.title}}</a></b>
           {% else %}
@@ -173,7 +173,7 @@ layout: default
 
       {% if page.pdf_local %}
       <li>
-        <i class="fa fa-download"></i> &nbsp;<a href="{{site.baseurl}}{{page.pdf_local}}">Publication (PDF)</a></b>
+        <i class="fa fa-download"></i> &nbsp;<a href="{{page.pdf_local}}">Publication (PDF)</a></b>
       </li>
       {% elsif page.pdf %}
       <li>
