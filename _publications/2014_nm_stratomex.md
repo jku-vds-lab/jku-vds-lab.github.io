@@ -34,7 +34,7 @@ bib:
 
 award:
 
-external-project: https://caleydo.org/tools/stratomex/
+external-project: https://jku-vds-lab.at/tools/stratomex/
 
 video: 2014_nm_stratomex_video
 preview-video:

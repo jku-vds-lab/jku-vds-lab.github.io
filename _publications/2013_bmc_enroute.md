@@ -32,7 +32,7 @@ bib:
 award:
 note: extended journal version of 2012 BioVis article
 
-external-project: https://caleydo.org/tools/pathways/
+external-project: https://jku-vds-lab.at/tools/pathways/
 
 video: 2012_biovis_enroute_video
 preview-video:

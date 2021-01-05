@@ -5,7 +5,7 @@ title: "Projective Latent Interventions for Understanding and Fine-tuning Classi
 key: 2020_imimic_projective-latent-interventions
 # paper | preprint | poster
 type: paper
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
 

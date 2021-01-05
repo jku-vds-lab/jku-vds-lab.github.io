@@ -31,7 +31,7 @@ bib:
 
 award: IEEE InfoVis 2013 Best Paper Award
 
-external-project: https://caleydo.org/tools/lineup/
+external-project: https://jku-vds-lab.at/tools/lineup/
 
 video: 2013_infovis_lineup_video
 preview-video: 2013_infovis_lineup_video_preview

@@ -35,7 +35,7 @@ award: IEEE InfoVis 2014 Honorable Mention Award
 publisher: 
 
 
-external-project: https://caleydo.org/tools/domino/
+external-project: https://jku-vds-lab.at/tools/domino/
 
 video: 2014_infovis_domino_video
 preview-video: 2014_infovis_domino_video_preview

@@ -14,7 +14,7 @@ abstract: "" # insert the abstract of your publication between the quotes; you c
 ####
 
 
-# set this url, if your paper is on another server; defaults to data.caleydo.org
+# set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
 paper_content_url:
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True

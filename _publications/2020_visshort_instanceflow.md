@@ -5,7 +5,7 @@ title: "InstanceFlow: Visualizing the Evolution of Classifier Confusion on the I
 key: 2020_preprint_instanceflow
 # paper | preprint | poster
 type: paper
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
 

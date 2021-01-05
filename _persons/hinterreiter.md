@@ -52,7 +52,7 @@ github: einbandi
 google_scholar: MERWm3QAAAAJ
 # add your linkedin username (e.g. "marcstreit")
 linkedin:
-# here you can add a link to your CV (e.g. "http://data.caleydo.org/team/marc/cv_streit.pdf")
+# here you can add a link to your CV (e.g. "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf")
 cv:
 # here you can add a link to a personal website
 website:

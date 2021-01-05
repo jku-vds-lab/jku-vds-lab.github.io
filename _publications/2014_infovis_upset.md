@@ -46,7 +46,7 @@ supplement:  2014_infovis_upset_supplement.pdf
 
 supplements:
 - name: UpSet Concept Info
-  abslink: https://caleydo.org/tools/upset/
+  abslink: https://jku-vds-lab.at/tools/upset/
   linksym: true
 - name: UpSet Documentation
   abslink: https://github.com/VCG/upset/wiki

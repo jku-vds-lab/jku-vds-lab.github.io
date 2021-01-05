@@ -5,7 +5,7 @@ title: "Survey on the Analysis of User Interactions and Visualization Provenance
 key: 2020_eurovis_anaprov
 # paper | preprint | poster
 type: paper
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
 
