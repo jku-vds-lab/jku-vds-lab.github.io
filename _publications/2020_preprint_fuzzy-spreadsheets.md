@@ -5,7 +5,7 @@ title: "Fuzzy Spreadsheet: Understanding and Exploring Uncertainties in Tabular 
 key: 2020_preprint_fuzzy-spreadsheets
 # paper | preprint | poster
 type: preprint
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url:
 
 

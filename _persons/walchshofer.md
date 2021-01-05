@@ -52,7 +52,7 @@ github: ConnyWalchshofer
 google_scholar: 6scQavMAAAAJ
 # add your linkedin username (e.g. "marcstreit")
 linkedin: conny-walchshofer
-# here you can add a link to your CV (e.g. "http://data.caleydo.org/team/marc/cv_streit.pdf")
+# here you can add a link to your CV (e.g. "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf")
 cv: https://www.conny-walchshofer.at/
 # here you can add a link to a personal website
 website: https://www.conny-walchshofer.at/

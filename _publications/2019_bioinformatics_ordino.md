@@ -5,7 +5,7 @@ title: "Ordino: visual analysis tool for ranking and exploring genes, cell lines
 key: 2019_bioinformatics_ordino
 # paper | preprint | poster
 type: paper
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 # paper_content_url: https://doi.org/10.1093/bioinformatics/btz009
 
 

@@ -73,7 +73,7 @@ bibtex: 2017_infovis_taco.bib
 supplements:
 - name: Conference Talk Slides
   # use link instead of abslink if you want to link to the master directory
-  abslink: http://data.caleydo.org/papers/2017_infovis_taco_presentation.pdf
+  abslink: http://data.jku-vds-lab.at/papers/2017_infovis_taco_presentation.pdf
   # defaults to a download icon, use this if you want a link-out icon
   linksym: true
 

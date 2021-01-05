@@ -5,7 +5,7 @@ title: "Visualization Onboarding: Learning How to Read and Use Visualizations"
 key: 2019_viscomm_visualization-onboarding
 # paper | preprint | poster
 type: paper
-# optional url for a different site; defaults to data.caleydo.org
+# optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
 

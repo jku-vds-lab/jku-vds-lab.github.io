@@ -28,10 +28,10 @@
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@caleydo_org">
+  <meta name="twitter:site" content="@marc_streit">
   <meta name="twitter:title" content="Furby: Fuzzy Force-Directed Bicluster Visualization">
   <meta name="twitter:description" content=" Background: Cluster analysis is widely used to discover patterns in multi-dimensional data. Clustered heatmaps are the standard technique for visualizing one-way and two-way clustering results. In clustered heatmaps, rows and/or columns are reordered, resulting in a representation that shows the clusters as contiguous blocks. However, for biclustering results, where clusters can overlap, it is not possible to reorder the matrix in this way without duplicating rows and/or columns. Results: We present Furby, an interactive visualization technique for analyzing biclustering results. Our contribution is twofold. First, the technique provides an overview of a biclustering result, showing the actual data that forms the individual clusters together with the information which rows and columns they share. Second, for fuzzy clustering results, the proposed technique additionally enables analysts to interactively set the thresholds that transform the fuzzy (soft) clustering into hard clusters that can then be investigated using heatmaps or bar charts. Changes in the membership value thresholds are immediately reflected in the visualization. We demonstrate the value of Furby by loading biclustering results applied to a multi-tissue dataset into the visualization. Conclusions: The proposed tool allows analysts to assess the overall quality of a biclustering result. Based on this high-level overview, analysts can then interactively explore the individual biclusters in detail. This novel way of handling fuzzy clustering results also supports analysts in finding the optimal thresholds that lead to the best clusters.">
-  <meta name="twitter:creator" content="@caleydo_org">
+  <meta name="twitter:creator" content="@marc_streit">
   
 
   <!-- Open Graph data -->
@@ -78,25 +78,10 @@
                         class="nav-text">Teaching</span></a>
             </li>
             
-            <!-- <li class="project-button">
-                <a href="/tools/"><span class="nav-icon"><i class="fa fa-cog"></i></span><span
-                        class="nav-text">Tools</span></a>
-            </li> -->
-            <!--<li class="download-button">
-              <a href="/software/"><span class="nav-icon"><i class="fa fa-download"></i></span><span class="nav-text">Software</span></a>
-            </li> -->
-
-            <!--<li class="help-button">
-              <a href="http://help.caleydo.org"><span class="nav-icon"><i class="fa fa-question-circle"></i></span><span class="nav-text">Help</span></a>
-            </li> -->
-            <!--<li class="help-button">
-                  <a href="/documentation/"><span class="nav-icon"><i class="fa fa-book"></i></span><span class="nav-text">Docs</span></a>
-              </li>-->
 
         </ul>
     </div>
 
-    <!-- <div class="logo-subtitle">Part of the <a href="https://www.jku.at/en/institute-of-computer-graphics/" target="_blank">Institute of Computer Graphics</a> @ <a href="https://www.jku.at/" target="_blank">Johannes Kepler University Linz</a>, Austria</div> -->
 </div>
 
 
@@ -364,7 +349,7 @@
         <br />
         <span class="paper-title">
           
-          <b><a href="http://data.caleydo.org/papers/2014_bmc_furby.pdf">Furby: Fuzzy Force-Directed Bicluster Visualization</a></b>
+          <b><a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby.pdf">Furby: Fuzzy Force-Directed Bicluster Visualization</a></b>
           
         </span><br />
         
@@ -413,16 +398,16 @@
 <p>The following projects contain public demo data, which can be used to test Furby. But everyone is welcome to load his/her own data, via the <code class="language-plaintext highlighter-rouge">Load BiCluster Results</code> tab within the Caleydo Startup-Wizard.</p>
 
 <ul>
-  <li><i class="fa fa-download"></i> <a href="http://data.caleydo.org/papers/2014_bmc_furby_multi_tissue_fabia20.cal">Caleydo-Project (CAL)</a> containing Microarray data from Broad Institute “Cancer Program Data Sets” which was produced by <a href="https://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi">Su et al. 2002</a>. It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.</li>
-  <li><i class="fa fa-download"></i> <a href="http://data.caleydo.org/papers/2014_bmc_furby_multi_tissue_fabia20.zip">Zip package (ZIP)</a> containing the exported CSV-files using to create the previous Caleydo-Project</li>
+  <li><i class="fa fa-download"></i> <a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.cal">Caleydo-Project (CAL)</a> containing Microarray data from Broad Institute “Cancer Program Data Sets” which was produced by <a href="https://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi">Su et al. 2002</a>. It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.</li>
+  <li><i class="fa fa-download"></i> <a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.zip">Zip package (ZIP)</a> containing the exported CSV-files using to create the previous Caleydo-Project</li>
 </ul>
 
 <h1 id="utilities">Utilities</h1>
 <p>We provide two helper R-Scripts, which simplify exporting R bicluster results in the correct format.</p>
 
 <ul>
-  <li><i class="fa fa-download"></i> <a href="http://data.caleydo.org/papers/2014_bmc_furby_export_fabia.R">R-Script</a> for exporting FABIA results, generated via the <a href="https://www.bioconductor.org/packages/2.12/bioc/html/fabia.html">fabia</a> bioconductor package.</li>
-  <li><i class="fa fa-download"></i> <a href="http://data.caleydo.org/papers/2014_bmc_furby_export_biclust.R">R-Script</a> for exporting result from the <a href="https://cran.r-project.org/web/packages/biclust/index.html">biclust</a> CRAN package.</li>
+  <li><i class="fa fa-download"></i> <a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_export_fabia.R">R-Script</a> for exporting FABIA results, generated via the <a href="https://www.bioconductor.org/packages/2.12/bioc/html/fabia.html">fabia</a> bioconductor package.</li>
+  <li><i class="fa fa-download"></i> <a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_export_biclust.R">R-Script</a> for exporting result from the <a href="https://cran.r-project.org/web/packages/biclust/index.html">biclust</a> CRAN package.</li>
 </ul>
 
   </article>
@@ -464,7 +449,7 @@
 
       
       <li>
-        <i class="fa fa-download"></i> &nbsp;<a href="http://data.caleydo.org/papers/2014_bmc_furby.pdf">Publication (PDF)</a>
+        <i class="fa fa-download"></i> &nbsp;<a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby.pdf">Publication (PDF)</a>
       </li>
       
       
@@ -475,7 +460,7 @@
         <i class="fa fa-download"></i>
         
         &nbsp;<a
-          href="http://data.caleydo.org/papers/2014_bmc_furby_multi_tissue_fabia20.cal">Multi Tissue Dataset (CAL)</a>
+          href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.cal">Multi Tissue Dataset (CAL)</a>
       </li>
       
       <li>
@@ -483,7 +468,7 @@
         <i class="fa fa-download"></i>
         
         &nbsp;<a
-          href="http://data.caleydo.org/papers/2014_bmc_furby_multi_tissue_fabia20.zip">Multi Tissue Dataset (ZIP)</a>
+          href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.zip">Multi Tissue Dataset (ZIP)</a>
       </li>
       
       <li>
@@ -491,7 +476,7 @@
         <i class="fa fa-download"></i>
         
         &nbsp;<a
-          href="http://data.caleydo.org/papers/2014_bmc_furby_export_fabia.R">Fabia R package export script (R-Script)</a>
+          href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_export_fabia.R">Fabia R package export script (R-Script)</a>
       </li>
       
       <li>
@@ -499,7 +484,7 @@
         <i class="fa fa-download"></i>
         
         &nbsp;<a
-          href="http://data.caleydo.org/papers/2014_bmc_furby_export_biclust.R">BiClust R package export script (R-Script)</a>
+          href="http://data.jku-vds-lab.at/papers/2014_bmc_furby_export_biclust.R">BiClust R package export script (R-Script)</a>
       </li>
       
       
@@ -545,7 +530,7 @@
       </div>
       
       
-      <p><i class="fa fa-download"></i> &nbsp;<a href="http://data.caleydo.org/papers/2014_bmc_furby.mp4">Download Video</a>
+      <p><i class="fa fa-download"></i> &nbsp;<a href="http://data.jku-vds-lab.at/papers/2014_bmc_furby.mp4">Download Video</a>
         <p />
         
     </div>
@@ -666,11 +651,6 @@
   </div>
 
   <div class="footer-content">
-    <!-- <div class="footer-disclaimer">
-      <p>
-        Caleydo is a joint project of
-      </p>
-    </div> -->
     <div class="footer-list-institutions">
       <ul>
         
@@ -688,11 +668,6 @@
 
 
   <div class="footer-content">
-    <!-- <span class="footer-logo">
-      <a href="/">
-        <img class="logo-footer-svg" src="/assets/images/logos/caleydo_c.svg" alt="Caleydo Logo">
-      </a>
-    </span> -->
     <div class="footer-disclaimer">
       <p>
         Copyright &copy; 2021 JKU Visual Data Science Lab. All content on this website is licensed under the <br />
