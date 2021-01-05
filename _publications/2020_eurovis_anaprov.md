@@ -82,7 +82,7 @@ produce a comprehensive survey of work in the data visualization and visual anal
 interaction and provenance data. We structure our survey around three primary questions: (1) WHY analyze provenance data,
 (2) WHAT provenance data to encode and how to encode it, and (3) HOW to analyze provenance data. A concluding discussion
 provides evidence-based guidelines and highlights concrete opportunities for future development in this emerging area. The
-survey and papers discussed can be explored online interactively at <a href='https://provenance-survey.caleydo.org' target="_blank">https://provenance-survey.caleydo.org</a>.
+survey and papers discussed can be explored online interactively at <a href='https://provenance-survey.caleydo.org'>https://provenance-survey.caleydo.org</a>.
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
