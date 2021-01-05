@@ -12,7 +12,11 @@ layout: default
     {{ content }}
   </article>
 
-  <p><a href="{{ site.paper_content_url }}{{ page.pdf }}">Download Thesis (PDF)</a><br/></p>
+  {% if page.pdf_local %}
+      <p><a href="{{site.baseurl}}{{page.pdf_local}}">Download Thesis (PDF)</a></p>
+  {% elsif page.pdf %}
+      <p><a href="{{paper_content_url}}{{page.pdf}}">Download Thesis (PDF)</a></p>
+  {% endif %} <br/>
 
   <p>Advisors: {{page.advisors}}</p>
 
