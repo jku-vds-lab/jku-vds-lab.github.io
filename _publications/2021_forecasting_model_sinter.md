@@ -55,7 +55,7 @@ year: 2021
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Iron & Stell Technology		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Iron & Steel Technology		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
   publisher: 
