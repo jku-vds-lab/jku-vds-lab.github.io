@@ -59,7 +59,7 @@
                                 </a>
                             {% endif %}
                             <p>
-                                <b><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title }}</a></b>
+                                <b><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title | truncate: 100 }}</a></b>
                                 <br>
                                 {{publication.journal-short}}, {{publication.year}}
                             </p>
