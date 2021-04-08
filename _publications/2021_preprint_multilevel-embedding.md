@@ -68,7 +68,8 @@ external-project:
 #preview-video:
 
 # the prerint
-pdf: 2021_preprint_multilevel-embedding.pdf
+pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf
+#pdf: 2021_preprint_multilevel-embedding.pdf
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
