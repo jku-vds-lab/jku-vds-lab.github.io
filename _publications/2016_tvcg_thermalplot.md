@@ -11,7 +11,7 @@ image: 2016_tvcg_thermalplot.png
 authors:
 - stitz
 - gratzl
-- aigner
+- Wolfgang Aigner
 - streit
 
 journal-short: TVCG
