@@ -63,7 +63,7 @@ project:
 external-project: 
 
 # The reference to the video entry
-#video: 2020_tvcg_confusionflow_video
+video: 2021_preprint_multilevel-embedding
 # The reference to the preview video entry
 #preview-video:
 
