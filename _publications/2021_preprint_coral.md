@@ -4,7 +4,7 @@ layout: publication
 title: "Coral: a web-based visual analysis tool for creating and characterizing cohorts"
 key: 2021_preprint_coral
 # paper | preprint | poster
-type: paper
+type: preprint
 # optional url for a different site; defaults to data.jku-vds-lab.at
 # paper_content_url: https://doi.org/10.1093/bioinformatics/btz009
 
