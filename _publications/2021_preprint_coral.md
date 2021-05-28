@@ -74,13 +74,7 @@ supplements:
 # Link to the repository where the code is hostet
 code: https://github.com/Caleydo/Coral
 
-abstract: "
-<p>A main task in computational cancer analysis is the identification of patient subgroups (i.e., cohorts) based on metadata attributes (patient stratification) or genomic markers of response (biomarkers). Coral is a web-based cohort analysis tool that is designed to support this task: Users can interactively create and refine cohorts, which can then be compared, characterized, and inspected down to the level of single items. We visualize the evolution of cohorts and also provide intuitive access to prevalence information. Coral can be utilized to explore any type of cohort and sample set. Here, we focus on the analysis of genomic data from cancer patients and therefore included in the public version data from the AACR Project GENIE, The Cancer Genome Atlas, and the Cell Line Encyclopedia.</p>
-
-<p>
-  Coral is publicly available at <a href="https://coral.caleydoapp.org">https://coral.caleydoapp.org</a>.
-  The source code is released at <a href="https://github.com/Caleydo/Coral">https://github.com/Caleydo/Coral</a>.
-</p>"
+abstract: "A main task in computational cancer analysis is the identification of patient subgroups (i.e., cohorts) based on metadata attributes (patient stratification) or genomic markers of response (biomarkers). Coral is a web-based cohort analysis tool that is designed to support this task: Users can interactively create and refine cohorts, which can then be compared, characterized, and inspected down to the level of single items. We visualize the evolution of cohorts and also provide intuitive access to prevalence information. Coral can be utilized to explore any type of cohort and sample set. Here, we focus on the analysis of genomic data from cancer patients and therefore included in the public version data from the AACR Project GENIE, The Cancer Genome Atlas, and the Cell Line Encyclopedia."
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
