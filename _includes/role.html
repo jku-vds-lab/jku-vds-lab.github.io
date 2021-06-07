@@ -1,22 +1,23 @@
 {% for person in site.persons %}
 {% if person.role == include.role %}
-<p>
-    {% if person.image %}
-        <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}{{ person.image }}">
-    {% else %}
-        <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}/assets/images/team_colored/placeholder.png">
-    {% endif %}
-    
     {% if person.cg_website %}
-        <a href="{{ person.cg_website }}">{{ person.first_name }} {{ person.last_name }}</a><br>
+        <a href="{{ person.cg_website }}">
     {% elsif person.hide_personal_page %}
-        {{ person.first_name }} {{ person.last_name }}<br>
+        <a>
     {% else %}
-        <a href="{{ site.baseurl }}{{ person.url }}">{{ person.first_name }} {{ person.last_name }}</a><br>
+        <a href="{{ site.baseurl }}{{ person.url }}">
     {% endif %}
-    {% if person.position %}
-    {{person.position}}
-    {% endif %}
-</p>
+            <p>
+                {% if person.image %}
+                    <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}{{ person.image }}">
+                {% else %}
+                    <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}/assets/images/team_colored/placeholder.png">
+                {% endif %}
+                {{ person.first_name }} {{ person.last_name }}<br>
+                {% if person.position %}
+                {{person.position}}
+                {% endif %}
+            </p>
+        </a>
 {% endif %}
 {% endfor %}

@@ -73,10 +73,16 @@ project:
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
 external-project: 
 
-# The key of the video .md file (in _videos subfolder)
-video: 
-# The key of the preview video .md file (in _videos subfolder)
-preview-video:
+# (deprecated)
+# # The key of the video .md file (in _videos subfolder)
+# video: 
+# # The key of the preview video .md file (in _videos subfolder)
+# preview-video:
+
+# the youtube-id of the video
+youtube-id: 
+# the youtube-id of the preview-video
+preview-youtube-id: 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf: 

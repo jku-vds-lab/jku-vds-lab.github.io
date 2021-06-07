@@ -62,10 +62,17 @@ project:
 # Use this if you have an external project website
 external-project: 
 
-# The reference to the video entry
-video: 2021_preprint_multilevel-embedding
-# The reference to the preview video entry
-#preview-video:
+# (deprecated)
+# # The reference to the video entry
+# video: 2021_preprint_multilevel-embedding
+# # The reference to the preview video entry
+# #preview-video:
+
+# the youtube-id of the video
+youtube-id: jmYuzgFglLc
+# the youtube-id of the preview-video
+preview-youtube-id: 
+
 
 # the prerint
 pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf

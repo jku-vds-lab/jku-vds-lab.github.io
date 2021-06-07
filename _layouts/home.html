@@ -45,25 +45,31 @@
             <div id="recent-publications-div" class="publications-content">
             <!-- <ul class="publication-icon-list"> -->
                 {% assign sorted_publications = site.publications | sort: 'year' %} <!-- | where_exp:"item", 'item.year > 2019'-->
-                {% assign max_pubs = 6 %}
+                {% assign max_pubs = 5 %}
                 {% for publication in sorted_publications reversed %} <!-- "limit: 5" -->
                     {% if publication.hide or publication.non_group_project %}
                     {% else %}
                     <!-- <li> -->
-                        <div class="pubs">
-                            {% if publication.image %}
-                                <a href="{{ site.baseurl }}{{ publication.url }}">
-                                    <img alt="{{ publication.shortname }} screenshot"
-                                    class="paper-image-home-small"
-                                    src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}">
-                                </a>
-                            {% endif %}
-                            <p>
-                                <b><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title | truncate: 100 }}</a></b>
-                                <br>
-                                {{publication.journal-short}}, {{publication.year}}
-                            </p>
-                        </div>
+                        <a class="color-link home-color-link" href="{{ site.baseurl }}{{ publication.url }}">
+                            <div class="pubs">
+                                {% if publication.image %}
+                                    <!-- <a href="{{ site.baseurl }}{{ publication.url }}"> -->
+                                        <img alt="{{ publication.shortname }} screenshot"
+                                        class="paper-image-home-small"
+                                        src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}">
+                                    <!-- </a> -->
+                                {% endif %}
+                                <p>
+                                    <b>
+                                        <!-- <a href="{{ site.baseurl }}{{ publication.url }}"> -->
+                                            {{ publication.title | truncate: 80 }}
+                                        <!-- </a> -->
+                                    </b>
+                                    <br>
+                                    {{publication.journal-short}}, {{publication.year}}
+                                </p>
+                            </div>
+                        </a>
                     <!-- </li> -->
                     {% assign max_pubs = max_pubs | minus: 1 %}
                     {% endif %}
@@ -72,6 +78,13 @@
                         {% break %}
                     {% endif %}
                 {% endfor %}
+                <a class="color-link home-color-link" href="{{ site.baseurl }}/publications">
+                    <div class="pubs show-more-pubs">
+                        <p>
+                            More Publications
+                        </p>
+                    </div>
+                </a>
             <!-- </ul> -->
             </div>
             

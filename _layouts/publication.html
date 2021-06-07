@@ -4,7 +4,7 @@ layout: default
 <div class="publication">
 
   <header class="publication-title">
-    <h1>{{ page.title | remove: "| Visual Data Science Lab" }}</h1>
+    <h2>{{ page.title | remove: "| Visual Data Science Lab" }}</h2>
   </header>
 
   {% assign paper_content_url = site.paper_content_url %}
@@ -203,23 +203,48 @@ layout: default
       {% endif %}
     </ul>
 
-    {% if page.video or page.preview-video %}
-    <h2>Video(s)</h2>
+    
+
+    
+
+    {% if page.youtube-id %}
+      <div class="video">
+
+        <div class="video-wrapper">
+          <iframe src="//www.youtube.com/embed/{{page.youtube-id}}?controls=2&showinfo=0&iv_load_policy=3"
+            frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
     {% endif %}
+
+    {% if page.preview-youtube-id %}
+      <div class="video">
+
+        <div class="video-wrapper">
+          <iframe src="//www.youtube.com/embed/{{page.preview-youtube-id}}?controls=2&showinfo=0&iv_load_policy=3"
+            frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    {% endif %}
+
+    <!-- (deprecated) for old versions, where you had to create a video file -->
+    <!-- {% if page.video or page.preview-video %}
+      <h2>Video(s)</h2>
+    {% endif %} -->
     {% for video in site.videos %}
     {% if video.key == page.video or video.key == page.preview-video %}
     <div class="video">
-      <p><b>{{video.name}}</b></p>
+      <!-- <p><b>{{video.name}}</b></p> -->
       {% if video.youtube-id %}
       <div class="video-wrapper">
         <iframe src="//www.youtube.com/embed/{{video.youtube-id}}?controls=2&showinfo=0&iv_load_policy=3"
           frameborder="0" allowfullscreen></iframe>
       </div>
       {% endif %}
-      {% if video.file %}
+      <!-- {% if video.file %}
       <p><i class="fa fa-download"></i> &nbsp;<a href="{{paper_content_url}}{{video.file}}">Download Video</a>
         <p />
-        {% endif %}
+        {% endif %} -->
     </div>
     {% endif %}
     {% endfor %}
