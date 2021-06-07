@@ -1,4 +1,18 @@
 - author: streit 
+  title: "Telling Stories Through Embeddings"
+  event: "Bayer XAI Community" 
+  date: 2021-06-02
+  location: virtual event
+  type: invited talk
+
+- author: streit 
+  title: "Visual Exploration of Patterns and Relationships in Low-Dimensional Embeddings"
+  event: "Bio+Med+Vis Spring School" 
+  date: 2021-05-21
+  location: virtual event
+  type: invited talk
+
+- author: streit 
   title: "Telling Stories with Projections"
   event: "Data Stories Symposium" 
   date: 2020-11-26

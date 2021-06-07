@@ -62,7 +62,7 @@ video:
 # the prerint
 pdf: 2020_tiis_pathexplorer.pdf
 # A supplement PDF
-#supplement: 2017_preprint_taggle_supplement.pdf
+supplement: 2020_tiis_pathexplorer_supplements.pdf
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
