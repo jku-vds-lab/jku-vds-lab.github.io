@@ -1,117 +1,99 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
+<div class="home">
 
-<head>
-    {% include head_default.html %}
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.css" />
+    <header class="home-title">
+        <h1>Welcome</h1>
+        <!-- <h1>{{ page.title | remove: "| JKU Visual Data Science Lab" }}</h1> -->
+    </header>
 
-</head>
+    <article class="home-content-main">
 
-<body>
+        <h1>About</h1>
+        <p>
+            Welcome to the home of the Visual Data Science Lab! 
+            We are part of the <a href="https://www.jku.at/en/institute-of-computer-graphics/">Institute of Computer Graphics</a> at the <a href="https://www.jku.at/">Johannes Kepler University Linz</a> in Austria. 
+            Our research focuses on developing novel visual analysis methods and tools that enable users to make sense of complex and heterogeneous data. 
+            With our solutions we target problems from various fields of application, including cancer research, drug discovery, and manufacturing. 
+            Part of our research mission is to make the software we develop available as open source. See our <a href="https://github.com/JKU-ICG">Github</a> page for further details.
+        </p>
+                
+        <h2>Caleydo</h2>
+        <p>
+            Caleydo used to be a monolithic visual analysis framework originally developed at <a href="https://www.tugraz.at/home/">TU Graz</a>, targeted at biomolecular data, 
+            but has evolved into a more distributed collection of people, tools, software, and research projects.  
+            The activities are now continued by the <a href="{{ site.baseurl }}">JKU Visual Data Science Lab</a> at JKU Linz, <!-- href="https://www.jku.at/" -->
+            the <a href="https://vdl.sci.utah.edu/">Vis Design Lab</a> at the University of Utah, <!-- href="https://www.utah.edu/" -->
+            and the <a href="http://gehlenborglab.org/">Gehlenborg lab</a> in the Department of Biomedical Informatics at Harvard Medical School. <!-- href="https://dbmi.hms.harvard.edu/" -->
+            Some of the <a href="{{ site.baseurl }}/tools">tools</a> developed as part of the Caleydo initiative are now maintained and extended by our spin-off company, <a href="https://www.datavisyn.io/">datavisyn</a>.
+        </p>
+    </article>
 
-    <div class="wrap">
-        {% include header.html %}
+    <article class="home-content-aside">
 
-        <header class="home-title">
-            <h1>Welcome</h1>
-            <!-- <h1>{{ page.title | remove: "| JKU Visual Data Science Lab" }}</h1> -->
-        </header>
-
-        <article class="home-content-main">
-
-            <h1>About</h1>
-            <p>
-                Welcome to the home of the Visual Data Science Lab! 
-                We are part of the <a href="https://www.jku.at/en/institute-of-computer-graphics/">Institute of Computer Graphics</a> at the <a href="https://www.jku.at/">Johannes Kepler University Linz</a> in Austria. 
-                Our research focuses on developing novel visual analysis methods and tools that enable users to make sense of complex and heterogeneous data. 
-                With our solutions we target problems from various fields of application, including cancer research, drug discovery, and manufacturing. 
-                Part of our research mission is to make the software we develop available as open source. See our <a href="https://github.com/JKU-ICG">Github</a> page for further details.
-            </p>
-                    
-            <h2>Caleydo</h2>
-            <p>
-                Caleydo used to be a monolithic visual analysis framework originally developed at <a href="https://www.tugraz.at/home/">TU Graz</a>, targeted at biomolecular data, 
-                but has evolved into a more distributed collection of people, tools, software, and research projects.  
-                The activities are now continued by the <a href="{{ site.baseurl }}">JKU Visual Data Science Lab</a> at JKU Linz, <!-- href="https://www.jku.at/" -->
-                the <a href="https://vdl.sci.utah.edu/">Vis Design Lab</a> at the University of Utah, <!-- href="https://www.utah.edu/" -->
-                and the <a href="http://gehlenborglab.org/">Gehlenborg lab</a> in the Department of Biomedical Informatics at Harvard Medical School. <!-- href="https://dbmi.hms.harvard.edu/" -->
-                Some of the <a href="{{ site.baseurl }}/tools">tools</a> developed as part of the Caleydo initiative are now maintained and extended by our spin-off company, <a href="https://www.datavisyn.io/">datavisyn</a>.
-            </p>
-        </article>
-
-        <article class="home-content-aside">
-
-            <h1>Recent Publications</h1>
-            <div id="recent-publications-div" class="publications-content">
-            <!-- <ul class="publication-icon-list"> -->
-                {% assign sorted_publications = site.publications | sort: 'year' %} <!-- | where_exp:"item", 'item.year > 2019'-->
-                {% assign max_pubs = 5 %}
-                {% for publication in sorted_publications reversed %} <!-- "limit: 5" -->
-                    {% if publication.hide or publication.non_group_project %}
-                    {% else %}
-                    <!-- <li> -->
-                        <a class="color-link home-color-link" href="{{ site.baseurl }}{{ publication.url }}">
-                            <div class="pubs">
-                                {% if publication.image %}
+        <h1>Recent Publications</h1>
+        <div id="recent-publications-div" class="publications-content">
+        <!-- <ul class="publication-icon-list"> -->
+            {% assign sorted_publications = site.publications | sort: 'year' %} <!-- | where_exp:"item", 'item.year > 2019'-->
+            {% assign max_pubs = 5 %}
+            {% for publication in sorted_publications reversed %} <!-- "limit: 5" -->
+                {% if publication.hide or publication.non_group_project %}
+                {% else %}
+                <!-- <li> -->
+                    <a class="color-link home-color-link" href="{{ site.baseurl }}{{ publication.url }}">
+                        <div class="pubs">
+                            {% if publication.image %}
+                                <!-- <a href="{{ site.baseurl }}{{ publication.url }}"> -->
+                                    <img alt="{{ publication.shortname }} screenshot"
+                                    class="paper-image-home-small"
+                                    src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}">
+                                <!-- </a> -->
+                            {% endif %}
+                            <p>
+                                <b>
                                     <!-- <a href="{{ site.baseurl }}{{ publication.url }}"> -->
-                                        <img alt="{{ publication.shortname }} screenshot"
-                                        class="paper-image-home-small"
-                                        src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}">
+                                        {{ publication.title | truncate: 80 }}
                                     <!-- </a> -->
-                                {% endif %}
-                                <p>
-                                    <b>
-                                        <!-- <a href="{{ site.baseurl }}{{ publication.url }}"> -->
-                                            {{ publication.title | truncate: 80 }}
-                                        <!-- </a> -->
-                                    </b>
-                                    <br>
-                                    {{publication.journal-short}}, {{publication.year}}
-                                </p>
-                            </div>
-                        </a>
-                    <!-- </li> -->
-                    {% assign max_pubs = max_pubs | minus: 1 %}
-                    {% endif %}
+                                </b>
+                                <br>
+                                {{publication.journal-short}}, {{publication.year}}
+                            </p>
+                        </div>
+                    </a>
+                <!-- </li> -->
+                {% assign max_pubs = max_pubs | minus: 1 %}
+                {% endif %}
 
-                    {% if max_pubs <= 0 %}
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-                <a class="color-link home-color-link" href="{{ site.baseurl }}/publications">
-                    <div class="pubs show-more-pubs">
-                        <p>
-                            More Publications
-                        </p>
-                    </div>
-                </a>
-            <!-- </ul> -->
-            </div>
-            
+                {% if max_pubs <= 0 %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+            <a class="color-link home-color-link" href="{{ site.baseurl }}/publications">
+                <div class="pubs show-more-pubs">
+                    <p>
+                        More Publications
+                    </p>
+                </div>
+            </a>
+        <!-- </ul> -->
+        </div>
+        
+    </article>
+    <article class="home-content-bottom">
+        <article class="home-content-bottom-left">
+            <a style="font-size: 20px;" href="https://www.jku.at/en/institute-of-computer-graphics/press-events/icg-lab-talk-series/2020/#c98805">
+                <div class="link-tile" style="background-image: url({{ site.baseurl }}/assets/images/themes/DSC00360_Roberbtba-edit-blur.jpg);">
+                    <p>Invited Lab Talks</p>
+                </div>
+            </a>
         </article>
-        <article class="home-content-bottom">
-            <article class="home-content-bottom-left">
-                <a style="font-size: 20px;" href="https://www.jku.at/en/institute-of-computer-graphics/press-events/icg-lab-talk-series/2020/#c98805">
-                    <div class="link-tile" style="background-image: url({{ site.baseurl }}/assets/images/themes/DSC00360_Roberbtba-edit-blur.jpg);">
-                        <p>Invited Lab Talks</p>
-                    </div>
-                </a>
-            </article>
-            <article class="home-content-bottom-right">
-                <a style="font-size: 20px;" href="https://www.jku.at/en/institute-of-computer-graphics/teaching/student-projects/">
-                    <div class="link-tile" style="opacity: 0.85;background-image: url({{ site.baseurl }}/assets/images/themes/csm_Bibliothek_Studi_Lernen_2_0499517e10.jpg);">
-                        <p>Student Projects</p>
-                    </div>
-                </a>
-            </article>
+        <article class="home-content-bottom-right">
+            <a style="font-size: 20px;" href="https://www.jku.at/en/institute-of-computer-graphics/teaching/student-projects/">
+                <div class="link-tile" style="opacity: 0.85;background-image: url({{ site.baseurl }}/assets/images/themes/csm_Bibliothek_Studi_Lernen_2_0499517e10.jpg);">
+                    <p>Student Projects</p>
+                </div>
+            </a>
         </article>
-        {% include footer.html %}
-    </div>
-
-    {% if site.use_analytics == true %}
-    {% include google_analytics.html %}
-    {% endif %}
-
-</body>
-
-</html>
+    </article>
+</div>
