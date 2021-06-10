@@ -7,7 +7,64 @@ layout: default
     <h1>{{ page.title | remove: "| JKU Visual Data Science Lab" }}</h1>
   </header>
 
-  <article class="team-content-left">
+  <article class="team-content-main">
+    <div class="team-members-div">
+      <h1>Faculty</h1>
+      {% include role.html role="faculty" %}
+    </div>
+
+    <div class="team-members-div">
+      <h1>Research Associates & PhD Students</h1>
+      {% include role.html role="raPhD" %}
+    </div>
+
+    <div class="team-members-div">
+      <h1>Undergraduate Students</h1>
+      {% include role.html role="undergrad" %}
+    </div>
+
+    <div class="team-members-div">
+      <h1>Organizational</h1>
+      <div class="member">
+        <a href="https://www.jku.at/en/institute-of-computer-graphics/about-us/team/" target="_blank">
+          <p>
+            <i class="fa fa-calendar fa-3x person-image-small team-member-icon" aria-hidden="true"></i>
+            Administration
+          </p>
+        </a>
+      </div>
+      <div class="member">
+        <a href="https://www.jku.at/en/institute-of-computer-graphics/about-us/team/" target="_blank">
+          <p>
+            <i class="fa fa-wrench fa-3x person-image-small team-member-icon" aria-hidden="true"></i>
+            Technical Support
+          </p>
+        </a>
+      </div>
+    </div>
+
+    <div class="team-members-div">
+      <h1>PhD Graduates</h1>
+      {% include role.html role="phdgrad" %}
+    </div>
+
+    <div class="team-members-div">
+      <h1>Other Alumni</h1>
+      {% include role.html role="alumni" %}
+    </div>
+
+    <div class="team-members-div">
+      <h1>Collaborators</h1>
+      <ul class="institution-icon-list">
+        {% for collaborator in site.collaborators %}
+          <a href="{{ collaborator.website }}">{{ collaborator.name-short }}</a> <br>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </article>
+
+  <!-- <article class="team-content-left">
       <h1>Faculty</h1>
 
       {% include role.html role="faculty" %}
@@ -25,24 +82,23 @@ layout: default
 
       {% include role.html role="undergrad" %}
 
-     <!-- <h1>Contributors</h1> -->
+     <h1>Contributors</h1>
 
-      <!-- {% include role.html role="contributor" %} -->
-  </article>
-  <article class="team-content-mid"><div style="visibility: hidden;">placeholder</div></article>
-  <article class="team-content-right">
+      {% include role.html role="contributor" %}
+  </article> -->
+  <!-- <article class="team-content-right">
     
     <h1>PhD Graduates</h1>
 
     {% include role.html role="phdgrad" %}
 
-       <!--  <h1>Advisors</h1>
+        <h1>Advisors</h1>
 
       {% include role.html role="advisor" %}
 
      <h1>Collaborators</h1>
 
-      {% include role.html role="collaborator" %} -->
+      {% include role.html role="collaborator" %}
 
       <h1>Other Alumni</h1>
 
@@ -55,7 +111,7 @@ layout: default
         {% endfor %}
       </ul>
 
-  </article>
+  </article> -->
  
 
 </div>
