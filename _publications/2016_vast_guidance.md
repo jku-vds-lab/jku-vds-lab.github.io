@@ -30,7 +30,7 @@ bib:
 
 award:
 
-non_group_project: True
+non_group_project: False
 
 project: 
 external-project: 
