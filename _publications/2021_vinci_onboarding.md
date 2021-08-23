@@ -46,7 +46,7 @@ authors:
 - Wolfgang Aigner
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: VINCI 2021
+journal-short: VINCI
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2021
 
@@ -58,8 +58,8 @@ bib:
   editor: 
   publisher: Association for Computing Machinery
   address: New York, NY, USA
-  doi: doi.org/10.1145/3481549.3481558		# e.g.10.1109/TVCG.2020.3012063
-  url: https://doi.org/10.1145/3481549.3481558
+  doi: 10.1145/3481549.3481558		# e.g.10.1109/TVCG.2020.3012063
+  url: 
   volume: 
   number: 
   pages: 
