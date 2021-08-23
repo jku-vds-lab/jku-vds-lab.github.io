@@ -54,12 +54,12 @@ year: 2021
 bibentry: inproceedings
 bib:
   journal: 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
-  booktitle: The 14th International Symposium on Visual Information Communication and Interaction (VINCI ’21)
+  booktitle: Proceedings of the 14th International Symposium on Visual Information Communication and Interaction (VINCI ’21)
   editor: 
-  publisher:
-  address: 
-  doi: https://doi.org/10.1145/3481549.3481558		# e.g.10.1109/TVCG.2020.3012063
-  url: 
+  publisher: Association for Computing Machinery
+  address: New York, NY, USA
+  doi: doi.org/10.1145/3481549.3481558		# e.g.10.1109/TVCG.2020.3012063
+  url: https://doi.org/10.1145/3481549.3481558
   volume: 
   number: 
   pages: 
