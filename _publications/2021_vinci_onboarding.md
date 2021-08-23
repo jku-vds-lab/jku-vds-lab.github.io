@@ -15,7 +15,7 @@ abstract: "Comprehending and exploring large and complex data is becoming increa
 
 
 # set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
-paper_content_url:
+paper_content_url: data.caleydo.org
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True
 # uncomment the "hide" property, if you only want the publication to be displayed on your personal page (i.e. publications where you contributed, but does not have anything to do with the Vis Group e.g. Master Thesis,...)
@@ -56,7 +56,7 @@ bib:
   journal: 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: The 14th International Symposium on Visual Information Communication and Interaction (VINCI ’21)
   editor: 
-  publisher: ACM
+  publisher:
   address: 
   doi: https://doi.org/10.1145/3481549.3481558		# e.g.10.1109/TVCG.2020.3012063
   url: 
