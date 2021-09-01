@@ -1,7 +1,7 @@
 ---
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
-title: "Guide Me in Analysis: A Framework for Guidance Designersn"
+title: "Guide Me in Analysis: A Framework for Guidance Designers"
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
