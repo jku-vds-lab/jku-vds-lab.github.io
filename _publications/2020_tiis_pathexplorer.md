@@ -1,10 +1,10 @@
 ---
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
-title: "ProjectionPathExplorer: Exploring Visual Patterns in Projected Decision-Making Paths"
+title: "Projection Path Explorer: Exploring Visual Patterns in Projected Decision-Making Paths"
 key: 2020_tiis_pathexplorer
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
