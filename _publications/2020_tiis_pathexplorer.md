@@ -25,20 +25,20 @@ authors:
 - streit 
 
 journal-short: ACM TiiS
-year: 2020
+year: 2021
 
 bibentry: article
 bib:
-  journal: ACM Transactions on Interactive Intelligent Systems (TiiS), Special Issue on Interactive Visual Analytics for Making Explainable and Accountable Decisions (to appear)
+  journal: ACM Transactions on Interactive Intelligent Systems
   booktitle: 
   editor: 
   publisher:
   address: 
-  doi: 
-  url: https://arxiv.org/abs/2001.08372
-  volume: 
-  number: 
-  pages: 
+  doi: 10.1145/3387165
+  url: https://dl.acm.org/doi/10.1145/3387165
+  volume: 11
+  number: 3&ndash;4
+  pages: Article 22
   month: 
 
 preprint: https://arxiv.org/abs/2001.08372 # here you can put all preprint links (arxiv.org, osf.io,...)
