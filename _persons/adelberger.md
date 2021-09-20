@@ -12,7 +12,7 @@ role: raPhD
 location: "Johannes Kepler University Linz<br />
                 Institute of Computer Graphics<br />
                 Altenberger Straße 69<br />
-                Computer Science Building, 0352<br />
+                Computer Science Building, 0353<br />
                 A-4040 Linz, Austria"
 phone: "+43 732 2468 6643"
 email: patrick.adelberger@jku.at
