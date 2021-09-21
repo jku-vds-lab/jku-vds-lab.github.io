@@ -75,8 +75,8 @@ preview-youtube-id:
 
 
 # the prerint
-pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf
-#pdf: 2021_preprint_multilevel-embedding.pdf
+pdf: 2021_preprint_multilevel-embedding.pdf
+#pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
@@ -91,7 +91,7 @@ supplements:
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/projection-space-explorer
 
-abstract: "In this work, we propose an interactive visual approach for the exploration of structural relationships in embeddings of high-dimensional data. These structural relationships, such as item sequences, associations of items with groups, and hierarchies between groups of items, are defining properties of many real-world datasets. Nevertheless, most existing methods for the visual exploration of embeddings treat these structures as second-class citizens or do not take them into account at all. In our proposed analysis workflow, users explore enriched scatterplots of the embedding, in which relationships between items and/or groups are visually highlighted. The original high-dimensional data for single items, groups of items, or differences between connected items and groups is accessible through additional summary visualizations. We carefully tailored these summary and difference visualizations to the various data types and semantic contexts. During their exploratory analysis, users can externalize their insights by setting up additional groups and relationships between items and/or groups, thereby creating graphs that represent visual data stories. We demonstrate the utility and potential impact of our approach by means of two use cases and multiple examples from various domains.
+abstract: "In this work, we propose an interactive visual approach for the exploration and formation of structural relationships in embeddings of high-dimensional data. These structural relationships, such as item sequences, associations of items with groups, and hierarchies between groups of items, are defining properties of many real-world datasets. Nevertheless, most existing methods for the visual exploration of embeddings treat these structures as second-class citizens or do not take them into account at all. In our proposed analysis workflow, users explore enriched scatterplots of the embedding, in which relationships between items and/or groups are visually highlighted. The original high-dimensional data for single items, groups of items, or differences between connected items and groups is accessible through additional summary visualizations. We carefully tailored these summary and difference visualizations to the various data types and semantic contexts. During their exploratory analysis, users can externalize their insights by setting up additional groups and relationships between items and/or groups. We demonstrate the utility and potential impact of our approach by means of two use cases and multiple examples from various domains.
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
