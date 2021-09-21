@@ -60,7 +60,7 @@ non_group_project: False
 project: 
 
 # Use this if you have an external project website
-external-project: 
+external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 
 # (deprecated)
 # # The reference to the video entry
