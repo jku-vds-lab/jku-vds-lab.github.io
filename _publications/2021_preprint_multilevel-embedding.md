@@ -69,7 +69,7 @@ external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 # #preview-video:
 
 # the youtube-id of the video
-youtube-id: jmYuzgFglLc
+youtube-id: 0svaUdXNUCg
 # the youtube-id of the preview-video
 preview-youtube-id: 
 
