@@ -51,7 +51,7 @@ award:
 
 # Use this if you have an external project website
 external-project: https://coral.caleydoapp.org
-preprint: https://www.biorxiv.org/content/10.1101/2021.05.26.445802v1 # here you can put all preprint links (arxiv.org, osf.io,...)
+preprint: https://www.biorxiv.org/content/10.1101/2021.05.26.445802 # here you can put all preprint links (arxiv.org, osf.io,...)
 
 # The reference to the video entry
 video: 2021_preprint_coral

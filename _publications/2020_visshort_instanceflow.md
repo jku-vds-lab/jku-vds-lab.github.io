@@ -1,8 +1,8 @@
 ---
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
-title: "InstanceFlow: Visualizing the Evolution of Classifier Confusion on the Instance Level"
-key: 2020_preprint_instanceflow
+title: "InstanceFlow: Visualizing the Evolution of Classifier Confusion at the Instance Level"
+key: 2020_visshort_instanceflow
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
@@ -27,9 +27,10 @@ year: 2020
 
 bibentry: inproceedings
 bib:
-  booktitle: Proceedings of the IEEE Visualization Short Papers
-  publisher: IEEE Computer Society Press
-  url: https://arxiv.org/abs/2007.11353 
+  booktitle: 2020 IEEE Visualization Conference – Short Papers
+  publisher: IEEE
+  page: 291–295
+  doi: 10.1109/VIS47514.2020.00065
 
 preprint: https://arxiv.org/abs/2007.11353 # here you can put all preprint links (arxiv.org, osf.io,...)
 
@@ -63,21 +64,9 @@ supplements:
 #  linksym: true
 
 # Link to the repository where the code is hostet
-code: 
+code: https://github.com/jku-vds-lab/InstanceFlow
 
-abstract: "Classification is one of the most important supervised machine learning tasks. During the training of a classification model, the training instances are fed to the model multiple times (during multiple
-epochs) in order to iteratively increase the classification performance.
-The increasing complexity of models has led to a growing demand
-for model interpretabilty through visualizations. Existing approaches
-mostly focus on the visual analysis of the final model performance
-after training and are often limited to aggregate performance measures. In this paper we introduce InstanceFlow, a novel dual-view
-visualization tool that allows users to analyze the learning behavior
-of classifiers over time on the instance-level. A Sankey diagram
-visualizes the flow of instances throughout epochs, with on-demand
-detailed glyphs and traces for individual instances. A tabular view
-allows users to locate interesting instances by ranking and filtering. In this way, InstanceFlow bridges the gap between class-level
-and instance-level performance evaluation while enabling users to
-perform a full temporal analysis of the training process.
+abstract: "Classification is one of the most important supervised machine learning tasks. During the training of a classification model, the training instances are fed to the model multiple times (during multiple epochs) in order to iteratively improve classification performance. The increasing complexity of models has led to a growing demand to make them interpretable through visualization. Existing approaches mostly focus on the visual analysis of the final model performance after training and are often limited to aggregate performance measures. In this paper, we introduce InstanceFlow, a novel dual-view visualization tool that allows users to analyze the learning behavior of classifiers over time at the instance-level. A Sankey diagram visualizes the flow of instances throughout epochs, with on-demand detailed glyphs and traces for individual instances. A tabular view allows users to locate interesting instances by ranking and filtering. Thus, InstanceFlow bridges the gap between class-level and instance-level performance evaluation while enabling users to perform a full temporal analysis of the training process.
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
