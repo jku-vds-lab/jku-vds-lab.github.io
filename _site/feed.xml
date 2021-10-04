@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
+  
+
+    <head>
  <meta charset="utf-8">
 <title>JKU Visual Data Science Lab</title>
 <meta name="viewport" content="width=device-width">
@@ -25,12 +27,13 @@
 
 
 
+
 </head>
 
 
-    <body>
-    <div class="wrap">
-      <div class="navigation">
+      <body>
+      <div class="wrap">
+        <div class="navigation">
     <div class="logo">
         <a href="/">
             <!-- JKU Visual Data Science Lab -->
@@ -79,15 +82,15 @@
 </div>
 
 
-      <?xml version="1.0" encoding="UTF-8"?>
+        <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>JKU Visual Data Science Lab</title>
     <description>JKU Visual Data Science Lab.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 28 Jul 2021 15:49:30 +0200</pubDate>
-    <lastBuildDate>Wed, 28 Jul 2021 15:49:30 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Oct 2021 11:27:26 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Oct 2021 11:27:26 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -247,7 +250,7 @@
 </rss>
 
 
-      <footer>
+        <footer>
   <div class="footer-content">
     <div class="footer-list-social">
       <ul>
@@ -339,10 +342,10 @@
 
 </footer>
 
-    </div>
+      </div>
 
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+      
+      <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XB7C1C7YVE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -350,6 +353,9 @@
   gtag('js', new Date());
   gtag('config', "G-XB7C1C7YVE");
 </script>
-     
+       
     </body>
+    
+  
+  
 </html>

@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  {% if page.redirect_link %}
+    <meta http-equiv="refresh" content="0; URL={{page.redirect_link}}">
+    <link rel="canonical" href="{{page.redirect_link}}">
+  {% else %}
 
-    <body>
-    <div class="wrap">
-      {% include header.html %}
+    {% include head.html %}
 
-      {{ content }}
+      <body>
+      <div class="wrap">
+        {% include header.html %}
 
-      {% include footer.html %}
-    </div>
+        {{ content }}
 
-    {% if site.use_analytics == true %}
-    {% include google_analytics.html %}
-    {% endif %} 
+        {% include footer.html %}
+      </div>
+
+      {% if site.use_analytics == true %}
+      {% include google_analytics.html %}
+      {% endif %} 
     </body>
+    
+  {% endif %}
+  
 </html>
