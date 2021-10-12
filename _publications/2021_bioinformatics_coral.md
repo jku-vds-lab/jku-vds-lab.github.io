@@ -29,6 +29,9 @@ authors:
 journal-short: Bioinformatics
 year: 2021
 
+# if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
+publisherurl: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bt[…]/6384564?guestAccessKey=8b1777b2-4157-46ff-b5c2-0a69f1931cce # add link to publisher page of your publication
+
 bibentry: article
 bib:
   journal: Bioinformatics
