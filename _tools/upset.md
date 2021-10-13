@@ -1,4 +1,5 @@
 ---
+redirect_link: https://upset.app/
 layout: tool
 title: Visualizing Intersecting Sets
 name: UpSet

@@ -155,7 +155,16 @@ layout: default
 
     <h2>Resources</h2>
     <ul>
-      {% if page.bib.doi %}
+      {% if page.publisherurl %}
+      <li>
+        <a href="{{ page.publisherurl }}" target="_blank">
+          <p>
+            <i class="fa fa-globe fa-lg resources-icon" aria-hidden="true"></i>
+            Publisher
+          </p>
+        </a>
+      </li>
+      {% elsif page.bib.doi %}
       <li>
         <a href="https://dx.doi.org/{{ page.bib.doi }}" target="_blank">
           <p>

@@ -46,6 +46,9 @@ journal-short:
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year:
 
+# if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
+publisherurl: # add link to publisher page of your publication
+
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
