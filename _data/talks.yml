@@ -1,4 +1,18 @@
 - author: streit 
+  title: "Injecting Life into Visualizations for Biomedical Research"
+  event: "ISCB Academy Webinar Series" 
+  date: 2021-10-13
+  location: virtual event
+  type: invited talk  
+
+- author: streit 
+  title: "Collaborating with Domain Experts"
+  event: "Dagstuhl Seminar on Visualization of Biological Data" 
+  date: 2021-10-04
+  location: hybrid event
+  type: panel talk
+
+- author: streit 
   title: "Telling Stories Through Embeddings"
   event: "Bayer XAI Community" 
   date: 2021-06-02
