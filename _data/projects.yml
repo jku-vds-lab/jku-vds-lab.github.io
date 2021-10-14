@@ -1,4 +1,36 @@
 - author: streit 
+  agency: Bayer
+  website:
+  logo:
+  title: "Web-based Visualization of Chemical Reactions"
+  recipient: jku
+  pi:
+  copi:
+  partners:
+  time: 2021-2022
+  program:
+  project-link:
+  number: 
+  active: true
+  amount: 46k EUR
+
+- author: streit 
+  agency: Bayer
+  website:
+  logo:
+  title: "Interactive Exploration Tool for Chemical Structures"
+  recipient: jku
+  pi:
+  copi:
+  partners:
+  time: 2021
+  program:
+  project-link:
+  number: 
+  active: true
+  amount: 20k EUR
+
+- author: streit 
   agency: Linz Institute of Technology (LIT) / State of Upper Austria
   website:
   logo:
