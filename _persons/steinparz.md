@@ -4,7 +4,7 @@ first_name: Christian A.
 last_name: Steinparz
 title: "Christian Steinparz"
 degrees_post: "BSc MSc"
-cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/vcc/christian-steinparz/" #remove to show person directly on data-vis page
+# cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/vcc/christian-steinparz/" #remove to show person directly on data-vis page
 key: steinparz
 permalink: /persons/steinparz/
 role: raPhD
