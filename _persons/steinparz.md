@@ -5,6 +5,12 @@ last_name: Steinparz
 title: "Christian Steinparz"
 degrees_post: "BSc MSc"
 # cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/vcc/christian-steinparz/" #remove to show person directly on data-vis page
+location: "Johannes Kepler University Linz<br />
+                Institute of Computer Graphics<br />
+                Altenberger Straße 69<br />
+                Computer Science Building, 0352<br />
+                A-4040 Linz, Austria"
+github: "CursedSeraphim"
 key: steinparz
 permalink: /persons/steinparz/
 role: raPhD
