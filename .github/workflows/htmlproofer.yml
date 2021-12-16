@@ -1,0 +1,41 @@
+name: htmlproofer
+
+on:
+  #push
+
+  workflow_dispatch:
+    inputs:
+      branchname:
+        description: 'Run htmlproofer on branch'
+        default: 'htmlproofer'
+        required: true
+
+
+jobs:
+  htmlproofer1:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout ${{ github.event.inputs.branchname }}
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.inputs.branchname }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+      - name: Build jekyll site
+        run: |
+          bundle install
+          bundle update github-pages
+          bundle exec jekyll build
+
+      - name: Run HTMLProofer action
+        run: |
+          bundle exec htmlproofer --empty_alt_ignore --assume-extension  ./_site
+
+branding:
+  icon: "check"
+  color: "green"
+
