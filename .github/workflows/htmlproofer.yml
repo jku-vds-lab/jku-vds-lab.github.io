@@ -35,7 +35,7 @@ jobs:
         run: |
           bundle exec htmlproofer --empty_alt_ignore --assume-extension  ./_site
 
-branding:
-  icon: "check"
-  color: "green"
+          #branding:
+          #icon: "check"
+          #color: "green"
 
