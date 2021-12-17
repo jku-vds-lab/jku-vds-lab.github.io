@@ -60,15 +60,15 @@ video: 2021_fuzzy-spreadsheets_video
 # the prerint
 pdf: 2020_preprint_fuzzy-spreadsheets.pdf
 # A supplement PDF
-supplement: https://osf.io/8ypux/
+supplement: 
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-#- name: General UpSet
+- name: Fuzzy Spreadsheet
 #  # use link instead of abslink if you want to link to the master directory
-#  abslink: http://vials.io/talk/
+  abslink: https://osf.io/8ypux/
 #  # defaults to a download icon, use this if you want a link-out icon
-#  linksym: true
+  linksym: true
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/fuzzy-spreadsheet
