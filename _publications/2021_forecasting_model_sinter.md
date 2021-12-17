@@ -67,7 +67,7 @@ bib:
   pages:
   month: 
 
-preprint:	https://www.scopus.com/record/display.uri?eid=2-s2.0-85092267170&origin=inward&txGid=5f94bfde7a78639aa60327d0e70e1a23 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
+preprint:	http://digital.library.aist.org/pages/PR-380-218.htm # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
