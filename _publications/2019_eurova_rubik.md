@@ -81,7 +81,7 @@ supplements:
 #  linksym: true
 
 # Link to the repository where the code is hosted
-code: https://github.com/JKU-ICG/rubiks-cube-demonstrator
+code: https://github.com/jku-vds-lab/rubiks-cube-demonstrator
  
 
 abstract: "
