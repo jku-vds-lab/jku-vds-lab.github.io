@@ -3,7 +3,7 @@ layout: team-member
 first_name: Moritz
 last_name: Schöfl
 title: "Moritz Schöfl"
-cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/team/moritz-schoefl/" #remove to show person directly on data-vis page
+cg_website: "" #remove to show person directly on data-vis page
 key: schoefl
 permalink: /persons/schoefl/
 role: undergrad
