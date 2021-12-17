@@ -15,7 +15,7 @@ abstract: "Sintering is a complex production process where the process stability
 
 
 # set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
-paper_content_url: https://www.scopus.com/record/display.uri?eid=2-s2.0-85092267170&origin=inward&txGid=5f94bfde7a78639aa60327d0e70e1a23
+paper_content_url: https://dx.doi.org/10.33313/380/218
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True
 # uncomment the "hide" property, if you only want the publication to be displayed on your personal page (i.e. publications where you contributed, but does not have anything to do with the Vis Group e.g. Master Thesis,...)
