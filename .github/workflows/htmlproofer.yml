@@ -35,7 +35,7 @@ jobs:
 
       - name: Run HTMLProofer action
         run: |
-          bundle exec htmlproofer --empty_alt_ignore --assume-extension  ./_site
+          bundle exec htmlproofer --empty_alt_ignore --only_4xx  --url-ignore "fonts.gstatic.com,www.linkedin.com,github.com/jku-vds-lab/rubiks-cube-demonstrator,www.amd.com,support.amd.com,dx.doi.org/10.33313/380/218" --assume-extension  ./_site
 
           #branding:
           #icon: "check"
