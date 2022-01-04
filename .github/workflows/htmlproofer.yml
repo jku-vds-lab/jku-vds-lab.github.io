@@ -1,7 +1,9 @@
 name: htmlproofer
 
 on:
-  #push:
+  push:
+    branches:
+      - htmlproofer
 
   workflow_dispatch:
     inputs:
