@@ -1,4 +1,5 @@
 # JKU Visual Data Science Lab Website
+[![htmlproofer](https://github.com/jku-vds-lab/jku-vds-lab.github.io/actions/workflows/htmlproofer.yml/badge.svg?branch=htmlproofer&event=push)](https://github.com/jku-vds-lab/jku-vds-lab.github.io/actions/workflows/htmlproofer.yml)
 
 The new Visual Data Science Lab Website built with [Jekyll](https://jekyllrb.com),
 [SASS](https://www.sass-lang.com),
