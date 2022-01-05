@@ -27,7 +27,7 @@ authors:
 - walchshofer
 - dhanoa
 - humer
-- schoefl
+- heckmann
 - steinparz
 - streit
 
