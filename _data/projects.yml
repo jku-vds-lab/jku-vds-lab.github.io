@@ -1,18 +1,34 @@
 - author: streit 
-  agency: Bayer
+  agency: Austrian Science Fund (FWF)
   website:
   logo:
-  title: "Web-based Visualization of Chemical Reactions"
+  title: "Human-Centered Artificial Intelligence"
   recipient: jku
   pi:
   copi:
   partners:
-  time: 2021-2022
+  time: 2022-2026
   program:
   project-link:
   number: 
   active: true
-  amount: 46k EUR
+  amount: 1.05M EUR
+
+- author: streit 
+  agency: Boehringer Ingelheim Regional Center Vienna
+  website:
+  logo:
+  title: "Development of Visualizations for Curation and Exploration of Complex Ontologies and Knowledge Graphs"
+  recipient: jku
+  pi:
+  copi:
+  partners:
+  time: 2022 - 2024
+  program:
+  project-link:
+  number:
+  active: true
+  amount: 182k EUR  
 
 - author: streit 
   agency: Bayer
@@ -92,7 +108,7 @@
   project-link:
   number: 854184
   active: true
-  amount: 19 M EUR
+  amount: 19M EUR
 
 - author: streit 
   agency: Austrian Science Fund (FWF), State of Upper Austria, Nationalstiftung
