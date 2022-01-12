@@ -32,7 +32,7 @@ authors:
 - streit
 
 journal-short: Preprint
-year: 2021
+year: 2022
 
 bibentry: article
 bib:
