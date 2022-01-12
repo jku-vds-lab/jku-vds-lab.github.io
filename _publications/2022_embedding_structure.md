@@ -13,11 +13,11 @@ non_group_project: False
 
 
 # The shortname is used for auto-generated titels
-shortname: MultilevelEmbeddings
+shortname: Embedding Structure
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2021_preprint_multilevel-embedding_small.png
+image: 2022_embedding_structure_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2021_preprint_multilevel-embedding_large.png
+image_large: 2022_embedding_structure_large.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -64,7 +64,7 @@ external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 
 # (deprecated)
 # # The reference to the video entry
-# video: 2021_preprint_multilevel-embedding
+# video: 2022_embedding_structure
 # # The reference to the preview video entry
 # #preview-video:
 
@@ -75,8 +75,8 @@ preview-youtube-id:
 
 
 # the prerint
-pdf: 2021_preprint_multilevel-embedding.pdf
-#pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf
+pdf: paper_2022_embedding_structure.pdf
+#pdf_local: /assets/papers/paper_2022_embedding_structure
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
