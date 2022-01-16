@@ -13,11 +13,11 @@ non_group_project: False
 
 
 # The shortname is used for auto-generated titels
-shortname: MultilevelEmbeddings
+shortname: Embedding Structure
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2021_preprint_multilevel-embedding_small.png
+image: 2022_embedding_structure_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2021_preprint_multilevel-embedding_large.png
+image_large: 2022_embedding_structure_large.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -32,7 +32,7 @@ authors:
 - streit
 
 journal-short: Preprint
-year: 2021
+year: 2022
 
 bibentry: article
 bib:
@@ -64,19 +64,19 @@ external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 
 # (deprecated)
 # # The reference to the video entry
-# video: 2021_preprint_multilevel-embedding
+# video: 2022_embedding_structure
 # # The reference to the preview video entry
 # #preview-video:
 
 # the youtube-id of the video
-youtube-id: 0svaUdXNUCg
+youtube-id: yBCe8SqGwK8
 # the youtube-id of the preview-video
 preview-youtube-id: 
 
 
 # the prerint
-pdf: 2021_preprint_multilevel-embedding.pdf
-#pdf_local: /assets/papers/2021_preprint_multilevel-embedding.pdf
+pdf: paper_2022_embedding_structure.pdf
+#pdf_local: /assets/papers/paper_2022_embedding_structure
 # A supplement PDF
 #supplement: 2017_preprint_taggle_supplement.pdf
 
@@ -100,4 +100,4 @@ abstract: "In this work, we propose an interactive visual approach for the explo
 
 # Acknowledgements
 
-This work was supported in part by the Boehringer Ingelheim Regional Center Vienna, the State of Upper Austria and the Austrian Federal Ministry of Education, Science and Research via the LIT ⁠– Linz Institute of Technology (LIT-2019-7-SEE-117), by the State of Upper Austria (Human-Interpretable Machine Learning), by the Austrian Research Promotion Agency (FFG 851460, FFG 854184). "Pro2Future" is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry of Transport, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.
+This work was supported in part by the Boehringer Ingelheim Regional Center Vienna, the State of Upper Austria and the Austrian Federal Ministry of Education, Science and Research via the LIT ⁠– Linz Institute of Technology (LIT-2019-7-SEE-117), the State of Upper Austria (Human-Interpretable Machine Learning), and the Austrian Science Fund (FWF DFH 23-N). This work was supported in part by the FFG, Contract No. 881844: "Pro2Future is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.".
