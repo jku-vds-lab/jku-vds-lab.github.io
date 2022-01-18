@@ -34,18 +34,18 @@
   type: invited talk
 
 - author: streit 
-  title: "Leveraging Provenance for Storytelling, Reproducibility, and Meta-Analysisn"
-  event: Central European Seminar on Computer Graphics (CESCG)
-  date: 2020-05-04
-  location: virtual event
-  type: keynote address  
-
-- author: streit 
   title: "Telling Stories with Projections"
   event: "Data Stories Symposium" 
   date: 2020-11-26
   location: virtual event
   type: invited talk
+
+- author: streit 
+  title: "Leveraging Provenance for Storytelling, Reproducibility, and Meta-Analysisn"
+  event: Central European Seminar on Computer Graphics (CESCG)
+  date: 2020-05-04
+  location: virtual event
+  type: keynote address  
 
 - author: streit 
   title: "Visual Data Science & Explainable AI"
