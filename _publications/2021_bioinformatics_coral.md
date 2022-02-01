@@ -41,10 +41,10 @@ bib:
   address: 
   doi: 10.1093/bioinformatics/btab695
   url: 
-  volume:
-  number:
-  pages:
-  month: 
+  volume: 37
+  number: 23
+  pages: 4559-4561
+  month: 12
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:

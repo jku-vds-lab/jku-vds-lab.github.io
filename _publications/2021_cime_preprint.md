@@ -2,7 +2,7 @@
 layout: publication # do not change
 
 #### these fields are mandatory. please fill them out
-title: "ChemInformatics Model Explorer (CIME): Exploratory Analysis of chemical Model Explanations" # title of your publication 
+title: "ChemInformatics Model Explorer (CIME): Exploratory Analysis of Chemical Model Explanations" # title of your publication 
 
 # choose one of the following types:
 # "paper": Peer-Reviewed Journal and Conference Papers
