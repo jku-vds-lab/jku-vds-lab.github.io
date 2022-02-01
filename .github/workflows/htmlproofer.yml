@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - htmlproofer
+      - master
 
   workflow_dispatch:
     inputs:
