@@ -33,7 +33,7 @@ bib:
   editor: Cardoso, Jaime and others
   series: Lecture Notes in Computer Science
   doi: 10.1007/978-3-030-61166-8_2
-  url: 
+  url: https://link.springer.com/chapter/10.1007%2F978-3-030-61166-8_2
   volume: 12446
   number: 
   pages: 13--22

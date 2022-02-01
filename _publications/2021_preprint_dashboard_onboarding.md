@@ -52,7 +52,7 @@ non_group_project: False
 project:
 
 # Use this if you have an external project website
-external-project:
+external-project: https://osf.io/zsb5a/
 
 # The reference to the video entry
 video:
@@ -62,7 +62,7 @@ video:
 # the prerint
 pdf: 2021_preprint_dashboard-onboarding.pdf
 # A supplement PDF
-supplement: https://osf.io/zsb5a/
+supplement: 
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
