@@ -41,8 +41,8 @@ bib:
   editor: 
   publisher: 
   address: 
-  doi:
-  url: https://osf.io/ujbrs
+  doi: 10.31219/osf.io/ujbrs
+  url: 
   volume: 
   number: 
   pages: 

@@ -48,20 +48,20 @@ authors:
 - Wolfgang Aigner
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: Preprint - Elsevier VisInf
+journal-short: Preprint
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2022
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Elsevier Visual Informatics 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: arXiv 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
-  publisher: Elsevier
-  address: Amsterdam, Netherlands
+  # publisher: Elsevier
+  # address: Amsterdam, Netherlands
   doi: # e.g.10.1109/TVCG.2020.3012063
-  url: 
+  url: https://arxiv.org/abs/2202.02038
   volume: 
   number: 
   pages: 
