@@ -2,14 +2,11 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings"
+#key: 
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
-paper_content_url: 
-
-hide: False
-non_group_project: False
-
+#paper_content_url: 
 
 
 # The shortname is used for auto-generated titels
@@ -31,17 +28,17 @@ authors:
 - steinparz
 - streit
 
-journal-short: Preprint
+journal-short: IEEE TVCG
 year: 2022
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
   booktitle: 
   editor: 
   publisher: 
   address: 
-  doi: 10.31219/osf.io/ujbrs
+  doi: 10.1109/TVCG.2022.3156760
   url: 
   volume: 
   number: 
