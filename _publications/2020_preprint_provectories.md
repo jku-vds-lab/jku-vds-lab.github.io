@@ -4,7 +4,7 @@ layout: publication
 title: "Provectories: Embedding-based Analysis of Interaction Provenance Data"
 key: 2020_preprint_provectories
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url: 
 
@@ -24,18 +24,18 @@ authors:
 - stitz
 - streit 
 
-journal-short: Preprint
-year: 2020
+journal-short: IEEE TVCG
+year: 2021
 
 bibentry: article
 bib:
-  journal: Preprint
+  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
   booktitle: 
   editor: 
   publisher: 
   address: 
-  doi: 
-  url: https://osf.io/mtfxn/
+  doi: 10.1109/TVCG.2021.3135697
+  url:
   volume: 
   number: 
   pages: 
