@@ -126,7 +126,7 @@ $md-lg-display: new-breakpoint(min-width 751px max-width 1023px $medium-display-
 .navigation {
   display: block;
   // height: 40px; // commented by gini
-  margin-bottom: 5px; // 20px; //changed by gini
+  margin-bottom: 0px; // 20px; //changed by gini, changed from 5px to 0px by stefan
 
   @include media($small-display) {
     margin-right: 0px;
@@ -137,11 +137,13 @@ $md-lg-display: new-breakpoint(min-width 751px max-width 1023px $medium-display-
 .navigation-buttons {
   display: block;
   float: right;
-  padding-top: 6px;
+  padding-top: 0px; // changed from 6px by stefan
+  margin-top: -20px; // changed from 0px by stefan
 
   @include media($small-display) {
     margin-right: 0px;
     padding-top: 0px;
+    margin-top: 0px; // added by stefan
   }
 }
 
@@ -180,7 +182,7 @@ $md-lg-display: new-breakpoint(min-width 751px max-width 1023px $medium-display-
 
 
 body {
-  margin-top: 30px;
+  margin-top: 20px; // changed by stefan from 30px
   margin-left: 60px;
   margin-right: 60px;
 
@@ -850,8 +852,8 @@ footer {
 
   background: $footer-background;
   width: 100%;
-  margin-top: 15px;
-  padding-top: 15px;
+  margin-top: 5px;
+  padding-top: 10px;
   border-top: 4px solid $footer-border-color;
 
   .logo-footer-svg {
