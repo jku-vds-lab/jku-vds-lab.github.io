@@ -164,6 +164,7 @@ $md-lg-display: new-breakpoint(min-width 751px max-width 1023px $medium-display-
 
 .logo-header-svg {
   height: 80px; // 40 -> 80 // modified by gini
+  margin-bottom: 10px; // modified by stefan
 
   @include media($small-display) {
     height: 60px; // 20 -> 60 // modified by gini
