@@ -53,17 +53,21 @@ layout: default
       {% include role.html role="alumni" %}
     </div>
 
-    <div class="team-members-div">
+    <div class="collaborators-div">
       <h1>Collaborators</h1>
-      <ul class="institution-icon-list">
-        {% for collaborator in site.collaborators %}
-          <a href="{{ collaborator.website }}">{{ collaborator.name-short }}</a> <br>
-        {% endfor %}
-      </ul>
+      {% include collaborator.html %}
     </div>
 
   </article>
 
+  <!-- 
+   <ul class="institution-icon-list">
+        {% for collaborator in site.collaborators %}
+          <a href="{{ collaborator.website }}">{{ collaborator.name-short }}</a> <br>
+        {% endfor %}
+      </ul>
+  -->
+  
   <!-- <article class="team-content-left">
       <h1>Faculty</h1>
 

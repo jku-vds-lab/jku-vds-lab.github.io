@@ -5,4 +5,5 @@ name: Harvard John A. Paulson School of Engineering and Applied Sciences, Visual
 name-short: Harvard John A. Paulson
 # location: Linz, Austria
 website: https://vcg.seas.harvard.edu/
+logo: harvard.vcg.jpg
 ---

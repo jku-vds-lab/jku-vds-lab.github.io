@@ -5,4 +5,5 @@ name: Boehringer Ingelheim, Regional Center Vienna
 name-short: Boehringer Ingelheim
 # location: Linz, Austria
 website: https://www.boehringer-ingelheim.com/
+logo: Boehringer_Ingelheim_Logo.svg
 ---

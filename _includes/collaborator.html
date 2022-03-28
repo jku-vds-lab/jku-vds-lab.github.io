@@ -1,0 +1,16 @@
+{% for collaborator in site.collaborators %}
+
+    <div class="collaborator">        
+        <a href="{{ collaborator.website }}">
+        <p>
+            {% if collaborator.logo %}            
+                <img alt="{{ collaborator.name }}" class="collaborator-logo" src="{{site.baseurl}}/assets/images/logos/{{collaborator.logo}}">
+            {% else %}
+                {{ collaborator.name-short }}
+            {% endif %}
+        </p>
+        </a>
+           
+    </div>
+
+{% endfor %}

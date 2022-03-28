@@ -1216,6 +1216,35 @@ ul.project-icon-list li {
   }
 }
 
+// collaborators
+.collaborators-div{
+  @include row(); 
+}
+
+.collaborators-div .collaborator{
+  width: 31%;
+  float: left;
+  margin-right: 12px;
+  margin-bottom: 10px;
+
+  @include media($md-lg-display) {
+    width: 45%;
+  }
+  @include media($sm-md-display) {
+    width: 100%;
+  }
+}
+
+.collaborator p{
+  height: 100px;
+  margin-bottom: 20px;
+  align-items: center;
+  display: flex;
+}
+
+.collaborator-logo {
+    height: 80px;
+}
 
 .institution-icon-list{
   padding-left: 5px !important;

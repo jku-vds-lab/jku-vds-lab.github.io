@@ -5,4 +5,5 @@ name: St. Pölten University of Applied Sciences, Institute of Creative\Media/Te
 name-short: St. Pölten University of Applied Sciences
 # location: Linz, Austria
 website: https://icmt.fhstp.ac.at/
+logo: logo_fh_poelton.png
 ---
