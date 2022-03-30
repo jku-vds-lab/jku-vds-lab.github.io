@@ -1325,7 +1325,7 @@ ul.project-icon-list li {
   float: left;
   margin-right: 12px;
   margin-bottom: 10px;
-  padding: 2px;
+  padding: 2px;  
 
   @include media($md-lg-display) {
     width: 45%;
@@ -1439,4 +1439,46 @@ ul.project-icon-list li {
   opacity: 0.4;
   color: black;
   // background-color: $home-color-light;
+}
+
+@mixin vertical-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+// added by stefan
+.more-pubs{
+  opacity: 1;
+  color: white;
+  height: 80px;
+  
+  //margin-top: 50%;
+  min-height: 0px !important;
+  background-color: $home-color;
+  //background-image: url("/assets/images/papers/2020_tiis_pathexplorer_small.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  //padding-top: 40px !important;
+  //text-align: center;
+  font-weight: bold;
+  font-size: $page-content-font-size *1.5;
+
+  transition-property: background-color, color;
+  transition-duration: 500ms;
+  transition-timing-function: ease;
+  transition-delay: 25ms; 
+  
+}
+
+.more-pubs p{
+ @include vertical-align(); 
+ text-align: center;
+}
+
+.more-pubs:hover{
+  opacity: 1.0;
+  color: black;
+  background-color: $home-color-light;
 }
