@@ -365,16 +365,16 @@ p {
   }
   ul {
     @extend %default-ul;
-    @include dotted-link-underline;
+    //@include dotted-link-underline; // commented out by stefan
   }
 
   ol {
     @extend %default-ol;
-    @include dotted-link-underline;
+    //@include dotted-link-underline; // commented out by stefan
   }
 
   p {
-    @include dotted-link-underline;
+    //@include dotted-link-underline; // commented out by stefan
   }
 
   font-family: $page-content-font-family;
@@ -758,7 +758,7 @@ ul.post-list {
 
   ul {
     @extend %default-ul;
-    @include dotted-link-underline;
+    //@include dotted-link-underline; // commented out by stefan
     list-style-type: none;
     padding: 0;
     margin: 0px;
@@ -1067,7 +1067,7 @@ footer {
   width: 200px;
   height: 80px;
 
-  @include dotted-link-underline;
+  //@include dotted-link-underline; // commented out by stefan
 }
 
 .publications-content{
@@ -1168,7 +1168,7 @@ ul.project-icon-list li {
 // }
 
 .linked-members{
-  @include dotted-link-underline;
+  // @include dotted-link-underline; // commented out by stefan
 }
 
 .linked-members a{
@@ -1176,7 +1176,7 @@ ul.project-icon-list li {
 }
 
 .team-content-right{
-  @include dotted-link-underline;
+  // @include dotted-link-underline; // commented out by stefan
 }
 
 .team-member-content-aside ul a{
