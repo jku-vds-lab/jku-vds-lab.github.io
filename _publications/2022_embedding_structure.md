@@ -43,7 +43,7 @@ bib:
   volume: 
   number: 
   pages: 
-  month: 
+  month: March
 
 preprint: https://osf.io/ujbrs # here you can put all preprint links (arxiv.org, osf.io,...)
 

@@ -2,14 +2,14 @@
 layout: publication # do not change
 
 #### these fields are mandatory. please fill them out
-title: "Perspectives of Visualization Onboarding and Guidance in VA" # title of your publication 
+title: "Visualization Onboarding Grounded in Educational Theories" # title of your publication 
 
 # choose one of the following types:
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
 type: preprint
-abstract: "A typical problem in Visual Analytics is that users are highly trained experts in their application domains, but have mostly no experience in using VA systems. Thus, users often have difficulties interpreting and working with visual representations. To overcome these problems, user assistance can be incorporated into VA systems to guide experts through the analysis while closing their knowledge gaps. Different types of user assistance can be applied to extend the power of VA, enhance the user's experience, and broaden the audience for VA. Although different approaches to visualization onboarding and guidance in VA already exist, there is a lack of research on how to design and integrate them in effective and efficient ways. Therefore, we aim at putting together the pieces of the mosaic to form a coherent whole. Based on the Knowledge-Assisted Visual Analytics model, we contribute a conceptual model of user assistance for VA by integrating the process of visualization onboarding and guidance as the two main approaches in this direction. As a result, we clarify and discuss the commonalities and differences between visualization onboarding and guidance, and discuss how they benefit from the integration of knowledge extraction and exploration. Finally, we discuss our descriptive model by applying it to VA tools integrating visualization onboarding and guidance, and showing how they should be utilized in different phases of the analysis in order to be effective and accepted by the user. " 
+abstract: "The aim of visualization is to support people in dealing with large and complex information structures, to make these structures more comprehensible, facilitate exploration, and enable knowledge discovery. However, users often have problems reading and interpreting data from visualizations, in particular when they experience them for the first time. A lack of visualization literacy, i.e., knowledge in terms of domain, data, visual encoding, interaction, and also analytical methods can be observed. To support users in learning how to use new digital technologies, the concept of onboarding has been successfully applied in other domains. However, it has not received much attention from the visualization community so far. This chapter aims to fill this gap by defining the concept and systematically laying out the design space of onboarding in the context of visualization as a descriptive design space. On this basis, we present a survey of approaches from the academic community as well as from commercial products, especially surveying educational theories that inform the onboarding strategies. Additionally, we derived design considerations based on previous publications and present some guidelines for the design of visualization onboarding concepts. " 
 
 # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
@@ -26,11 +26,11 @@ paper_content_url:
 
 #### the following fields are optional, but it is recommended to enter as much information as possible
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
-shortname: PerspectivesOnboarding
+shortname: VisualizationOnboarding
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
-image: 2022_elsevier_perspectives_onboarding.png
+image: 2022_arxiv_visualization_onboarding.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
-image_large: 2022_elsevier_perspectives_onboarding_teaser.png
+image_large: 2022_arxiv_visualization_onboarding_teaser.png
 
 # Authors in the "database" can be used with just the key that is specified in the corresponding .md file (usually it is the lastname in lower case e.g. doe). Authors that do not have an individual page here should be stated with their full name (e.g. John Doe)
 # each author is one item in the list. the list is enumerated with dashes ("-")
@@ -41,34 +41,34 @@ image_large: 2022_elsevier_perspectives_onboarding_teaser.png
 # - Max Mustermann # there is no .md file for this person.
 authors:
 - Christina Stoiber
-- Davide Ceneda
 - Markus Wagner
-- Victor Schetinger
-- Theresia Gschwandtner
+- Florian Grassinger
+- Margit Pohl
+- stitz
 - streit
-- Silvia Miksch
+- Benjamin Potzmann
 - Wolfgang Aigner
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: Preprint - Elsevier VisInf
+journal-short: Preprint - Springer Nature
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2022
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Elsevier Visual Informatics (to appear)		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Springer Nature (to appear)		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
-  publisher: Elsevier
-  doi: # e.g.10.1109/TVCG.2020.3012063
-  url: 
+  publisher: Springer (ArXiv Preprint)
+  doi: 10.48550/arXiv.2203.11134 # e.g.10.1109/TVCG.2020.3012063
+  url: https://doi.org/10.48550/arXiv.2203.11134
   volume: 
   number: 
   pages: 
-  month: 
+  month: March
 
-preprint: https://arxiv.org/abs/2202.02038	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
+preprint: https://arxiv.org/abs/2203.11134	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
@@ -92,7 +92,7 @@ youtube-id:
 preview-youtube-id: 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: 2022_elsevier_perspectives_onboarding.pdf
+pdf: 2022_arxiv_Visualization.Onboarding.Grounded.in.Educational.Theories.pdf
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 
@@ -112,4 +112,4 @@ code:
 
 # Acknowledgements
 
-We would like to thank Frederico Limberger and Nelogica for their support in evaluating Profit, and all participants who attended our Application Spotlight Workshop at the IEEE Vis 2019 discussing and providing very helpful feedback to our approach. This work was supported by the Austrian Science Fund (FWF) as part of the projects VisOnFire and KnoVA (#P27975-NBL, #P31419-N31), the Vienna Science and Technology Fund (WWTF) via the grant ICT19-047 (GuidedVA), the Austrian Ministry for Transport, Innovation and Technology (BMVIT) under the ICT of the Future program via the SEVA project (#874018), as well as by the FFG, Contract No. 854184: ”Pro2Future” is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry for Transport, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs, and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.
+This work was funded by the Austrian Science Fund as part of the VisOnFire project (FWF P27975-NBL), the Austrian Ministry for Transport, Innovation and Technology (BMVIT) under the ICT of the Future program via the SEVA project (no. 874018), as well as the FFG, Contract No. 854184: "Pro2Future", which is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry for Transport, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Aairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.
