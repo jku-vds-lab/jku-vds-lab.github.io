@@ -12,9 +12,9 @@ paper_content_url:
 # The shortname is used for auto-generated titels
 shortname: Provectories
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2020_preprint_provectories.png
+image: 2021_tvcg_provectories.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2020_preprint_provectories_teaser.png
+image_large: 2021_tvcg_provectories_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -39,7 +39,7 @@ bib:
   volume: 
   number: 
   pages: 
-  month: 
+  month: December
 
 preprint: https://osf.io/mtfxn/ # here you can put all preprint links (arxiv.org, osf.io,...)
 
@@ -52,7 +52,7 @@ non_group_project: False
 project: 
 
 # Use this if you have an external project website
-external-project: https://sensemaking-paper--projection-path-explorer.netlify.app/
+external-project: https://provectories.jku-vds-lab.at/
 
 # The reference to the video entry
 video: 
@@ -75,7 +75,7 @@ supplements:
 # Link to the repository where the code is hostet
 code: 
 
-abstract: "Understanding user behavior patterns and visual analysis strategies is a long-standing challenge. Existing approaches rely largely on time-consuming manualprocesses such as interviews and the analysis of observational data. While it is technically possible to capture a history of user interactions and application states, it remains difficult to extract and describe analysis strategies based on interaction provenance. In this paper, we propose a novel visual approach to meta-analysis of interaction provenance.  We capture single and multiple user sessions as graphs of high-dimensional application states. Our meta-analysis is based on two different types of two-dimensional embeddings of these high-dimensional states: layouts based on (i) topology and (ii) attribute similarity. We applied these visualization approaches to synthetic and real user provenance data. From our visualizations, we were able to extract patterns for data types and analytical reasoning strategies."
+abstract: "Understanding user behavior patterns and visual analysis strategies is a long-standing challenge. Existing approaches rely largely on time-consuming manual processes such as interviews and the analysis of observational data. While it is technically possible to capture a history of user interactions and application states, it remains difficult to extract and describe analysis strategies based on interaction provenance. In this paper, we propose a novel visual approach to the meta-analysis of interaction provenance. We capture single and multiple user sessions as graphs of high-dimensional application states. Our meta-analysis is based on two different types of two-dimensional embeddings of these high-dimensional states: layouts based on (i) topology and (ii) attribute similarity. We applied these visualization approaches to synthetic and real user provenance data captured in two user studies. From our visualizations, we were able to extract patterns for data types and analytical reasoning strategies."
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
@@ -83,5 +83,4 @@ abstract: "Understanding user behavior patterns and visual analysis strategies i
 
 # Acknowledgements
 
-This work was supported in part by the FFG, Contract No. 854184: "Pro2Future" is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry of Transport, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.
-Additional support was granted by the State of Upper Austria and the Austrian Federal Ministry of Education, Science and Research via the LIT -- Linz Institute of Technology (LIT-2019-7-SEE-117), and by the State of Upper Austria (Human-Interpretable Machine Learning).
+We would like to thank Kiran Gadhave and Alexander Lex for providing us with interaction provenance data for the second use case and for answering our questions. This work was supported by the FFG, Contract No. 881844: "Pro\textsuperscript{2}Future is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG." Additional support was granted by the Federal State of Upper Austria and the Austrian Federal Ministry of Education, Science and Research via the LIT -- Linz Institute of Technology (LIT-2019-7-SEE-117), and by the Federal State of Upper Austria (Human-Interpretable Machine Learning).
