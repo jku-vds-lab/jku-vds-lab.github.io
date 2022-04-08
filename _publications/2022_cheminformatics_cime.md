@@ -74,33 +74,6 @@ paper_content_url:
 # non_group_project: True
 
 
-
-# abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: ChemRxiv
-# when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2021
-
-# if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
-publisherurl: # add link to publisher page of your publication
-
-# what is the publication type and other bib specific properties
-bibentry: article
-bib:
-  journal: ChemRxiv		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
-  booktitle: 
-  editor: 
-  publisher: 
-  address: 
-  doi: 10.26434/chemrxiv-2021-crpd0		# e.g.10.1109/TVCG.2020.3012063
-  url: https://doi.org/10.26434/chemrxiv-2021-crpd0
-  volume: 
-  number: 
-  pages: 
-  month: 
-
-preprint: https://doi.org/10.26434/chemrxiv-2021-crpd0 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
-
-
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
 
