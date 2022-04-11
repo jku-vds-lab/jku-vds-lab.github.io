@@ -344,6 +344,18 @@ p {
   }
 }
 
+@mixin solid-link-underline() {
+  a {
+    color: #444;
+    position: relative;
+    border-bottom-width: 1px; // text-decoration would be easier, but not supported by Chrome:
+    border-bottom-style: solid; // https://caniuse.com/#feat=text-decoration
+    -webkit-box-decoration-break: clone;
+    -o-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+}
+
 @mixin dotted-link-underline() {
   a {
     color: #444;
@@ -366,15 +378,18 @@ p {
   ul {
     @extend %default-ul;
     //@include dotted-link-underline; // commented out by stefan
+    @include solid-link-underline; // commented out by stefan
   }
 
   ol {
     @extend %default-ol;
     //@include dotted-link-underline; // commented out by stefan
+    @include solid-link-underline; // commented out by stefan
   }
 
   p {
     //@include dotted-link-underline; // commented out by stefan
+    @include solid-link-underline; // commented out by stefan
   }
 
   font-family: $page-content-font-family;
@@ -415,7 +430,8 @@ p {
       content: '';
       width: 100%;
       border-bottom-width: 1px;
-      border-bottom-style: dotted;
+      //border-bottom-style: dotted;
+      border-bottom-style: solid;
     }
   }
 
@@ -759,6 +775,7 @@ ul.post-list {
   ul {
     @extend %default-ul;
     //@include dotted-link-underline; // commented out by stefan
+    @include solid-link-underline; // commented out by stefan
     list-style-type: none;
     padding: 0;
     margin: 0px;
@@ -1068,6 +1085,7 @@ footer {
   height: 80px;
 
   //@include dotted-link-underline; // commented out by stefan
+  @include solid-link-underline; // commented out by stefan
 }
 
 .publications-content{
@@ -1169,6 +1187,7 @@ ul.project-icon-list li {
 
 .linked-members{
   // @include dotted-link-underline; // commented out by stefan
+  @include solid-link-underline; // commented out by stefan
 }
 
 .linked-members a{
@@ -1177,6 +1196,7 @@ ul.project-icon-list li {
 
 .team-content-right{
   // @include dotted-link-underline; // commented out by stefan
+  @include solid-link-underline; // commented out by stefan
 }
 
 .team-member-content-aside ul a{
