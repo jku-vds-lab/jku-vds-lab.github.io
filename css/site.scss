@@ -1490,6 +1490,12 @@ ul.project-icon-list li {
   transition-timing-function: ease;
   transition-delay: 25ms; 
   
+    &:focus,
+    &:hover,
+    &:active {
+      background-color: darken($home-color, 20%);
+      color: white;
+    }
 }
 
 .more-pubs p{
@@ -1497,8 +1503,9 @@ ul.project-icon-list li {
  text-align: center;
 }
 
-.more-pubs:hover{
-  opacity: 1.0;
-  color: black;
-  background-color: $home-color-light;
-}
+//.more-pubs:hover{
+//  opacity: 1.0;
+//  color: black;
+//  background-color: $home-color-light;
+//
+//}
