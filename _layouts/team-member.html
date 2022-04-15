@@ -203,7 +203,7 @@ layout: default
                                 {{ author }}
                                 {% endif %} <br/>
                                 <b> <a href="{{ site.baseurl }}{{ thesis.url }}">{{ thesis.title }}</a></b><br/>
-                                {{ thesis.institution }}, {{thesis.thesis_type}}, {{thesis.year}}
+                                {{ thesis.institution }}, {{thesis.year}}
                             </p>
                     
                         </div>
@@ -528,7 +528,7 @@ layout: default
 
             {% assign psize = member_students | size %}
             {% if psize > 0 %}
-                <h2>Student Supervision</h2>
+                <h2>PhD Students</h2>
                 <table class="team-member-pub-table">
                     <tr>
                     <th></th>
@@ -539,7 +539,6 @@ layout: default
                     {% for student in member_students %}
                     <tr>
                     <td class="team-member-pub-date">{{ student.date }}</td>
-                    <td>{{ student.type }}</td>
                     <td>{{ student.name }}</td>
                     <td><i>{{ student.title }}</i></td>
                     </tr>
