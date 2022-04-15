@@ -138,7 +138,7 @@ $md-lg-display: new-breakpoint(min-width 751px max-width 1023px $medium-display-
   display: block;
   float: right;
   padding-top: 0px; // changed from 6px by stefan
-  margin-top: -20px; // changed from 0px by stefan
+  margin-top: 0px; // changed from 0px by stefan
 
   @include media($small-display) {
     margin-right: 0px;
