@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Yantramanav:400,100,300,500);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+// added by stefan
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,100,300,500);
 
-$sans-serif-font-family: Yantramanav, Helvetica, sans-serif;
-// $serif-font-family: Lora, Helvetica, sans-serif; //Vollkorn, Times, serif;
+//$sans-serif-font-family: Yantramanav, Helvetica, sans-serif;
+$sans-serif-font-family: Montserrat, Helvetica, sans-serif;
 $serif-font-family: Lato, Helvetica, sans-serif;
 $slab-font-family: Yantramanav, Helvetica, sans-serif;
 
@@ -26,9 +28,9 @@ $footer-content-font-style: normal;
 $footer-content-font-size: .7em;
 
 $navigation-button-font-family: $sans-serif-font-family;
-$navigation-button-font-weight: 400;
+$navigation-button-font-weight: 350;
 $navigation-button-font-style: normal;
-$navigation-button-font-size: $base-font-size * 0.9;
+$navigation-button-font-size: $base-font-size * 0.8;
 
 
 body {
