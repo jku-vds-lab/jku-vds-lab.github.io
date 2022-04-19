@@ -58,8 +58,8 @@ bib:
   address: 
   doi: 10.1186/s13321-022-00600-z		# e.g.10.1109/TVCG.2020.3012063
   url: https://doi.org/10.1186/s13321-022-00600-z
-  volume: 
-  number: 
+  volume: 14
+  number: 21
   pages: 
   month: 
 
