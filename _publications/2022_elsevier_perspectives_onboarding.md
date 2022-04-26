@@ -58,7 +58,7 @@ year: 2022
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Elsevier Visual Informatics		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Visual Informatics		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
   publisher: Elsevier
