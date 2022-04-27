@@ -1380,11 +1380,13 @@ ul.project-icon-list li {
 }
 
 .member-publications h1{
-  font-weight: 400;
+  font-weight: 500;
+  font-size: $page-title-font-size * 0.8;
 }
 .member-publications h2{
-  font-weight: 200;
-  border-bottom: none;
+  font-weight: 400;
+  font-size: $page-title-font-size * 0.6;
+  border-bottom: 2px solid $team-color;
 }
 .member-publications h3{
   margin-top: 0px;
