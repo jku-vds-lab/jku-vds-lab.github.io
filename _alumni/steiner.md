@@ -4,7 +4,6 @@ first_name: Anita
 last_name: Steiner
 title: "Anita Steiner"
 key: steiner
-permalink: /persons/steiner/
 role: alumni
 email: anita.steiner@jku.at
 organization: Johannes Kepler University Linz

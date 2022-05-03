@@ -4,7 +4,6 @@ first_name: Martin
 last_name: Ennemoser
 title: "Martin Ennemoser"
 key: ennemoser
-permalink: /alumni/ennemoser/
 role: alumni
 email: martin.ennemoser@jku.at
 organization: Johannes Kepler University Linz
