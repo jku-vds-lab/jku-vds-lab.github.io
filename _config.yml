@@ -40,6 +40,9 @@ collections:
   persons:
     output: true
     permalink: /persons/:path/
+  alumni:
+    output: true
+    permalink: /alumni/:path/
   publications:
     output: true
     permalink: /publications/:path/

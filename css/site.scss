@@ -1219,7 +1219,6 @@ ul.project-icon-list li {
   background-color: $team-color-light;
 }
 
-
 .team-members-div{
   @include span-columns(12);
 }
@@ -1237,6 +1236,21 @@ ul.project-icon-list li {
     width: 100%;
   }
 }
+
+.team-members-div .alumni{
+  width: 100%; // commented out by stefan
+  float: left;
+  margin-right: 12px;
+  margin-bottom: 10px;
+
+  @include media($md-lg-display) {
+    width: 100%;
+  }
+  @include media($sm-md-display) {
+    width: 100%;
+  }
+}
+
 
 // collaborators
 .collaborators-div{
