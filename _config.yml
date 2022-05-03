@@ -41,7 +41,7 @@ collections:
     output: true
     permalink: /persons/:path/
   alumni:
-    output: true
+    output: false
     permalink: /alumni/:path/
   publications:
     output: true
