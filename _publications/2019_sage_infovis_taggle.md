@@ -23,7 +23,7 @@ authors:
 - stitz
 - Thomas Zichner
 - Miroslava Jaresova
-- ennemoser
+- Martin Ennemoser
 - Alexander Lex
 - streit
 
