@@ -57,7 +57,7 @@ authors:
 - Martina Mara
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: Preprint - Submitted to Computers in Human Behavior
+journal-short: OSF Preprint
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2022
 
