@@ -39,7 +39,7 @@
   pi:
   copi:
   partners:
-  time: 2021
+  time: 2021 - 2022
   program:
   project-link:
   number: 
@@ -55,7 +55,7 @@
   pi:
   copi:
   partners:
-  time: 2020 - 2022
+  time: 2020 - 2023
   program:
   project-link:
   number: LIT-2019-7-SEE-117
@@ -71,28 +71,12 @@
   pi:
   copi:
   partners:
-  time: 2019 - 2021
+  time: 2019 - 2022
   program:
   project-link:
   number:
   active: true
   amount: 288k EUR
-
-- author: streit 
-  agency: Boehringer Ingelheim Regional Center Vienna
-  website:
-  logo:
-  title: "Development of Multi-Dimensional Genomic Data Visualization and Data Mining Techniques"
-  recipient: jku
-  pi:
-  copi:
-  partners:
-  time: 2018 - 2021
-  program:
-  project-link:
-  number:
-  active: true
-  amount: 252k EUR
 
 - author: streit 
   agency: Austrian Research Promotion agency (FFG)
@@ -109,6 +93,22 @@
   number: 854184
   active: true
   amount: 19M EUR
+
+- author: streit 
+  agency: Boehringer Ingelheim Regional Center Vienna
+  website:
+  logo:
+  title: "Development of Multi-Dimensional Genomic Data Visualization and Data Mining Techniques"
+  recipient: jku
+  pi:
+  copi:
+  partners:
+  time: 2018 - 2021
+  program:
+  project-link:
+  number:
+  active: true
+  amount: 252k EUR
 
 - author: streit 
   agency: Austrian Science Fund (FWF), State of Upper Austria, Nationalstiftung
