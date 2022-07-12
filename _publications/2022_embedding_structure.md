@@ -79,11 +79,9 @@ pdf: paper_2022_embedding_structure.pdf
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-#- name: General UpSet
-#  # use link instead of abslink if you want to link to the master directory
-#  abslink: http://vials.io/talk/
-#  # defaults to a download icon, use this if you want a link-out icon
-#  linksym: true
+- name: PSE Landing Page
+  abslink: https://jku-vds-lab.at/pse/
+  linksym: true
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/projection-space-explorer
@@ -93,6 +91,16 @@ abstract: "In this work, we propose an interactive visual approach for the explo
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
+
+
+
+# Talk @ ISMB BioVis 2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1S-IYcXWZmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).
+
+**BioVis Program**: [http://biovis.net/2022/program_ismb/](http://biovis.net/2022/program_ismb/)
 
 
 # Acknowledgements
