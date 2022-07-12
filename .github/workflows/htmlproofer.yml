@@ -36,7 +36,7 @@ jobs:
 
       - name: Run HTMLProofer action
         run: |
-          bundle exec htmlproofer --empty_alt_ignore --checks-to-ignore ImageCheck --only_4xx  --url-ignore "https://fonts.gstatic.com,https://fonts.gstatic.com/,https://www.linkedin.com,https://github.com/jku-vds-lab/rubiks-cube-demonstrator,https://www.amd.com/en/support,https://support.amd.com/us/gpudownload/Pages/index.aspx,dx.doi.org/10.33313/380/218" --assume-extension  ./_site
+          bundle exec htmlproofer --ignore_empty_alt --checks-to-ignore ImageCheck --only_4xx  --url-ignore "https://fonts.gstatic.com,https://fonts.gstatic.com/,https://www.linkedin.com,https://github.com/jku-vds-lab/rubiks-cube-demonstrator,https://www.amd.com/en/support,https://support.amd.com/us/gpudownload/Pages/index.aspx,dx.doi.org/10.33313/380/218" --assume-extension  ./_site
 
           #branding:
           #icon: "check"
