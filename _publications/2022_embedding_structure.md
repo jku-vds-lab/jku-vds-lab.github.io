@@ -100,6 +100,8 @@ abstract: "In this work, we propose an interactive visual approach for the explo
 
 Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).
 
+**Slides**: [PPTX](http://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pptx) \| [PDF](http://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pdf)
+
 **BioVis Program**: [http://biovis.net/2022/program_ismb/](http://biovis.net/2022/program_ismb/)
 
 
