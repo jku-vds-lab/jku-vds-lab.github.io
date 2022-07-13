@@ -84,7 +84,7 @@ abstract: "A main task in computational cancer analysis is the identification of
 
 # Talk @ ISMB BioVis 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BmeaagRZWnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmeaagRZWnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Slides**: [PDF](https://data.jku-vds-lab.at/papers/2022_biovis_adelberger.pdf)
 
