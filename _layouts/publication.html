@@ -298,7 +298,16 @@ layout: default
     </ul>
      -->
 
-    
+    {% if page.videos %}
+
+        <h2>Video(s)</h2>
+
+    {% for video in page.videos %}
+      {% include video_sideentry.html video=video %}
+    {% endfor %}
+    {% endif %}
+
+     <!-- <2022 code -->
 
     {% if page.youtube-id %}
       <div class="video">

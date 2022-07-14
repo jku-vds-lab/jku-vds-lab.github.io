@@ -56,10 +56,19 @@ award:
 external-project: https://coral.caleydoapp.org
 preprint: https://www.biorxiv.org/content/10.1101/2021.05.26.445802 # here you can put all preprint links (arxiv.org, osf.io,...)
 
-# The reference to the video entry
-video: 2021_bioinformatics_coral
+# The reference to the video entry (DEPRECATED)
+#video: 2021_bioinformatics_coral
 # The reference to the preview video entry
 #preview-video:
+
+videos:
+ - name: 'Coral: A Web-based Visual Analysis Tool [...] @ ISMB BioVis 2022'
+   youtube-id: BmeaagRZWnU
+#   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+   slides:
+    - file: 2022_biovis_adelberger.pdf
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
 
 # the prerint
 pdf: 2021_bioinformatics_coral.pdf
@@ -81,15 +90,6 @@ abstract: "A main task in computational cancer analysis is the identification of
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
-
-# Talk @ ISMB BioVis 2022
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmeaagRZWnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Slides**: [PDF](https://data.jku-vds-lab.at/papers/2022_biovis_adelberger.pdf)
-
-**BioVis Program**: [http://biovis.net/2022/program_ismb/](http://biovis.net/2022/program_ismb/)
-
 # Acknowledgements
 
 We thank Andreas Wernitznig, Alex Lex, and the datavisyn GmbH team, in particular Holger Stitz, for their feedback and implementation support. The authors acknowledge the American Association for Cancer Research and its financial and material support in the development of the AACR Project GENIE registry, and members of the consortium for their commitment to open data. Interpretations are the responsibility of study authors.
