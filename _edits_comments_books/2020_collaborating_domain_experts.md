@@ -26,7 +26,10 @@ editors:
 year: 2020
 bib:
   journal: Springer
-  publisher: https://doi.org/10.1007/978-3-030-34444-3_15
+  doi: 10.1007/978-3-030-34444-3_15
+
+paper_content_url: ""
+pdf: https://link.springer.com/content/pdf/10.1007/978-3-030-34444-3.pdf
 
 ---
 

@@ -82,10 +82,29 @@ external-project:
 # # The key of the preview video .md file (in _videos subfolder)
 # preview-video:
 
-# the youtube-id of the video
-youtube-id: 
-# the youtube-id of the preview-video
-preview-youtube-id: 
+# the youtube-id of the video (DEPRECATED)
+#youtube-id: 
+# the youtube-id of the preview-video (DEPRECATED)
+#preview-youtube-id: 
+
+# add videos with metadata to the sidepanel of the publication
+# parameters: 
+# -name: name of the video (keep it short)
+# -youtube-id: id of the video
+# -description: short text description, can use markdown
+# -extraurl: url with fa icon, use markdown syntax
+# -slides: add multiple file entries, baseurl is http://data.jku-vds-lab.at/papers/
+
+#videos:
+# - name: 'Coral: A Web-based Visual Analysis Tool [...] @ ISMB BioVis 2022'
+#   youtube-id: BmeaagRZWnU
+#   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+#   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+#   slides:
+#    - file: 2022_biovis_adelberger.pdf
+#    - file: 2022_biovis_adelberger.pptx
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf: 

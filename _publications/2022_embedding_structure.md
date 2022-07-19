@@ -66,10 +66,24 @@ external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 # #preview-video:
 
 # the youtube-id of the video
-youtube-id: yBCe8SqGwK8
+#youtube-id: yBCe8SqGwK8 # commented out by stefan, due to new video sidepanel
 # the youtube-id of the preview-video
-preview-youtube-id: 
+#preview-youtube-id:  # commented out by stefan, due to new video sidepanel
 
+# Video entries, a preview , talk, and intro video. Vimeo IDs or youtube IDs are supported
+# you need to pick either a vimeo or youtube ID. We definitely want a downloadable video too.
+
+videos:
+ - name: 'Paper Video'
+   youtube-id: yBCe8SqGwK8
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+ - name: 'Talk @ ISMB BioVis 2022'
+   youtube-id: 1S-IYcXWZmY
+   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+   slides:
+    - file: 2022_biovis_eckelt.pptx
+    - file: 2022_biovis_eckelt.pdf
 
 # the prerint
 pdf: paper_2022_embedding_structure.pdf
@@ -79,11 +93,9 @@ pdf: paper_2022_embedding_structure.pdf
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-#- name: General UpSet
-#  # use link instead of abslink if you want to link to the master directory
-#  abslink: http://vials.io/talk/
-#  # defaults to a download icon, use this if you want a link-out icon
-#  linksym: true
+- name: PSE Landing Page
+  abslink: https://jku-vds-lab.at/pse/
+  linksym: true
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/projection-space-explorer
@@ -92,9 +104,16 @@ abstract: "In this work, we propose an interactive visual approach for the explo
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
+# Talk @ ISMB BioVis 2022 #, commented out by stefan to utilize the new video sidebar category
+
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/1S-IYcXWZmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).
+#**Slides**: [PPTX](https://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pptx) \| [PDF](https://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pdf)
+#**BioVis Program**: [http://biovis.net/2022/program_ismb/](http://biovis.net/2022/program_ismb/)
 ---
-
-
 # Acknowledgements
 
 This work was supported in part by the Boehringer Ingelheim Regional Center Vienna, the State of Upper Austria and the Austrian Federal Ministry of Education, Science and Research via the LIT ⁠– Linz Institute of Technology (LIT-2019-7-SEE-117), the State of Upper Austria (Human-Interpretable Machine Learning), and the Austrian Science Fund (FWF DFH 23-N). This work was supported in part by the FFG, Contract No. 881844: "Pro2Future is funded within the Austrian COMET Program Competence Centers for Excellent Technologies under the auspices of the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, the Austrian Federal Ministry for Digital and Economic Affairs and of the Provinces of Upper Austria and Styria. COMET is managed by the Austrian Research Promotion Agency FFG.".
+
+
+<script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"Klaus.Eckelt@gmail.com",utcoffset:"1"}))};sessionStorage.setItem("_swa","1");</script>

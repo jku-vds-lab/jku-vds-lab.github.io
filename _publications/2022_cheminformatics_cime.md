@@ -89,10 +89,20 @@ external-project: https://cime-demo.jku-vds-lab.at/
 # # The key of the preview video .md file (in _videos subfolder)
 # preview-video:
 
-# the youtube-id of the video
-youtube-id: s9d31AZZsHo
-# the youtube-id of the preview-video
-preview-youtube-id: 
+# the youtube-id of the video (DEPRECATED)
+#youtube-id: s9d31AZZsHo
+# the youtube-id of the preview-video (DEPRECATED)
+#preview-youtube-id: 
+
+videos:
+ - name: 'Christina Humer and Henry Heberle: ChemInformatics Model Explorer (CIME)'
+   youtube-id: s9d31AZZsHo
+#   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+#   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+#   slides:
+#    - file: 2022_biovis_adelberger.pdf
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf: 2022_cheminformatics_cime.pdf

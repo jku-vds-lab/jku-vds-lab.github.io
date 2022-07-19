@@ -86,10 +86,16 @@ external-project:
 # # The key of the preview video .md file (in _videos subfolder)
 # preview-video:
 
-# the youtube-id of the video
-youtube-id: 
-# the youtube-id of the preview-video
-preview-youtube-id: 
+#videos:
+# - name: 'Talk @ ISMB VioVis 2022'
+#   youtube-id: 1S-IYcXWZmY
+#   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+#   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+#   slides:
+#    - file: 2022_biovis_eckelt.pptx
+#    - file: 2022_biovis_eckelt.pdf
+
+
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf: 2022_elsevier_Perspectives.of.Visualization.Onboarding.and.Guidance.in.VA.pdf
