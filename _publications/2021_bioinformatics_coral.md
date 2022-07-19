@@ -62,7 +62,9 @@ preprint: https://www.biorxiv.org/content/10.1101/2021.05.26.445802 # here you c
 #preview-video:
 
 videos:
- - name: 'Coral: A Web-based Visual Analysis Tool [...] @ ISMB BioVis 2022'
+ - name: 'Paper Video'
+   youtube-id: vSd3a9J63wQ
+ - name: 'Coral Talk @ ISMB BioVis 2022'
    youtube-id: BmeaagRZWnU
 #   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
    extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
