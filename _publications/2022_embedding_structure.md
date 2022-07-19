@@ -74,7 +74,7 @@ external-project: https://jku-vds-lab.at/apps/embeding-structure-explorer/
 # you need to pick either a vimeo or youtube ID. We definitely want a downloadable video too.
 
 videos:
- - name: 'Visual Exploration of Relationships [...]'
+ - name: 'Paper Video'
    youtube-id: yBCe8SqGwK8
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
  - name: 'Talk @ ISMB VioVis 2022'
