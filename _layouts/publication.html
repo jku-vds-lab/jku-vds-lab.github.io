@@ -351,6 +351,17 @@ layout: default
     {% endif %}
     {% endfor %}
 
+    {% if page.authors %}
+    <section class="team">
+        <h2 class="team-header">Author(s)</h2>
+        <ul class="authors-side">
+            {% for author in page.authors %}
+              {% include publication_team_sideentry.html author=author %}
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
   </article>
 
 

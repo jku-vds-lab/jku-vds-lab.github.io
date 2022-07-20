@@ -660,6 +660,16 @@ ul.post-list {
     padding-left: 5px;
   }
 
+  // side panel authors section
+  ul li.team-member a {
+    border-bottom-width: 0px;
+  }
+
+  // side panel authors section
+  ul li.team-member {
+    margin-bottom: 5px;
+  }
+
   .video {
     padding-bottom: 20px; // changed by stefan, new video side category
     margin: auto;
@@ -731,6 +741,16 @@ ul.post-list {
   margin-right: 10px;
   margin-top: 5px; // changed from 0px by stefan
   margin-bottom: 5px; //changed from 0px by stefan
+  float: left;
+}
+
+.person-image-tiny {
+  @extend .person-image;
+  width: 40px; // changed from 50px by stefan
+  height: 40px; // changed from 50px by stefan
+  //margin-right: 10px;
+  //margin-top: 5px; // changed from 0px by stefan
+  //margin-bottom: 5px; //changed from 0px by stefan
   float: left;
 }
 

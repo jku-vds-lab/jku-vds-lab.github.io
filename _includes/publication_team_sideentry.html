@@ -1,0 +1,38 @@
+{% comment %}
+Usage: {% include publication_team_sideentry author=author %}
+{% endcomment %}
+
+{% assign person = site.persons | where:"key", include.author | first %}
+
+<li class="team-member">
+    {% if person %}
+        {% if person.cg_website %}
+                <a href="{{ person.cg_website }}" class="btn btn-md btn-fa">
+        {% elsif person.hide_personal_page %}
+                <a class="btn btn-md btn-fa">
+        {% else %}
+                <a href="{{ site.baseurl }}{{ person.url }}" class="btn btn-md btn-fa">
+        {% endif %}
+        {% if person.image %}
+            <span class="fa-stack fa-lg">
+                <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-tiny" src="{{site.baseurl}}{{ person.image }}">
+            </span>
+        {% else %}
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle-thin fa-stack-2x"></i>
+            <i class="fa fa-user fa-stack-1x"></i>
+            </span>
+        {% endif %}
+        {% if person.first_name %}
+            <span class="text">{{person.first_name}} {{person.last_name}}</span>
+        {% endif %}
+    {% else %}
+        <span class="fa-stack fa-lg">
+        <i class="fa fa-circle-thin fa-stack-2x"></i>
+        <i class="fa fa-user fa-stack-1x"></i>
+        </span>
+        <span class="text">{{ include.author }}</span>
+    {% endif %}
+
+    </a>
+</li>
