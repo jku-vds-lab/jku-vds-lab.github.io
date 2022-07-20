@@ -1069,7 +1069,7 @@ footer {
 // }
 
 .logo-subtitle {
-  font-family: Lato,Helvetica,sans-serif;
+  font-family: $serif-font-family;
   font-size: .7em;
   line-height: 16px;
   font-weight: 550;
@@ -1117,7 +1117,7 @@ footer {
 }
 
 .home-content-main {
-  font-family: Lato,Helvetica,sans-serif;
+  font-family: $serif-font-family;
   font-weight: 400;
   font-style: normal;
   font-size: .9em;
@@ -1129,7 +1129,7 @@ footer {
 }
 
 .home-content-aside {
-  font-family: Lato,Helvetica,sans-serif;
+  font-family: $serif-font-family;
   font-weight: 400;
   font-style: normal;
   font-size: .9em;
@@ -1154,7 +1154,7 @@ ul.contact-list li {
   line-height: 1.2em;
   vertical-align: top;
   color: #333;
-  font-family: Lato,Helvetica,sans-serif;
+  font-family: $serif-font-family;
   font-weight: 400;
   font-size: .9em;
   font-style: normal;
@@ -1173,7 +1173,7 @@ ul.project-icon-list li {
   line-height: 1.2em;
   vertical-align: top;
   color: #333;
-  font-family: Lato,Helvetica,sans-serif;
+  font-family: $serif-font-family;
   font-weight: 400;
   font-size: .9em;
   font-style: normal;
