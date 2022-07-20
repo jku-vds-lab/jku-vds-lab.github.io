@@ -1343,7 +1343,7 @@ ul.project-icon-list li {
   }
 }
 
-.pub-nav{
+.sub-nav{
   display: block;
   margin-top: 15px;
   margin-left: 0px;
@@ -1351,18 +1351,29 @@ ul.project-icon-list li {
   height: auto;
 }
 
-.pub-nav ul{
+.sub-nav ul{
   list-style-type: none;
 }
 
 // change nav item style https://github.com/jku-vds-lab/jku-vds-lab.github.io/issues/13
-.pub-nav li {
+.sub-nav li {
   margin-left: 5px;
   margin-right: 5px;
+}
+
+.pub-nav-button {
+  @include sub-navigation-button($publication-color);
+}
+
+.team-nav-button {
   @include sub-navigation-button($team-color);
 }
 
-.publications-content .pub-nav{ // remove this, if the navigation on the "Publications" page should be left
+.sub-nav li a {
+    color: #eee;
+}
+
+.publications-content .sub-nav{ // remove this, if the navigation on the "Publications" page should be left
   float: right;
   margin-top: 0px;
 }
