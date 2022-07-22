@@ -51,3 +51,27 @@ The only supported plugins are those that come with the [github-pages gem](https
 ## Liquid Syntax
 
 [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+
+# Adding a Publication/Paper
+
+You should use the template provided in [./templates/paper-template.md](./templates/paper-template.md)
+for adding a new publication. Preprints will be rendered in a separate section, therefore make sure to 
+update and remove it after publication (update bibtex section as well).
+
+Each publication should be assigned an unique key like:
+`YYYY_CONFSHORTNAME_PAPERSHORTNAME`
+
+This string will be the part of the URL referencing this publication.
+
+## Instructions for adding a new publication
+
+1. Copy the template [./templates/paper-template.md](./templates/paper-template.md) into the folder [./_publications/<PUBLICATION_KEY>.md](./_publications/).
+2. Choose a publication type, currently either **paper**, **preprint** or **thesis** and fill in the abstract
+3. You should provide two images, one teaser (1200x600 ~300KB) and one thumbnail (400x200 ~70kb) to the [assets/images/papers](./assets/images/papers), you should use the key as defined above as part of the filename.
+4. (optional) Upload all your videos relevant to the publication to the ICG Vis Lab YouTube Channel, and fill the template's videos section with the video's Youtube-ID
+	- If you have any slides relevant to the video, upload them alongside your paper PDF as well
+5. Provide all authors as a collection/list - if the author is a team member that has a separate page, provide the key instead of firstname/lastname, e.g. `streit`
+6. fill in the other fields as required/available, most are optional and can be left empty
+7. Upload the following files to the data AWS S3 Bucket within `'/papers'`:
+    - publication as PDF (`KEY.pdf`)
+    - (optional) Supplementary Material/Slides/etc. (`KEY_<CUSTOM>.<CUSTOMEXT>`)
