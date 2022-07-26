@@ -4,7 +4,7 @@ layout: publication
 title: "A Process Model for Dashboard Onboarding"
 key: 2021_preprint_dashboard-onboarding
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url:
 
@@ -24,12 +24,12 @@ authors:
   - Eduard Groeller
   - streit
 
-journal-short: Preprint
-year: 2021
+journal-short: EuroVis
+year: 2022
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: Computer Graphics Forum (EuroVis '22)
   booktitle:
   editor:
   publisher:
@@ -52,24 +52,36 @@ non_group_project: False
 project:
 
 # Use this if you have an external project website
-external-project: https://osf.io/zsb5a/
+external-project: https://osf.io/gux9w
 
 # The reference to the video entry
-video:
-# The reference to the preview video entry
-#preview-video:
+videos:
+
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+ - name: 'Talk @ EuroVis 2022'
+   youtube-id: t7PVqvh0iQ4
+   timestamp: 4888
+   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
+   slides:
+    - file: 2022_eurovis_dhanoa.pptx
+    - file: 2022_eurovis_dhanoa.pdf
 
 # the prerint
 pdf: 2021_preprint_dashboard-onboarding.pdf
 # A supplement PDF
-supplement: 
+supplement:
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-- name: Slides (PDF)
-  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pdf
-- name: Slides (PPTX)
-  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pptx
+# - name: Slides (PDF)
+#   abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pdf
+# - name: Slides (PPTX)
+#   abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pptx
+- name: Dashboard Onboarding Supplements
+  abslink: https://osf.io/zsb5a/
+  linksym: true
+#- name: General UpSet
 #  # use link instead of abslink if you want to link to the master directory
 #  abslink: http://vials.io/talk/
 #  # defaults to a download icon, use this if you want a link-out icon
