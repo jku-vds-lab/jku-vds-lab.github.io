@@ -59,16 +59,11 @@ videos:
 
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
  - name: 'Talk @ EuroVis 2022'
-<<<<<<< HEAD
    youtube-id: t7PVqvh0iQ4
    timestamp: 4888
-   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
-   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
-=======
    youtube-id: t7PVqvh0iQ4?t=4888
    description: ''
    extraurl: '[EuroVis Program](https://conferences.eg.org/eurovis2022/program/)'
->>>>>>> edit description
    slides:
     - file: 2022_eurovis_dhanoa.pptx
     - file: 2022_eurovis_dhanoa.pdf
@@ -80,10 +75,6 @@ supplement:
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-# - name: Slides (PDF)
-#   abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pdf
-# - name: Slides (PPTX)
-#   abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pptx
 - name: Dashboard Onboarding Supplements
   abslink: https://osf.io/zsb5a/
   linksym: true
