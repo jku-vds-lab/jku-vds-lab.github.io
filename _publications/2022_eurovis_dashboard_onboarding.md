@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "A Process Model for Dashboard Onboarding"
-key: 2021_preprint_dashboard-onboarding
+key: 2022_eurovis_dashboard_onboarding
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
@@ -11,9 +11,9 @@ paper_content_url:
 # The shortname is used for auto-generated titels
 shortname: Dashboard Onboarding
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2021_preprint_dashboard-onboarding.png
+image: 2022_eurovis_dashboard_onboarding.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2021_preprint_dashboard-onboarding_teaser.png
+image_large: 2022_eurovis_dashboard_onboarding_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -61,7 +61,6 @@ videos:
  - name: 'Talk @ EuroVis 2022'
    youtube-id: t7PVqvh0iQ4
    timestamp: 4888
-   youtube-id: t7PVqvh0iQ4?t=4888
    description: ''
    extraurl: '[EuroVis Program](https://conferences.eg.org/eurovis2022/program/)'
    slides:
