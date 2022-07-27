@@ -66,7 +66,10 @@ supplement:
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-#- name: General UpSet
+- name: Slides (PDF)
+  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pdf
+- name: Slides (PPTX)
+  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pptx
 #  # use link instead of abslink if you want to link to the master directory
 #  abslink: http://vials.io/talk/
 #  # defaults to a download icon, use this if you want a link-out icon
