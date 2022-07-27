@@ -24,7 +24,7 @@ authors:
 - walchshofer
 - dhanoa
 - humer
-- heckmann
+- Moritz Heckmann
 - steinparz
 - streit
 

@@ -20,7 +20,7 @@ image_large: 2020_tiis_pathexplorer_large.png
 authors:
 - hinterreiter
 - steinparz
-- heckmann
+- Moritz Heckmann
 - stitz
 - streit 
 
