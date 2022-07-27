@@ -7,7 +7,7 @@ Usage: {% include video_entry.html video=video %}
       <p><b>{{include.video.name}}</b></p>
       {% if include.video.youtube-id %}
       <div class="video-wrapper">
-            <iframe src="https://www.youtube.com/embed/{{include.video.youtube-id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/{{include.video.youtube-id}}{% if include.video.timestamp %}?start={{include.video.timestamp}}{% endif %}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       {% endif %}
 

@@ -98,6 +98,7 @@ external-project:
 #videos:
 # - name: 'Coral: A Web-based Visual Analysis Tool [...] @ ISMB BioVis 2022'
 #   youtube-id: BmeaagRZWnU
+#   timestamp: 0 # optional start timestamp
 #   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
 #   extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
 #   slides:
