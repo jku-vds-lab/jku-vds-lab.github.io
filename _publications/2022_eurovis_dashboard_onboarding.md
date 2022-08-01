@@ -35,7 +35,7 @@ bib:
   publisher:
   address:
   doi:
-  url:
+  url: https://doi.org/10.1111/cgf.14558
   volume:
   number:
   pages:
