@@ -2,18 +2,18 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "A Process Model for Dashboard Onboarding"
-key: 2021_preprint_dashboard-onboarding
+key: 2022_eurovis_dashboard_onboarding
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 paper_content_url:
 
 # The shortname is used for auto-generated titels
 shortname: Dashboard Onboarding
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2021_preprint_dashboard-onboarding.png
+image: 2022_eurovis_dashboard_onboarding.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2021_preprint_dashboard-onboarding_teaser.png
+image_large: 2022_eurovis_dashboard_onboarding_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -24,24 +24,24 @@ authors:
   - Eduard Groeller
   - streit
 
-journal-short: Preprint
-year: 2021
+journal-short: EuroVis
+year: 2022
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: Computer Graphics Forum (EuroVis '22)
   booktitle:
   editor:
-  publisher:
+  publisher: John Wiley & Sons, Inc.
   address:
-  doi:
-  url:
-  volume:
-  number:
-  pages:
-  month:
+  doi: 10.1111/cgf.14558
+  url: https://doi.org/10.1111/cgf.14558
+  volume: 41
+  number: 3
+  pages: 501-513
+  month: July
 
-preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
+#preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
@@ -52,24 +52,32 @@ non_group_project: False
 project:
 
 # Use this if you have an external project website
-external-project: https://osf.io/zsb5a/
+external-project: https://osf.io/gux9w
 
 # The reference to the video entry
-video:
-# The reference to the preview video entry
-#preview-video:
+videos:
+
+#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+ - name: 'Talk @ EuroVis 2022'
+   youtube-id: t7PVqvh0iQ4
+   timestamp: 4888
+   description: ''
+   extraurl: '[EuroVis Program](https://conferences.eg.org/eurovis2022/program/)'
+   slides:
+    - file: 2022_eurovis_dhanoa.pptx
+    - file: 2022_eurovis_dhanoa.pdf
 
 # the prerint
-pdf: 2021_preprint_dashboard-onboarding.pdf
+pdf: 2022_eurovis_dashboard-onboarding.pdf
 # A supplement PDF
-supplement: 
+supplement:
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
-- name: Slides (PDF)
-  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pdf
-- name: Slides (PPTX)
-  abslink: http://data.jku-vds-lab.at/papers/2022_eurovis_dhanoa.pptx
+- name: Dashboard Onboarding Supplements
+  abslink: https://osf.io/zsb5a/
+  linksym: true
+#- name: General UpSet
 #  # use link instead of abslink if you want to link to the master directory
 #  abslink: http://vials.io/talk/
 #  # defaults to a download icon, use this if you want a link-out icon
