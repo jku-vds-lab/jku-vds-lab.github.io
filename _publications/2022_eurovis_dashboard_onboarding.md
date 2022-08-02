@@ -32,16 +32,16 @@ bib:
   journal: Computer Graphics Forum (EuroVis '22)
   booktitle:
   editor:
-  publisher:
+  publisher: John Wiley & Sons, Inc.
   address:
-  doi:
+  doi: 10.1111/cgf.14558
   url: https://doi.org/10.1111/cgf.14558
-  volume:
-  number:
-  pages:
-  month:
+  volume: 41
+  number: 3
+  pages: 501-513
+  month: July
 
-preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
+#preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
@@ -68,7 +68,7 @@ videos:
     - file: 2022_eurovis_dhanoa.pdf
 
 # the prerint
-pdf: 2021_preprint_dashboard-onboarding.pdf
+pdf: 2022_eurovis_dashboard-onboarding.pdf
 # A supplement PDF
 supplement:
 
