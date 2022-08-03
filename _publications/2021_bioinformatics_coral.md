@@ -95,3 +95,5 @@ abstract: "A main task in computational cancer analysis is the identification of
 # Acknowledgements
 
 We thank Andreas Wernitznig, Alex Lex, and the datavisyn GmbH team, in particular Holger Stitz, for their feedback and implementation support. The authors acknowledge the American Association for Cancer Research and its financial and material support in the development of the AACR Project GENIE registry, and members of the consortium for their commitment to open data. Interpretations are the responsibility of study authors.
+
+<script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"patrick.adel@gmail.com",utcoffset:"1"}))};sessionStorage.setItem("_swa","1");</script>
