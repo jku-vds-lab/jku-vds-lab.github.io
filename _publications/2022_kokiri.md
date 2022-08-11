@@ -57,9 +57,9 @@ project:
 external-project: https://kokiri.jku-vds-lab.at/
 
 #TODO
-# videos:
-#  - name: 'Paper Video'
-#    youtube-id: yBCe8SqGwK8
+videos:
+ - name: 'Paper Video'
+   youtube-id: 94W9pIsYq9g
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
 
 # the prerint
