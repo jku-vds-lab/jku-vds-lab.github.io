@@ -63,7 +63,7 @@ videos:
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
 
 # the prerint
-# pdf: paper_2022_kokiri.pdf #TODO
+pdf: 2022_kokiri.pdf #TODO
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/kokiri/
