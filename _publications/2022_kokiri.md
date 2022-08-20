@@ -34,15 +34,14 @@ bib:
   editor: 
   publisher: 
   address: 
-  doi: #TODO
-  url: #TODO
+  doi: 10.1101/2022.08.16.503622
+  url: https://www.biorxiv.org/content/10.1101/2022.08.16.503622
   volume: 
   number: 
   pages: 
   month: #Oktober #TODO
 
-#TODO
-#preprint: https://osf.io/ujbrs # here you can put all preprint links (arxiv.org, osf.io,...)
+preprint: https://www.biorxiv.org/content/10.1101/2022.08.16.503622 # here you can put all preprint links (arxiv.org, osf.io,...)
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
@@ -56,14 +55,13 @@ project:
 # Use this if you have an external project website
 external-project: https://kokiri.jku-vds-lab.at/
 
-#TODO
 videos:
  - name: 'Paper Video'
    youtube-id: 94W9pIsYq9g
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
 
 # the prerint
-pdf: 2022_kokiri.pdf #TODO
+pdf: 2022_kokiri.pdf
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/kokiri/
