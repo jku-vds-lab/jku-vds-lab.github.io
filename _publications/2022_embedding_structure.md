@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings"
-#key: 
+key: 2022_embedding_structure
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at

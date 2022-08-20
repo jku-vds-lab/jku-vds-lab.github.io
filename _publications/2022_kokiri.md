@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Kokiri: Random Forest-Based Cohort Comparison and Characterization"
-#key: 
+key: 2022_kokiri
 # paper | preprint | poster
 type: preprint
 # optional url for a different site; defaults to data.jku-vds-lab.at
