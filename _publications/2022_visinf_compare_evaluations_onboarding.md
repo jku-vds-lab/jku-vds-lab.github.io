@@ -98,6 +98,9 @@ supplement:
 
 # Extra supplements, such as talk slides, data sets, etc.
 supplements:
+- name: Preprint (arxiv)
+  abslink: https://arxiv.org/abs/2203.15418
+  linksym: true
 #- name: General UpSet
 #  # use link instead of abslink if you want to link to the master directory
 #  abslink: http://vials.io/talk/
