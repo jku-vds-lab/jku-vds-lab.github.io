@@ -18,6 +18,7 @@ github: "mstreit"
 google_scholar: "l7TTSP0AAAAJ"
 linkedin: "marcstreit"
 # cv: "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf"
+thesis: "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf"
 
 show_pub_nav: true # set this property, if the "team member page" should have a navigation for publications (i.e. if person has many publiations)
 
