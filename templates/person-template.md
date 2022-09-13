@@ -56,6 +56,8 @@ linkedin:
 cv:
 # here you can add a link to a personal website
 website:
+# here you can add a link to your thesis
+thesis:
 
 
 # uncomment this property, if your personal page should have a navigation for publications (i.e. if you have many publiations). usually you don't need this.
