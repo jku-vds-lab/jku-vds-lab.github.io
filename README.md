@@ -75,3 +75,13 @@ This string will be the part of the URL referencing this publication.
 7. Upload the following files to the data AWS S3 Bucket within `'/papers'`:
     - publication as PDF (`KEY.pdf`)
     - (optional) Supplementary Material/Slides/etc. (`KEY_<CUSTOM>.<CUSTOMEXT>`)
+
+## Instructions for adding a new team member
+
+1. Copy the template [./templates/person-template.md](./templates/person-template.md) into the folder [./_persons/<PERSON_KEY>.md](./_persons/).
+2. Fill in mandatory fields, first_name, last_name, title, key, email, organization, position
+3. Choose a role (faculty, raPHD, undergrad, phdgrad, alumni)
+4. Add a profile image to the folder [./assets/images/team_colored/<PERSON_KEY>.jpg](./assets/images/team_colored/)
+5. (optional) provide your degrees, office location, phone number, twitter handle, github username, Google scholar key, linkedin username, URL to your CV, URL to your thesis, URL to your website
+6. (optional) if you have many publications, you may want to set show_pub_nav to true, which enables a submenu for your team page
+7. Finally, add your profile content/text
