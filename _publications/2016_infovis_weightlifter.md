@@ -16,7 +16,7 @@ authors:
 - Torsten Möller
 - Harald Piringer
 
-journal-short: TVCG (InfoVis '16)
+journal-short: TVCG
 year: 2016
 
 bibentry: article
@@ -29,10 +29,10 @@ bib:
 
 award:
 
-non_group_project: True
+non_group_project: False
 
-project: 
-external-project: 
+project:
+external-project:
 
 video: 2016_infovis_weightlifter
 preview-video:
