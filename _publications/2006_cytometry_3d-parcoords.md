@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2006_cytometry_3d-parcoords.png
+image_large: 2006_cytometry_3d-parcoords-teaser.png
 
 authors:
 - streit
@@ -43,7 +44,7 @@ pdf: 2006_cytometry_3d-parcoords.pdf
 supplement:
 bibtex: 2006_cytometry_3d-parcoords.bib
 
-abstract: 
+abstract: "Presentation of multiple interactions is of vital importance in the new field of cytomics. Quantitative analysis of multi- and polychromatic stained cells in tissue will serve as a basis for medical diagnosis and prediction of disease in forthcoming years. A major problem asso- ciated with huge interdependent data sets is visualization. Therefore, alternative and easy-to-handle strategies for data visualization as well as data meta-evaluation (popula- tion analysis, cross-correlation, co-expression analysis) were developed."
 
 ---
 

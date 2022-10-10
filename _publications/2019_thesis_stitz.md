@@ -9,6 +9,7 @@ type: thesis
 
 shortname: Thesis-Stitz
 image: /assets/images/papers/2016_tvcg_thermalplot.png
+image_large: 2019_thesis_stitz-teaser.png
 
 authors: 
 - stitz

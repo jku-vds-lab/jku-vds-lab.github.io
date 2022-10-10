@@ -7,6 +7,7 @@ type: paper
 
 shortname: VisBricks
 image: 2011_infovis_visbricks.png
+image_large: 2011_infovis_visbricks-teaser.png
 
 authors:
 - Alexander Lex

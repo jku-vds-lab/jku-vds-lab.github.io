@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2009_ivbi_connecting-genes.png
+image_large: 2009_ivbi_connecting-genes-teaser.png
 
 authors:
 - Heimo Müller

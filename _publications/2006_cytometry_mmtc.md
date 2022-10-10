@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2006_cytometry_mmtc.png
+image_large: 2006_cytometry_mmtc-teaser.png
 
 authors:
 - Rupert C. Ecker
@@ -40,7 +41,7 @@ pdf: 2006_cytometry_mmtc.pdf
 supplement:
 bibtex: 2006_cytometry_mmtc.bib
 
-abstract: 
+abstract: "In tissue context, researchers and patholo- gists lack a generally applicable standard for quantitative determination of cytological parameters. Increasing knowledge of disease-specific markers calls for an appro- priate in situ tissue cytometry."
 
 ---
 

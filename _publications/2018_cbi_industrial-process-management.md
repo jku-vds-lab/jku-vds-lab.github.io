@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2018_cbi_industrial-process-management.png
+image_large: 2018_cbi_industrial-process-management-teaser.png
 
 authors:
 - Stefan Thalmann

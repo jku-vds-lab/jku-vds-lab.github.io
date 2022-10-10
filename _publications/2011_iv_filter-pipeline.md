@@ -7,6 +7,7 @@ type: paper
 
 shortname: VisBricks
 image: 2011_iv_filter-pipeline.png
+image_large: 2011_iv_filter-pipeline-teaser.png
 
 authors:
 - Thomas Geymayer

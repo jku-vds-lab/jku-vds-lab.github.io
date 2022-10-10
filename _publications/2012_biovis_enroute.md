@@ -7,6 +7,7 @@ type: paper
 
 shortname: enRoute
 image: 2012_biovis_enroute.png
+image_large: 2012_biovis_enroute-teaser.png
 
 authors:
 - Christian Partl

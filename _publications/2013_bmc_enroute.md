@@ -6,6 +6,7 @@ type: paper
 
 shortname: enRoute
 image: 2013_bmc_enroute.png
+image_large: 2013_bmc_enroute-teaser.png
 
 authors:
 - Christian Partl

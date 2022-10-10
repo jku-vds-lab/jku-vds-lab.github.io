@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2018_euroVA_guidance-decision-tree.png
+image_large: 2018_euroVA_guidance-decision-tree-teaser.png
 
 authors:
 - Davide Ceneda

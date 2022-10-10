@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2007_cescg_interactive-vis-complex-graphs.png
+image_large: 2007_cescg_interactive-vis-complex-graphs-teaser.png
 
 authors:
 - streit
@@ -32,8 +33,9 @@ pdf: 2007_cescg_interactive-vis-complex-graphs.pdf
 supplement:
 bibtex: 2007_cescg_interactive-vis-complex-graphs.bib
 
-abstract: 
+abstract: "We aim at a visualization framework that empowers the user to reveal information that is not obvious just by look- ing at the graph. The keys to reach that goal are interactive graphs in combination with well established visualization methods. Techniques such as multiple views, linking & brushing, and focus + context are already implemented in the system. Furthermore the application is designed for fast and modular integration of alternative and/or new vi- sualization concepts."
 
 ---
 
-
+# Acknowledgements
+The author wants to express his gratitude to Michael Kalkusch for his supervision and many fruitful discus- sions. Futhermore many thanks to Dieter Schmalstieg for giving me the opportunity to perform research on this in- teresting topic. This research was sponsored in part by Zukunftsfond Steiermark.

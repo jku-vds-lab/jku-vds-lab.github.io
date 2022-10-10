@@ -7,6 +7,7 @@ type: paper
 
 shortname: LineUp
 image: 2012_tvcg_model-driven.png
+image_large: 2012_tvcg_model-driven-teaser.png
 
 authors:
 - streit

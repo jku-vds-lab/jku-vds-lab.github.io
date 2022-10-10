@@ -7,7 +7,7 @@ type: paper
 
 shortname: Entourage
 image: 2013_infovis_entourage.png
-image: 2013_infovis_entourage_teaser.png
+image_large: 2013_infovis_entourage-teaser.png
 
 authors:
 - Alexander Lex

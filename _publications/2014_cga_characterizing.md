@@ -6,6 +6,7 @@ type: paper
 
 shortname: DualMeetsCaleydo
 image: 2014_cga_characterizing.png
+image_large: 2014_cga_characterizing-teaser.png
 
 authors:
 - Cagatay Turkay

@@ -7,6 +7,7 @@ type: paper
 
 shortname: StratomeX
 image: 2012_eurovis_stratomex.png
+image_large: 2012_eurovis_stratomex-teaser.png
 
 authors: 
 - Alexander Lex

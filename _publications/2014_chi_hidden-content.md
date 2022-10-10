@@ -7,6 +7,7 @@ type: paper
 
 shortname: Hidden-Content
 image: 2014_chi_hidden-content.png
+image_large: 2014_chi_hidden-content-teaser.png
 
 authors:
 - Thomas Geymayer

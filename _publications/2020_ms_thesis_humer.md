@@ -9,6 +9,7 @@ non_group_project: True
 
 shortname: Thesis-Humer
 image: 
+image_large: 2020_ms_thesis_humer-teaser.png
 
 authors: 
 - humer

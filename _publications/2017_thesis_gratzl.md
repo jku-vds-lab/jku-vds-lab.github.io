@@ -9,6 +9,7 @@ type: thesis
 
 shortname: Thesis-Gratzl
 image: /assets/images/papers/2013_infovis_lineup.png
+image_large: 2017_thesis_gratzl-teaser.png
 
 authors: 
 - gratzl

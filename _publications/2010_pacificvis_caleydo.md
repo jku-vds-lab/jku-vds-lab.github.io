@@ -7,6 +7,7 @@ type: paper
 
 shortname: VisBricks
 image: 2010_pacificvis_caleydo.png
+image_large: 2010_pacificvis_caleydo-teaser.png
 
 authors:
 - Alexander Lex

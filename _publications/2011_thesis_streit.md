@@ -8,7 +8,8 @@ type: thesis
 non_group_project: True
 
 shortname: Thesis-Streit
-image: /assets/images/papers/2012_tvcg_model-driven.png
+image: 2012_tvcg_model-driven.png
+image_large: 2011_thesis_streit-teaser.png
 
 authors: 
 - streit

@@ -7,6 +7,7 @@ type: paper
 
 shortname:
 image: 2009_cgvcvip_gaze-based.png
+image_large: 2009_cgvcvip_gaze-based-teaser.png
 
 authors:
 - streit

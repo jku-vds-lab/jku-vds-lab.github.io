@@ -7,6 +7,7 @@ type: paper
 
 shortname: Matchmaker
 image: 2010_infovis_matchmaker.png
+image_large: 2010_infovis_matchmaker-teaser.png
 
 authors:
 - Alexander Lex
