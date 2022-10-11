@@ -29,7 +29,7 @@ year: 2022
 
 bibentry: article
 bib:
-  journal: bioRxiv #IEEE VIS Workshop on Visualization in Biomedical AI 2022
+  journal: IEEE VIS Workshop on Visualization in Biomedical AI
   booktitle: 
   editor: 
   publisher: 
