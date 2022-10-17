@@ -59,6 +59,14 @@ videos:
  - name: 'Paper Video'
    youtube-id: 94W9pIsYq9g
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+ - name: 'Talk @ IEEE VIS Workshop on Visualization in Biomedical AI 2022'
+   youtube-id: -jBODbF5jf4
+   #description: 'Trololo'
+   extraurl: '[Workshop Homepage](https://vis-biomed-ai.github.io/)'
+   slides:
+    - file: 2022_ieeevis_kokiri.pptx
+    - file: 2022_ieeevis_kokiri.pdf
+
 
 # the prerint
 pdf: 2022_kokiri.pdf
