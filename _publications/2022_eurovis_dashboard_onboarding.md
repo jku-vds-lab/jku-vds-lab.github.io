@@ -11,7 +11,7 @@ paper_content_url:
 # The shortname is used for auto-generated titels
 shortname: Dashboard Onboarding
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2022_eurovis_dashboard_onboarding.png
+image: 2022_paper_dashboard_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
 image_large: 2022_eurovis_dashboard_onboarding_teaser.png
 
