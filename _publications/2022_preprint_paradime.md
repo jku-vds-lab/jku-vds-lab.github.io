@@ -44,7 +44,7 @@ authors:
 - humer
 - Bernhard Kainz
 - streit
-- 
+
 # abreviation of the journal/conference ... e.g. IEEE TVCG
 journal-short: arXiv Preprint
 # when was this publication written/ when was the publication accepted (e.g. 2020)
