@@ -8,7 +8,7 @@ title: "Effects of Explainable Artificial Intelligence on trust and human behavi
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
+type: paper
 abstract: "Understanding the recommendation of an artificially intelligent (AI) assistant for decision-making is especially important
 in high-risk tasks, such as deciding whether a mushroom is edible or poisonous. To foster user understanding and appropriate trust in
 such systems, we tested the effects of explainable artificial intelligence (XAI) methods and an educational intervention on AI-assisted
@@ -64,16 +64,16 @@ year: 2022
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: OSF Preprint		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Computers in Human Behavior (in press)
   booktitle:
   editor:
   publisher:
-  doi: 10.31219/osf.io/n4w6u
-  url: https://osf.io/n4w6u/
+  doi: 10.1016/j.chb.2022.107539
+  url: https://www.sciencedirect.com/science/article/pii/S0747563222003594
   volume: 
   number: 
   pages: 
-  month: June
+  month: October
 
 preprint: https://osf.io/n4w6u/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
