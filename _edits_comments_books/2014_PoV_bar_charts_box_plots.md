@@ -7,6 +7,7 @@ title: "Points of View: Bar Charts and Box Plots"
 type: commentaries
 
 image: /assets/images/covers/2014_nature-methods.gif
+image_large: 2014_nature-methods.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:

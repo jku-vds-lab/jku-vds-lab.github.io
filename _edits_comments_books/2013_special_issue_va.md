@@ -7,6 +7,7 @@ title: "Special Issue on Visual Analytics"
 type: editorial
 
 image: /assets/images/covers/2013_ieee-computer_visual-analytics.png
+image_large: 2013_special_issue_va.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
