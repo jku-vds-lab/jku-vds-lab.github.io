@@ -4,7 +4,7 @@ layout: publication
 title: "Kokiri: Random-Forest-Based Comparison and Characterization of Cohorts"
 key: 2022_kokiri
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
