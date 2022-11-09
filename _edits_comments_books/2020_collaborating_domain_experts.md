@@ -25,9 +25,14 @@ editors:
 - Gerik Scheuermann 
 
 year: 2020
+bibentry: inbook
 bib:
   journal: Springer
   doi: 10.1007/978-3-030-34444-3_15
+  pages: 285--293
+  publisher: Springer International Publishing
+  booktitle: Foundations of Data Visualization
+  chapter: "Collaborating Successfully with Domain Experts"
 
 paper_content_url: ""
 pdf: https://link.springer.com/content/pdf/10.1007/978-3-030-34444-3.pdf
