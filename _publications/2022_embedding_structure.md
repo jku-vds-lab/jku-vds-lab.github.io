@@ -112,12 +112,6 @@ abstract: "In this work, we propose an interactive visual approach for the explo
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
-# Talk @ ISMB BioVis 2022 #, commented out by stefan to utilize the new video sidebar category
-
-#<iframe width="560" height="315" src="https://www.youtube.com/embed/1S-IYcXWZmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).
-#**Slides**: [PPTX](https://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pptx) \| [PDF](https://data.jku-vds-lab.at/papers/2022_biovis_eckelt.pdf)
-#**BioVis Program**: [http://biovis.net/2022/program_ismb/](http://biovis.net/2022/program_ismb/)
 ---
 # Acknowledgements
 
