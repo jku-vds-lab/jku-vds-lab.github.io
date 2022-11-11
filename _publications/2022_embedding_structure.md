@@ -77,13 +77,21 @@ videos:
  - name: 'Paper Video'
    youtube-id: yBCe8SqGwK8
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
- - name: 'Talk @ ISMB BioVis 2022'
+ - name: 'Talk @ IEEE VIS 2022'
+   youtube-id: g1Te9VwyMsM
+   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+   extraurl: '[IEEE VIS Program](https://ieeevis.org/year/2022/info/papers-sessions)'
+   slides:
+    - file: 2022_ieeevis_embedding_structure.pptx
+    - file: 2022_ieeevis_embedding_structure.pdf
+- name: 'Talk @ ISMB BioVis 2022'
    youtube-id: 1S-IYcXWZmY
    description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
    extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
    slides:
     - file: 2022_biovis_eckelt.pptx
     - file: 2022_biovis_eckelt.pdf
+
 
 # the prerint
 pdf: paper_2022_embedding_structure.pdf
