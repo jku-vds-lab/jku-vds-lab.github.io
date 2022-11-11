@@ -79,14 +79,14 @@ videos:
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
  - name: 'Talk @ IEEE VIS 2022'
    youtube-id: g1Te9VwyMsM
-   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+#   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
    extraurl: '[IEEE VIS Program](https://ieeevis.org/year/2022/info/papers-sessions)'
    slides:
     - file: 2022_ieeevis_embedding_structure.pptx
     - file: 2022_ieeevis_embedding_structure.pdf
  - name: 'Talk @ ISMB BioVis 2022'
    youtube-id: 1S-IYcXWZmY
-   description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
+# description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
    extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
    slides:
     - file: 2022_biovis_eckelt.pptx
@@ -119,3 +119,6 @@ This work was supported in part by the Boehringer Ingelheim Regional Center Vien
 
 
 <script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"Klaus.Eckelt@gmail.com",utcoffset:"1"}))};sessionStorage.setItem("_swa","1");</script>
+
+# Projection Space Explorer
+Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).
