@@ -84,7 +84,7 @@ videos:
    slides:
     - file: 2022_ieeevis_embedding_structure.pptx
     - file: 2022_ieeevis_embedding_structure.pdf
-- name: 'Talk @ ISMB BioVis 2022'
+ - name: 'Talk @ ISMB BioVis 2022'
    youtube-id: 1S-IYcXWZmY
    description: 'Usage and all applications of the Projection Space Explorer can be found on the dedicated [Landing Page](https://jku-vds-lab.at/pse/).'
    extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
