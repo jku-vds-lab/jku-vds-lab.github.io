@@ -63,10 +63,10 @@ bib:
   publisher: Elsevier
   doi: 10.1016/j.visinf.2022.07.001 # e.g.10.1109/TVCG.2020.3012063
   url: https://doi.org/10.1016/j.visinf.2022.07.001
-  volume: 
-  number: 
-  pages: 
-  month: March
+  volume: 6
+  number: 4
+  pages: 34--50
+  month: December
 
 #preprint: https://arxiv.org/abs/2203.15418	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
