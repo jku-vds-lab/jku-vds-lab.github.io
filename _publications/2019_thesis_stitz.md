@@ -8,7 +8,7 @@ type: thesis
 #non_group_project: False
 
 shortname: Thesis-Stitz
-image: /assets/images/papers/2016_tvcg_thermalplot.png
+image: 2016_tvcg_thermalplot.png
 image_large: 2019_thesis_stitz-teaser.png
 
 authors: 
