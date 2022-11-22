@@ -9,7 +9,7 @@ type: thesis
 
 
 # The shortname is used for auto-generated titels
-shortname: Kokiri
+shortname: PhD Thesis Hinterreiter
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
 image: 2022_thesis_hinterreiter_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
@@ -18,16 +18,18 @@ image_large: 2022_thesis_hinterreiter.png
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
 - hinterreiter
-advisors:
-- streit
-- Bernhard Kainz
+advisors: Marc Streit, Bernhard Kainz
 
 year: 2022
 month: November
 institution: Johannes Kepler University Linz
 thesis_type: PhD Thesis
 
-bibentry: phdthesis
+bibentry: thesis
+bib:
+  institution: Johannes Kepler University Linz
+  month: November
+  type: phdthesis
 
 non_group_project: False
 
