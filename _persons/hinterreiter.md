@@ -29,7 +29,7 @@ position: Project Assistant # This is the position that you have within your org
 #### the following fields are optional. It is recommended to add as much information as possible, since otherwise your page would look empty ;)
 
 # in degrees_pre you can state all your degrees that should be displayed in front of your name e.g. "Dr", "DI", "Prof" etc. (or a combination of several)
-degrees_pre:  DI
+degrees_pre:  DI Dr.
 # in degrees_post you can state all your degrees that should be displayed after your name e.g. "BSc", "MSc" etc. (or a combination of several)
 degrees_post:
 
@@ -64,12 +64,13 @@ website:
 ####
 ---
 
-I'm a PhD student and Project Assistant in the Visual Data Science Lab.
-My research focuses on time series visualization and dimensionality reduction in the context of explainable AI.
-I am especially interested in non-linear embedding techniques.
+I'm a postdoctoral researcher and Project Assistant in the Visual Data Science Lab.
+My research focuses on bringing techniques from visualization and machine learning together.
+I am especially interested in dimensionality reduction and explainbale AI.
 
-My PhD is part of a collaboration with [Imperial College London](http://www.imperial.ac.uk/).
-In 2019 and 2020, I spent a year at the [Biomedical Image Analysis (BioMedIA) group](https://biomedia.doc.ic.ac.uk/) at Imperial.
+My PhD project was a collaboration with [Imperial College London](http://www.imperial.ac.uk/).
+As a part of that project, I spent one year at the [Biomedical Image Analysis (BioMedIA) group](https://biomedia.doc.ic.ac.uk/) at Imperial.
+I finished my PhD in December 2022 with my thesis on [Visual Explanations of High-dimensional and Temporal Processes]({{ site.baseurl }}/publications/2022_phd_thesis_hinterreiter/).
 
 I received my Masters degree in Technical Physics at [Johannes Kepler University Linz](https://www.jku.at/en/), working on the structural and chemical analysis of surfaces.
 As I had grown increasingly interested in machine learning, visualization and graphic design, I decided to transition to visualization research for my PhD.
