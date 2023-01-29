@@ -1,4 +1,11 @@
 - author: streit 
+  title: "Explainable AI and Data Visualization"
+  event: "Applied AI, GlaxoSmithKline" 
+  date: 2023-01-26
+  location: London, UK
+  type: invited talk 
+
+- author: streit 
   title: "Using Embeddings for Exploring and Explaining High-Dimensional Data"
   event: "Austrian Computer Science Day" 
   date: 2022-06-21
