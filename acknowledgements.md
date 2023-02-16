@@ -24,7 +24,7 @@ Visual Data Science Lab makes use of a range of open source tools, bioinformatic
 
 # Datasets
 
-* [CCLE](https://www.broadinstitute.org/software/cprg/?q=node/11) - BROAD Institute Cancer Cell Line Encyclopedia.
+* [CCLE](https://sites.broadinstitute.org/ccle) - BROAD Institute Cancer Cell Line Encyclopedia.
 * [TCGA](https://cancergenome.nih.gov/) - The Cancer Genome Atlas.
 
 # Resources
