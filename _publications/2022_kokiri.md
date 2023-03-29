@@ -24,7 +24,7 @@ authors:
 - Thomas Zichner
 - streit
 
-journal-short: Preprint #Visualization in Biomedical AI '22
+journal-short: vis-biomed-ai
 year: 2022
 
 bibentry: article
