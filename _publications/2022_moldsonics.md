@@ -48,7 +48,7 @@ authors:
 - streit
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: Electronic Imaging / Visualization and Data Analysis
+journal-short: Electronic Imaging, VDA
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2023
 
