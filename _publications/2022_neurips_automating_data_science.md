@@ -8,7 +8,7 @@ title: "Towards a Human-Centered Approach for Automating Data Science" # title o
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
+type: paper
 abstract: "Technology for Automating Data Science (AutoDS) consistently undervalues the role of human labor, resulting in tools that, at best, are ignored and, at worst, can actively mislead or even cause harm. Even if full and frictionless automation were possible, human oversight is still desired and required to review the outputs of AutoDS tooling and integrate them into decision-making processes. We propose a human-centered lens to AutoDS that emphasizes the collaborative relationships between humans and these automated processes and elevates the effects these interactions have on downstream decision-making. Our approach leverages a provenance framework that integrates user-, data-, and model-centric approaches to make AutoDS platforms observable and interrogable by humans." 
 
 # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
@@ -53,7 +53,7 @@ year: 2022
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Workshop on Human-Centered AI at NeurIPS (Preprint)		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Workshop on Human-Centered AI at NeurIPS		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
   publisher: 
@@ -62,9 +62,9 @@ bib:
   volume: 
   number: 
   pages: 
-  month: December
+  month: 
 
-preprint: https://research.tableau.com/sites/default/files/Crisan_NeurIPS_HCAI_AutoDS.pdf	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
+preprint: 	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
@@ -88,7 +88,7 @@ youtube-id:
 preview-youtube-id: 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: 
+pdf: 2022_neurips_automating_data_science.pdf
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 

@@ -57,23 +57,23 @@ authors:
 - Martina Mara
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: OSF Preprint
+journal-short: Comput. Hum. Behav.
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2022
+year: 2023
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Computers in Human Behavior (in press)
+  journal: Computers in Human Behavior
   booktitle:
   editor:
-  publisher:
+  publisher: Elsevier
   doi: 10.1016/j.chb.2022.107539
   url: https://www.sciencedirect.com/science/article/pii/S0747563222003594
-  volume: 
+  volume: 139
   number: 
-  pages: 
-  month: October
+  pages: 107539
+  month: February
 
 preprint: https://osf.io/n4w6u/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
@@ -112,7 +112,7 @@ supplements:
 #  linksym: true
 
 # Link to the repository where the code is hostet
-code: 
+code: https://osf.io/tqbgh/
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
