@@ -57,7 +57,7 @@ bib:
   booktitle:
   editor:
   publisher:
-  doi: 10.1111/cgf.12345
+  doi: 10.1111/cgf.14834
   url:
   volume: 
   number: 
