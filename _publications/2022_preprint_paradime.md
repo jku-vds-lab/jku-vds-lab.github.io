@@ -8,8 +8,8 @@ title: "ParaDime: A Framework for Parametric Dimensionality Reduction"
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
-abstract: "ParaDime is a framework for parametric dimensionality reduction (DR). In parametric DR, neural networks are trained to embed high-dimensional data items in a low-dimensional space while minimizing an objective function. ParaDime builds on the idea that the objective functions of several modern DR techniques result from transformed inter-item relationships. It provides a common interface to specify the way these relations and transformations are computed and how they are used within the losses that govern the training process. Through this interface, ParaDime unifies parametric versions of DR techniques such as metric MDS, t-SNE, and UMAP. Furthermore, it allows users to fully customize each aspect of the DR process. We show how this ease of customization makes ParaDime suitable for experimenting with interesting techniques, such as hybrid classification/embedding models or supervised DR, which opens up new possibilities for visualizing high-dimensional data."
+type: paper
+abstract: "ParaDime is a framework for parametric dimensionality reduction (DR). In parametric DR, neural networks are trained to embed high-dimensional data items in a low-dimensional space while minimizing an objective function. ParaDime builds on the idea that the objective functions of several modern DR techniques result from transformed inter-item relationships. It provides a common interface for specifying these relations and transformations and for defining how they are used within the losses that govern the training process. Through this interface, ParaDime unifies parametric versions of DR techniques such as metric MDS, t-SNE, and UMAP. It allows users to fully customize all aspects of the DR process. We show how this ease of customization makes ParaDime suitable for experimenting with interesting techniques such as hybrid classification/embedding models and supervised DR. This way, ParaDime opens up new possibilities for visualizing high-dimensional data."
 
 # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
@@ -48,21 +48,21 @@ authors:
 # abreviation of the journal/conference ... e.g. IEEE TVCG
 journal-short: arXiv Preprint
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2022
+year: 2023
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: "arXiv:2210.04582 [cs.LG]"		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Computer Graphics Forum (EuroVis '23)
   booktitle:
   editor:
   publisher:
-  doi: 10.48550/arXiv.2210.04582
-  url: https://arxiv.org/abs/2210.04582
+  doi: 10.1111/cgf.12345
+  url:
   volume: 
   number: 
   pages: 
-  month: October
+  month: June
 
 preprint: https://arxiv.org/abs/2210.04582 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
@@ -82,10 +82,9 @@ external-project: https://paradime.readthedocs.io/en/latest/
 # # The key of the preview video .md file (in _videos subfolder)
 # preview-video:
 
-# the youtube-id of the video
-youtube-id: 
-# the youtube-id of the preview-video
-preview-youtube-id: 
+videos:
+ - name: 'Paper Video'
+   youtube-id: pTLfvaEtCEI
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf:
