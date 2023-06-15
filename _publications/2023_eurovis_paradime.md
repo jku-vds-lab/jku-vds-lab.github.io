@@ -28,9 +28,9 @@ paper_content_url: https://arxiv.org/abs/2210.04582
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
 shortname: ParaDime
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
-image: 2022_preprint_paradime_small.png
+image: 2023_paradime_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
-image_large: 2022_preprint_paradime_large.png
+image_large: 2023_paradime_large.png
 
 # Authors in the "database" can be used with just the key that is specified in the corresponding .md file (usually it is the lastname in lower case e.g. doe). Authors that do not have an individual page here should be stated with their full name (e.g. John Doe)
 # each author is one item in the list. the list is enumerated with dashes ("-")
@@ -46,7 +46,7 @@ authors:
 - streit
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: arXiv Preprint
+journal-short: CGF
 # when was this publication written/ when was the publication accepted (e.g. 2020)
 year: 2023
 
@@ -57,7 +57,7 @@ bib:
   booktitle:
   editor:
   publisher:
-  doi: 10.1111/cgf.14834
+  doi: 10.1111/cgf14834
   url:
   volume: 
   number: 
