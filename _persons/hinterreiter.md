@@ -18,7 +18,7 @@ role: raPhD
 email: andreas.hinterreiter@jku.at # this is your work e-mail address
 image: /assets/images/team_colored/hinterreiter.jpg # insert the relative link to your profile image
 organization: Johannes Kepler University Linz # usually you leave this unchanged, but if your have a different organization, feel free to change the property
-position: Project Assistant # This is the position that you have within your organization. e.g. "Project Assistant", "University Assistant", "Technical Support", "Student Research" (or whatever Marc tells you^^)
+position: University Assistant # This is the position that you have within your organization. e.g. "Project Assistant", "University Assistant", "Technical Support", "Student Research" (or whatever Marc tells you^^)
 ####
 
 
@@ -64,7 +64,7 @@ website:
 ####
 ---
 
-I'm a postdoctoral researcher and Project Assistant in the Visual Data Science Lab.
+I'm a postdoctoral researcher and University Assistant in the Visual Data Science Lab.
 My research focuses on bringing techniques from visualization and machine learning together.
 I am especially interested in dimensionality reduction and explainbale AI.
 
