@@ -14,9 +14,9 @@ lsi: false
 google_analytics: "G-XB7C1C7YVE"
 use_analytics: true
 
-paper_content_url: http://data.jku-vds-lab.at/papers/
-poster_content_url: http://data.jku-vds-lab.at/posters/
-data_url: http://data.jku-vds-lab.at/
+paper_content_url: https://data.jku-vds-lab.at/papers/
+poster_content_url: https://data.jku-vds-lab.at/posters/
+data_url: https://data.jku-vds-lab.at/
 
 # Build settings
 
