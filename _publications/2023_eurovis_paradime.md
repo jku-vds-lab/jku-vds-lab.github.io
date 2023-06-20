@@ -59,8 +59,8 @@ bib:
   publisher:
   doi: 10.1111/cgf.14834
   url:
-  volume: 
-  number: 
+  volume: 42
+  number: 3
   pages: 
   month: June
 
