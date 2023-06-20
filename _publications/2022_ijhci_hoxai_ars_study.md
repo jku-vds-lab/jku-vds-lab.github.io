@@ -8,8 +8,8 @@ title: "Explainable Artificial Intelligence improves human decision-making: Resu
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
-abstract: "Explainable Artificial Intelligence (XAI) enables an Artificial Intelligence (AI) to explain its decisions. This holds the promise of making AI more understandable to users, improving interaction, and establishing an adequate level of trust. We tested this assertion in the high-risk task of mushroom hunting, where users have to decide whether a mushroom is edible or poisonous with the aid of an AI-based app that suggests classifications based on mushroom images. In a between-subjects experiment N = 328 visitors of an Austrian media art exhibition played a mushroom hunting game on tablet computers while walking through a highly immersive artificial indoor forest. One group saw the AI's decisions only, while a second group additionally received attribution-based and example-based visual explanations of the AI's recommendation. The results show that participants with visual explanations outperformed participants without explanations in correct edibility assessments and pick-up decisions. This exhibition-based experiment thus replicated the decision-making results of a previous online study. However, unlike in the previous study, the visual explanations did not affect levels of trust or acceptance measures. In a direct comparison, we consequently discuss the findings in terms of generalizability. Besides the scientific contribution, we discuss the direct impact of conducting XAI experiments in highly immersive art- and game-based environments in exhibition contexts on visitors and local communities by triggering reflection and awareness for psychological issues of human-AI interaction." 
+type: paper
+abstract: "Explainable Artificial Intelligence (XAI) enables Artificial Intelligence (AI) to explain its decisions. This holds the promise of making AI more understandable to users, improving interaction, and establishing an adequate level of trust. We tested this claim in the high-risk task of AI-assisted mushroom hunting, where people had to decide whether a mushroom was edible or poisonous. In a between-subjects experiment, 328 visitors of an Austrian media art festival played a tablet-based mushroom hunting game while walking through a highly immersive artificial indoor forest. As part of the game, an artificially intelligent app analyzed photos of the mushrooms they found and recommended classifications. One group saw the AI’s decisions only, while a second group additionally received attribution-based and example-based visual explanations of the AI’s recommendation. The results show that participants with visual explanations outperformed participants without explanations in correct edibility assessments and pick-up decisions. This exhibition-based experiment thus replicated the decision-making results of a previous online study. However, unlike in the previous study, the visual explanations did not significantly affect levels of trust or acceptance measures. In a direct comparison, we consequently discuss the findings in terms of generalizability. Besides the scientific contribution, we discuss the direct impact of conducting XAI experiments in immersive art- and game-based environments in exhibition contexts on visitors and local communities by triggering reflection and awareness for psychological issues of human–AI interaction." 
 
 # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
@@ -47,23 +47,23 @@ authors:
 - Martina Mara
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: OSF Preprint
+journal-short: Int. J. Hum.–Comput. Interact.
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2022
+year: 2023
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: OSF Preprint		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: International Journal of Human–Computer Interaction
   booktitle:
   editor:
-  publisher:
-  doi: 10.31219/osf.io/68emr
-  url: https://osf.io/7vd5j/
+  publisher: Taylor & Francis
+  doi: 10.1080/10447318.2023.2221605
+  url:
   volume: 
   number: 
   pages: 
-  month: September
+  month: June
 
 preprint: https://osf.io/7vd5j/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
