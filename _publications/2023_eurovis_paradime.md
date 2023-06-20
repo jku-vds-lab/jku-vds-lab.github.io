@@ -83,8 +83,12 @@ external-project: https://paradime.readthedocs.io/en/latest/
 # preview-video:
 
 videos:
- - name: 'Paper Video'
+ - name: 'Paper Presentation for EuorVis 2023'
    youtube-id: pTLfvaEtCEI
+   extrurl: '[EuroVis 2023 Program](https://conferences.eg.org/eurovis2023/for-attendees/program/#full11)'
+   slides:
+    - file: 2023-paradime-full.pptx
+    - file: 2023-paradime-eurovis-pptx.pdf
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
 pdf:
