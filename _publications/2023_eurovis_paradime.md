@@ -61,7 +61,7 @@ bib:
   url:
   volume: 42
   number: 3
-  pages: 
+  pages: 337-348
   month: June
 
 preprint: https://arxiv.org/abs/2210.04582 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
