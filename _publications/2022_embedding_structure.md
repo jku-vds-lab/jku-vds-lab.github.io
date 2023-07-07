@@ -28,7 +28,7 @@ authors:
 - steinparz
 - streit
 
-journal-short: IEEE TVCG
+journal-short: TVCG
 year: 2023
 
 bibentry: article

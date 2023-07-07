@@ -30,7 +30,7 @@ authors:
 - Hendrik Strobelt
 - streit
 
-journal-short: IEEE TVCG
+journal-short: TVCG
 year: 2022
 
 bibentry: article

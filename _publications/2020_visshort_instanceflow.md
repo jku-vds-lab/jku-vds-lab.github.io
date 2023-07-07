@@ -22,7 +22,7 @@ authors:
 - hinterreiter
 - streit 
 
-journal-short: IEEE VIS Short Paper
+journal-short: VIS Short Paper
 year: 2020
 
 bibentry: inproceedings
