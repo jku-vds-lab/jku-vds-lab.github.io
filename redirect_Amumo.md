@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_link: https://ginihumer.github.io/Amumo/
+redirect_link: https://ginihumer.github.io/Amumo
 permalink: /amumo/
 ---
