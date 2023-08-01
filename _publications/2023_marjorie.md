@@ -40,7 +40,7 @@ bib:
   volume: 
   number: 
   pages: 
-  month: March
+  month: August
 
 preprint: https://osf.io/34t8c/ # here you can put all preprint links (arxiv.org, osf.io,...)
 
