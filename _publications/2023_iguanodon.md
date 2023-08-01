@@ -36,14 +36,14 @@ bib:
   editor: 
   publisher: 
   address: 
-  doi: 10.17605/OSF.IO/J95PS
-  url: https://doi.org/10.17605/OSF.IO/J95PS
+  doi: 10.31219/osf.io/xung4
+  url: https://doi.org/10.31219/osf.io/xung4 
   volume: 
   number: 
   pages: 
   month: August
 
-preprint: https://osf.io/j95ps/ # here you can put all preprint links (arxiv.org, osf.io,...)
+preprint: https://osf.io/xung4/ # here you can put all preprint links (arxiv.org, osf.io,...)
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
