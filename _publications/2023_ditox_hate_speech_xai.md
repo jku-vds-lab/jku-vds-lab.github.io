@@ -28,7 +28,7 @@ year: 2023
 
 bibentry: inproceedings
 bib:
-  journal: LDK Workshop on Disinformation and Toxic Content Analysis (DiTox '23)
+  journal: LDK Workshop on Disinformation and Toxic Content Analysis (DiTox '23, to appear)
   booktitle: 
   editor: 
   publisher: 
