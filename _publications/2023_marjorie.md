@@ -69,8 +69,14 @@ external-project: https://marjorie.jku-vds-lab.at/
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/marjorie/
 
-abstract: "In this work, we propose Marjorie, a visual analytics approach to address the challenge of analyzing patients’ diabetes data during brief regular appointments with their diabetologists. Designed in consultation with diabetologists, Marjorie uses a combination of visual and algorithmic methods to support the exploration of patterns in the data. Patterns of interest include seasonal variations of the glucose profiles, and non-periodic patterns such as fluctuations around mealtimes or periods of hypoglycemia (i.e., glucose levels below the normal range). We introduce a unique representation of glucose data based on modified horizon graphs and hierarchical clustering of adjacent carbohydrate or insulin entries. Semantic zooming allows the exploration of patterns on different levels of temporal detail.
-We evaluated our solution in a case study, which demonstrated Marjorie’s potential to provide valuable insights into therapy parameters and unfavorable eating habits, among others. The study results suggest that Marjorie effectively supports patients and diabetologists in the joint exploration of patterns in diabetes data, potentially enabling more informed treatment decisions.
+abstract: "In this work we propose Marjorie, a visual analytics approach to address the challenge of analyzing patients' diabetes data during brief regular appointments with their diabetologists.
+Designed in consultation with diabetologists, Marjorie uses a combination of visual and algorithmic methods to support the exploration of patterns in the data.
+Patterns of interest include seasonal variations of the glucose profiles, and non-periodic patterns such as fluctuations around mealtimes or periods of hypoglycemia (i.e., glucose levels below the normal range).
+We introduce a unique representation of glucose data based on modified horizon graphs and hierarchical clustering of adjacent carbohydrate or insulin entries.
+Semantic zooming allows the exploration of patterns on different levels of temporal detail.
+We evaluated our solution in a case study, which demonstrated Marjorie's potential to provide valuable insights into therapy parameters and unfavorable eating habits, among others.
+The study results and informal feedback collected from target users suggest that Marjorie effectively supports patients and diabetologists in the joint exploration of patterns in diabetes data, potentially enabling more informed treatment decisions.
+A free copy of this paper and all supplemental materials are available at https://osf.io/34t8c/
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
