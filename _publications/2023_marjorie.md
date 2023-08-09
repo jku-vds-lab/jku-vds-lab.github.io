@@ -56,11 +56,9 @@ project:
 # Use this if you have an external project website
 external-project: https://marjorie.jku-vds-lab.at/
 
-# TODO add video
-# videos:
-#  - name: 'Paper Video'
-#    youtube-id: 94W9pIsYq9g
-#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
+videos:
+ - name: 'Paper Video'
+   youtube-id: https://youtu.be/wwFkrdqp4uo
 
 
 pdf: 2023_marjorie.pdf
@@ -86,5 +84,3 @@ A free copy of this paper and all supplemental materials are available at <a hre
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 
 ---
-
-
