@@ -41,7 +41,7 @@ bib:
   volume: 
   number: 
   pages: 
-  month: August
+  month:
 
 preprint: https://osf.io/xung4/ # here you can put all preprint links (arxiv.org, osf.io,...)
 
