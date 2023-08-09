@@ -36,7 +36,7 @@ bib:
   publisher: 
   address: 
   doi:  10.31219/osf.io/caj2n
-  url: https://osf.io/caj2n
+  url:
   volume: 
   number: 
   pages: 
