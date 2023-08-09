@@ -24,20 +24,20 @@ authors:
   - streit
 
 journal-short: TVCG
-year: 2021
+year: 2023
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
+  journal: IEEE Transactions on Visualization and Computer Graphics
   editor:
   publisher:
   address:
   doi: 10.1109/TVCG.2021.3119212
   url:
-  volume:
-  number:
-  pages:
-  month:
+  volume: 29
+  number: 2
+  pages: 1463-1477
+  month: February
 
 preprint: https://osf.io/j5g4b/ # here you can put all preprint links (arxiv.org, osf.io,...)
 

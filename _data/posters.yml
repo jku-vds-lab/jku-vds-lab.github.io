@@ -1,4 +1,15 @@
 - authors:
+  - steinparz
+  - hinterreiter
+  - streit
+  title: Visualizing Pairwise Feature Interactions in Neural Additive Models
+  journal: EG Conference on Visualization (EuroVis '23), Leipzig, DE
+  year: 2023
+  abstract-pdf: 2023_eurovis_namvis_abstract.pdf
+  poster-pdf: 2023_eurovis_namvis_abstract_supplements_poster.pdf
+  award: 
+
+- authors:
   - humer
   - Mohamed Elharty
   - hinterreiter

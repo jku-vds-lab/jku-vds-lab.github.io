@@ -24,7 +24,7 @@ authors:
 - stitz
 - streit 
 
-journal-short: IEEE TVCG
+journal-short: TVCG
 year: 2021
 
 bibentry: article

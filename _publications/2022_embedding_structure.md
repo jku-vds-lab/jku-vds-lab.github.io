@@ -28,22 +28,22 @@ authors:
 - steinparz
 - streit
 
-journal-short: IEEE TVCG
-year: 2022
+journal-short: TVCG
+year: 2023
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
+  journal: IEEE Transactions on Visualization and Computer Graphics
   booktitle: 
   editor: 
   publisher: 
   address: 
   doi: 10.1109/TVCG.2022.3156760
-  url: 
-  volume: 
-  number: 
-  pages: 
-  month: March
+  url: https://ieeexplore.ieee.org/document/9729550
+  volume: 29
+  number: 7
+  pages: 3312-3326
+  month: July
 
 preprint: https://osf.io/ujbrs # here you can put all preprint links (arxiv.org, osf.io,...)
 

@@ -70,6 +70,7 @@ videos:
    extraurl: '[BioVis Program](http://biovis.net/2022/program_ismb/)'
    slides:
     - file: 2022_biovis_adelberger.pdf
+    - file: 2022_biovis_adelberger.pptx
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
 
 # the prerint
