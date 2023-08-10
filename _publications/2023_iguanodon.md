@@ -26,7 +26,7 @@ authors:
 - Markus Schedl
 - streit
 
-journal-short: Preprint
+journal-short: OSF
 year: 2023
 
 bibentry: article
