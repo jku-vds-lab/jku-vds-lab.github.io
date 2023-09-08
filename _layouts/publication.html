@@ -189,7 +189,7 @@ layout: default
           </p>
         </a>
       </li>
-      {% elsif page.bib.doi %}
+      {% elsif page.bib.doi and page.preprint == nil %}
       <li>
         <a href="https://dx.doi.org/{{ page.bib.doi }}" target="_blank">
           <p>
