@@ -57,7 +57,7 @@ award:
 pdf: 2023_pattern_detection_xai.pdf
 
 # Link to the repository where the code is hostet
-code:
+code: https://github.com/mbitob/long-and-short-term-pattern-detection
 
 abstract: "Combining explainable artificial intelligence and information visualization holds great potential for users to understand and reason about complex multidimensional sequential data. This work proposes a semi-supervised two-step approach for extracting long- and short-term patterns in low-dimensional representations of sequential data.
 First, unsupervised sequence clustering is used to identify long-term patterns. Second, these long-term patterns serve as supervisory information for training a self-attention-based sequence classification model. The resulting feature embedding is used to identify short-term patterns.
