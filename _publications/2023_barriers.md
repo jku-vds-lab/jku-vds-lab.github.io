@@ -4,7 +4,7 @@ layout: publication
 title: "Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities"
 key: 2023_barriers
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -30,7 +30,7 @@ year: 2023
 
 bibentry: article
 bib:
-  journal: 
+  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, to appear)
   booktitle: 
   editor: 
   publisher: 
