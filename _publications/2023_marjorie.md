@@ -25,12 +25,12 @@ authors:
 - streit
 - hinterreiter
 
-journal-short: OSF
+journal-short: IEEE VIS
 year: 2023
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, to appear)
   booktitle: 
   editor: 
   publisher: 
