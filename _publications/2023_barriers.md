@@ -25,7 +25,7 @@ authors:
 - streit
 - Miriah Mayer
 
-journal-short: IEEE VIS: Visualization & Visual Analytics
+journal-short: IEEE VIS
 year: 2023
 
 bibentry: article
