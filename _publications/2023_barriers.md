@@ -23,7 +23,7 @@ authors:
 - walchshofer
 - dhanoa
 - streit
-- Miriah Mayer
+- Miriah Meyer
 
 journal-short: IEEE VIS
 year: 2023
