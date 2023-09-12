@@ -30,16 +30,16 @@ year: 2020
 
 bibentry: article
 bib:
-  journal: Computer Graphics Forum, EuroVis STAR 2020 (Early Access)
+  journal: Computer Graphics Forum
   booktitle: 
   editor: 
-  publisher: https://diglib.eg.org/handle/10.1111/cgf14035
+  publisher: #https://diglib.eg.org/handle/10.1111/cgf14035
   address: 
-  doi: #10.1111/cgf.14035
+  doi: 10.1111/cgf.14035
   url: 
-  volume: 
-  number: 
-  pages: 
+  volume: 39
+  number: 3
+  pages: 757-783
   month: 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"

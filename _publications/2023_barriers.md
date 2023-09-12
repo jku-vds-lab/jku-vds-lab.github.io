@@ -4,7 +4,7 @@ layout: publication
 title: "Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities"
 key: 2023_barriers
 # paper | preprint | poster
-type: paper
+type: preprint
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
