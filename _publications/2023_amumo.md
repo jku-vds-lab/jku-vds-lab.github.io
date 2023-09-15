@@ -76,7 +76,7 @@ award:
 project: 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
-external-project: https://jku-vds-lab.at/amumo
+external-project: 
 
 # (deprecated)
 # # The key of the video .md file (in _videos subfolder)
