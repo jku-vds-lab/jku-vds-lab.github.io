@@ -49,7 +49,7 @@ journal-short: VISxAI
 year: 2023
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
-publisherurl: # add link to publisher page of your publication
+publisherurl: https://visxai.io/ # add link to publisher page of your publication
 
 # what is the publication type and other bib specific properties
 bibentry: article
@@ -60,7 +60,7 @@ bib:
   publisher: 
   address: 
   doi: 		# e.g.10.1109/TVCG.2020.3012063
-  url: 
+  url: https://jku-vds-lab.at/amumo
   volume: 
   number: 
   pages: 
