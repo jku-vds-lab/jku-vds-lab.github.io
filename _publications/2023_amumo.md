@@ -15,7 +15,7 @@ abstract: "Contrastive Language Image Pre-training (CLIP) and variations of this
 
 
 # set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
-paper_content_url: https://jku-vds-lab.at/amumo
+paper_content_url: https://jku-vds-lab.at/
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True
 # uncomment the "non_group_project" property, if you only want the publication to be displayed on your personal page (i.e. publications where you contributed, but does not have anything to do with the Vis Group e.g. Master Thesis,...)
@@ -76,7 +76,7 @@ award:
 project: 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
-external-project: 
+external-project: https://jku-vds-lab.at/amumo
 
 # (deprecated)
 # # The key of the video .md file (in _videos subfolder)
@@ -110,7 +110,7 @@ external-project:
 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: 
+pdf: amumo
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 
