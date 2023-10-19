@@ -70,7 +70,7 @@ preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. htt
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
-award:
+award: Best Submission Award at VISxAI 2023
 
 # state key of an internal tool. This will link to the tool site e.g. lineup (usually not needed)
 project: 
