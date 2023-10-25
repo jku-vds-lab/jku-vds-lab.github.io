@@ -4,7 +4,7 @@ layout: publication
 title: "Marjorie: Visualizing Type&nbsp;1 Diabetes Data to Support Pattern Exploration"
 key: 2023_marjorie
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -30,12 +30,12 @@ year: 2023
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, to appear)
+  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, Early Access)
   booktitle: 
   editor: 
   publisher: 
   address: 
-  doi:  10.31219/osf.io/caj2n
+  doi: 10.1109/TVCG.2023.3326936
   url:
   volume: 
   number: 
