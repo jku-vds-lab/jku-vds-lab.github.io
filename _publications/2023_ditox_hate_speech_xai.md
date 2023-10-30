@@ -4,7 +4,7 @@ layout: publication
 title: "Exploring Intensities of Hate Speech on Social Media: A Case Study on Explaining Multilingual Models with XAI"
 key: 2023_ditox_hate_speech_xai
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -28,17 +28,16 @@ year: 2023
 
 bibentry: inproceedings
 bib:
-  journal: LDK Workshop on Disinformation and Toxic Content Analysis (DiTox '23, to appear)
-  booktitle: 
-  editor: 
-  publisher: 
-  address: 
-  doi: 
-  url:
+  booktitle: Proceedings of the 4th Conference on Language, Data and Knowledge
+  editor: Sara Carvalho and Khan, {Anas Fahad} and {Ostroski Anic}, Ana and Blerina Spahiu and Jorge Gracia and McCrae, {John P.} and Dagmar Gromann and Barbara Heinisch and Salgado, {Ana Castro}
+  publisher: NOVA CLUNL, Portugal
+  address: Vienna, Austria
+  doi: 10.34619/srmk-injj
+  url: https://aclanthology.org/2023.ldk-1.57
   volume: 
   number: 
-  pages: 
-  month: #Oktober #TODO
+  pages: 532--537
+  month: September
 
 #preprint: https://www.biorxiv.org/content/10.1101/2022.08.16.503622 # here you can put all preprint links (arxiv.org, osf.io,...)
 
