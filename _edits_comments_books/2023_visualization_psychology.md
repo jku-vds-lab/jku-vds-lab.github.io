@@ -17,7 +17,7 @@ authors:
 - Florian Grassinger
 - Margit Pohl
 - Holger Stitz
-- Marc Streit
+- streit
 - Benjamin Potzmann
 - Wolfgang Aigner 
 
