@@ -220,7 +220,49 @@ layout: default
             <br>
         {% endif %}
 
-          
+        {% assign member_edits_comments_books = site.edits_comments_books | where_exp:"item", 'item.authors contains page.key' %}
+
+        <!-- Editorials -->
+        {% assign member_edits = member_edits_comments_books | where:"type", "editorial" %}
+        {% assign psize = member_edits | size %}
+        {% if psize > 0 %}
+            <h2 id="editorials">Editorials</h2>
+            {% for publication in member_edits reversed %}
+                {% if publication.personal %}
+                {% else %}
+                    {% include publication_list_entry_book.html %}
+                {% endif %}
+            {% endfor %}
+            <br>
+        {% endif %}
+
+
+        <!-- Commentaries -->
+        {% assign member_comments = member_edits_comments_books | where:"type", "commentaries" %}
+        {% assign psize = member_comments | size %}
+        {% if psize > 0 %}
+            <h2 id="commentaries">Commentaries</h2>
+            {% for publication in member_comments reversed %}
+                {% if publication.personal %}
+                {% else %}
+                    {% include publication_list_entry_book.html %}
+                {% endif %}
+            {% endfor %}
+            <br>
+        {% endif %}
+            
+        {% assign member_book_chapters = member_edits_comments_books | where:"type", "book_chapter" %}
+        {% assign psize = member_book_chapters | size %}
+        {% if psize > 0 %}
+            <h2 id="book-chapters">Book Chapters</h2>
+            {% for publication in member_book_chapters reversed %}
+                {% if publication.personal %}
+                {% else %}
+                    {% include publication_list_entry_book.html %}
+                {% endif %}
+            {% endfor %}
+            <br>
+        {% endif %}
 
 
         <!-- Posters -->
@@ -339,51 +381,6 @@ layout: default
                 <br/>
             
             {% endfor %}
-        {% endif %}
-
-
-        {% assign member_edits_comments_books = site.edits_comments_books | where_exp:"item", 'item.authors contains page.key' %}
-
-        <!-- Editorials -->
-        {% assign member_edits = member_edits_comments_books | where:"type", "editorial" %}
-        {% assign psize = member_edits | size %}
-        {% if psize > 0 %}
-            <h2 id="editorials">Editorials</h2>
-            {% for publication in member_edits reversed %}
-                {% if publication.personal %}
-                {% else %}
-                    {% include publication_list_entry_book.html %}
-                {% endif %}
-            {% endfor %}
-            <br>
-        {% endif %}
-
-
-        <!-- Commentaries -->
-        {% assign member_comments = member_edits_comments_books | where:"type", "commentaries" %}
-        {% assign psize = member_comments | size %}
-        {% if psize > 0 %}
-            <h2 id="commentaries">Commentaries</h2>
-            {% for publication in member_comments reversed %}
-                {% if publication.personal %}
-                {% else %}
-                    {% include publication_list_entry_book.html %}
-                {% endif %}
-            {% endfor %}
-            <br>
-        {% endif %}
-            
-        {% assign member_book_chapters = member_edits_comments_books | where:"type", "book_chapter" %}
-        {% assign psize = member_book_chapters | size %}
-        {% if psize > 0 %}
-            <h2 id="book-chapters">Book Chapters</h2>
-            {% for publication in member_book_chapters reversed %}
-                {% if publication.personal %}
-                {% else %}
-                    {% include publication_list_entry_book.html %}
-                {% endif %}
-            {% endfor %}
-            <br>
         {% endif %}
 
 
