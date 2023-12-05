@@ -9,12 +9,12 @@
             <a href="{{ site.baseurl }}{{ person.url }}">
         {% endif %}
             <p>
-            <b>{% if person.image %}
+            {% if person.image %}
                     <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}{{ person.image }}">
                 {% else %}
                     <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}/assets/images/team_colored/placeholder.png">
                 {% endif %}
-                {{ person.first_name }} {{ person.last_name }}</b><br>
+                <b>{{ person.first_name }} {{ person.last_name }}</b><br>
                 {% if person.position %}
                 {{person.position}}
                 {% endif %}
