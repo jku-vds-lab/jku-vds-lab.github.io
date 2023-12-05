@@ -21,6 +21,7 @@ organization: Johannes Kepler University Linz
 position: University Assistant
 github: PatrickAdelberger
 website: 
+hide_personal_page: false # set this flag to true, if you don't want to link a personal page
 ---
 
 I'm a PhD student and university assistant in the Visual Data Science Lab of the <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Linz, Austria.
