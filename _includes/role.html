@@ -14,7 +14,7 @@
                 {% else %}
                     <img alt="{{ person.first_name }} {{ person.last_name }}" class="person-image-small" src="{{site.baseurl}}/assets/images/team_colored/placeholder.png">
                 {% endif %}
-                <b>{{ person.first_name }} {{ person.last_name }}</b><br>
+                {{ person.first_name }} {{ person.last_name }}<br>
                 {% if person.position %}
                 {{person.position}}
                 {% endif %}
