@@ -8,7 +8,7 @@ chapter: "Case Studies for Working with Domain Experts"
 type: book_chapter
 
 image: 2020_springer_foundations-of-data-vis.jpg
-image_large: 2020_springer_foundations-of-data-vis_case_studies_large.jpg
+image_large: 2020_springer_foundations-of-data-vis_large.jpg
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
