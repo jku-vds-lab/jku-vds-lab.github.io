@@ -8,7 +8,7 @@ degrees_post:
 # cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/team/di-patrick-adelberger/" #remove to show person directly on data-vis page
 key: adelberger
 permalink: /persons/adelberger/
-role: raPhD
+role: alumni
 location: "Johannes Kepler University Linz<br />
                 Institute of Computer Graphics<br />
                 Altenberger Straße 69<br />
