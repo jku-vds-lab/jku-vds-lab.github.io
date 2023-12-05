@@ -6,7 +6,7 @@ title: "Points of View: Temporal data"
 # editorial | book_chapter | commentaries
 type: commentaries
 
-image: /assets/images/covers/2015_nature-methods.gif
+image: 2015_nature-methods.gif
 image_large: 2015_nature-methods.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.

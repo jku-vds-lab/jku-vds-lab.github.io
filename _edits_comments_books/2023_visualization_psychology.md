@@ -7,7 +7,7 @@ chapter: "Visualization Onboarding Grounded in Educational Theories"
 # editorial | book_chapter | commentaries
 type: book_chapter
 
-image: /assets/images/covers/2023_springer_visualization-psychology.jpg
+image: 2023_springer_visualization-psychology.jpg
 image_large: 2023_springer_visualization-psychology_large.jpg
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.

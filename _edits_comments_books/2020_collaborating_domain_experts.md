@@ -7,8 +7,8 @@ chapter: "Collaborating Successfully with Domain Experts"
 # editorial | book_chapter | commentaries
 type: book_chapter
 
-image: /assets/images/covers/2020_springer_foundations-of-data-vis.jpg
-image_large: ../covers/2020_springer_foundations-of-data-vis_large.jpg
+image: 2020_springer_foundations-of-data-vis.jpg
+image_large: 2020_springer_foundations-of-data-vis_large.jpg
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
