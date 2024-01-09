@@ -66,7 +66,7 @@ website:
 
 I'm a postdoctoral researcher and University Assistant in the Visual Data Science Lab.
 My research focuses on bringing techniques from visualization and machine learning together.
-I am especially interested in dimensionality reduction and explainbale AI.
+I am especially interested in dimensionality reduction and explainable AI.
 
 My PhD project was a collaboration with [Imperial College London](http://www.imperial.ac.uk/).
 As a part of that project, I spent one year at the [Biomedical Image Analysis (BioMedIA) group](https://biomedia.doc.ic.ac.uk/) at Imperial.
