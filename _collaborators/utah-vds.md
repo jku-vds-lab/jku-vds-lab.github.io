@@ -5,5 +5,5 @@ name: Visualization Design Lab
 name-short: Utah VDS Lab
 # location: Linz, Austria
 website: https://vdl.sci.utah.edu/
-logo: utah-vds.png
+logo: utah_vds.png
 ---
