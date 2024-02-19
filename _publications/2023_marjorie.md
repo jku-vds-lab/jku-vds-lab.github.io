@@ -25,22 +25,22 @@ authors:
 - streit
 - hinterreiter
 
-journal-short: IEEE VIS
-year: 2023
+journal-short: TVCG (VIS '23)
+year: 2024
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, Early Access)
+  journal: IEEE Transactions on Visualization and Computer Graphics
   booktitle: 
   editor: 
   publisher: 
   address: 
   doi: 10.1109/TVCG.2023.3326936
   url:
-  volume: 
-  number: 
-  pages: 
-  month:
+  volume: 30
+  number: 1
+  pages: 1216-1226
+  month: jan
 
 preprint: https://osf.io/caj2n # here you can put all preprint links (arxiv.org, osf.io,...)
 
