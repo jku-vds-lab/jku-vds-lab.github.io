@@ -57,12 +57,12 @@ bib:
   journal: IEEE Transactions on Visualization and Computer Graphics	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
-  publisher: 
+  publisher: IEEE Computer Society
   address: 
   doi: 10.1109/TVCG.2023.3326525		# e.g.10.1109/TVCG.2020.3012063
   url: 
   volume: 30
-  number: 
+  number: 01
   pages: 381-391
   month: 
 
