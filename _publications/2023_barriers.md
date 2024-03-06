@@ -8,7 +8,7 @@ title: "Transitioning to a Commercial Dashboarding System: Socio-technical Obser
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
+type: paper
 abstract: "Many long-established, traditional manufacturing businesses are becoming more digital and data-driven to improve their production. These companies are embracing visual analytics in these transitions through their adoption of commercial dashboarding systems. Although a number of studies have looked at the technical challenges of adopting these systems, very few have focused on the socio-technical issues that arise. In this paper, we report on the results of an interview study with 17 participants working in a range of roles at a long-established, traditional manufacturing company as they adopted Microsoft Power BI. The results highlight a number of socio-technical challenges the employees faced, including difficulties in training, using and creating dashboards, and transitioning to a modern digital company. Based on these results, we propose a number of opportunities for both companies and visualization researchers to improve these difficult transitions, as well as opportunities for rethinking how we design dashboarding systems for real-world use." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
 ####
@@ -46,7 +46,7 @@ authors:
 # abreviation of the journal/conference ... e.g. IEEE TVCG
 journal-short: IEEE Vis
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2023
+year: 2024
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
 # publisherurl: # add link to publisher page of your publication
@@ -54,16 +54,16 @@ year: 2023
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '23, to appear)		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: IEEE Transactions on Visualization and Computer Graphics	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
   publisher: 
   address: 
-  doi: 		# e.g.10.1109/TVCG.2020.3012063
+  doi: 10.1109/TVCG.2023.3326525		# e.g.10.1109/TVCG.2020.3012063
   url: 
-  volume: 
+  volume: 30
   number: 
-  pages: 
+  pages: 381-391
   month: 
 
 preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
