@@ -58,7 +58,7 @@ external-project: https://marjorie.jku-vds-lab.at/
 
 videos:
  - name: 'Paper Video'
-   youtube-id: https://youtu.be/wwFkrdqp4uo
+   youtube-id: wwFkrdqp4uo 
 
 
 pdf: 2023_marjorie.pdf
