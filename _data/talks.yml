@@ -1,8 +1,29 @@
 - author: streit 
+  title: "tbd"
+  event: "Bayer Data Science Fellow Symposium" 
+  date: 2024-04-10
+  location: Monheim, Germanu
+  type: keynote talk 
+
+- author: streit 
+  title: "VIS4ML & ML4Vis - Bridging Algorithm and User-Focused Perspectives"
+  event: "Department of Computer Science, ETH Zürich" 
+  date: 2024-02-28
+  location: Zürich, Switzerland
+  type: invited talk 
+
+  - author: streit 
+  title: "JKU Visual Data Science Lab"
+  event: "KI in der Medizin" 
+  date: 2024-02-16
+  location: Linz, Austria
+  type: invited talk 
+
+- author: streit 
   title: "Explainable AI and Data Visualization"
   event: "Applied AI Group at GlaxoSmithKline" 
   date: 2023-01-26
-  location: London, UK
+  location: London, United Kingdom
   type: invited talk 
 
 - author: streit 
