@@ -2,7 +2,7 @@
   title: "tbd"
   event: "Bayer Data Science Fellow Symposium" 
   date: 2024-04-10
-  location: Monheim, Germanu
+  location: Monheim, Germany
   type: keynote talk 
 
 - author: streit 
@@ -12,7 +12,7 @@
   location: Zürich, Switzerland
   type: invited talk 
 
-  - author: streit 
+- author: streit 
   title: "JKU Visual Data Science Lab"
   event: "KI in der Medizin" 
   date: 2024-02-16
