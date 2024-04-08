@@ -1,34 +1,70 @@
 - author: streit 
+  title: Eurographics Conference on Visualization (EuroVis)
+  date: 2024, 2010 - 2018
+
+- author: streit 
+  title: ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)
+  date: 2024, 2014  
+
+- author: streit 
+  title: IEEE Pacific Visualization Symposium (PacificVis)
+  date: 2024, 2012 - 2013  
+
+- author: streit 
+  title: EuroVis State-of-the-Art Reports
+  date: 2023  
+
+- author: streit 
   title: Carl-Zeiss-Stiftung - Förderprogramm "Durchbrüche" für Universitäten
   date: 2021
 
 - author: streit 
   title: IEEE Transactions on Visualization and Computer Graphics (TVCG)
-  date: 2012 - 2021
+  date: 2012 - 2022
+
+- author: streit 
+  title: IEEE Workshop on Visualization in BioMedical AI
+  date: 2022
+
+- author: streit 
+  title: Eurographics Computer Graphics Forum (CGF)
+  date: 2021 - 2022, 2018, 2015, 2013
+
+- author: streit 
+  title: EuroVis Workshop on Visual Analytics (EuroVA)
+  date: 2021, 2017 - 2018, 2013 - 2015
+
+- author: streit 
+  title: Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM)
+  date: 2020 - 2021, 2017, 2014, 2012
+
+- author: streit 
+  title: IEEE Workshop on Machine Learning from User Interactions for Visualization and Analytics (MLUI)
+  date: 2020 - 2021 
+
+- author: streit 
+  title: IEEE Conference on Information Visualization (InfoVis)
+  date: 2020 - 2021, 2010 - 2018
+
+- author: streit 
+  title: ACM Transactions on Interactive Intelligent Systems (TiiS)
+  date: 2020
+
+- author: streit 
+  title: EuroVis Workshop on Molecular Graphics and Visual Analysis of Molecular Data (MolVA)
+  date: 2020
+
+- author: streit 
+  title: IEEE Conference on Visual Analytics Science and Technology (VAST)
+  date: 2020, 2010 - 2012  
 
 - author: streit 
   title: International Conference on Information Visualization Theory and Applications (IVAPP)
   date: 2013 - 2018
 
 - author: streit 
-  title: IEEE Conference on Information Visualization (InfoVis)
-  date: 2010 - 2018
-
-- author: streit 
-  title: Eurographics Conference on Visualization (EuroVis)
-  date: 2024, 2010 - 2018
-
-- author: streit 
   title: Oxford Bioinformatics
   date: 2017 - 2018, 2009 - 2013
-
-- author: streit 
-  title: EuroVis Workshop on Visual Analytics (EuroVA)
-  date: 2017 - 2018, 2013 - 2015
-
-- author: streit 
-  title: Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM)
-  date: 2017, 2014, 2012
 
 - author: streit 
   title: Forum Media Technology (FMT)
@@ -47,10 +83,6 @@
   date: 2015
 
 - author: streit 
-  title: Eurographics Computer Graphics Forum (CGF)
-  date: 2018, 2015, 2013
-
-- author: streit 
   title: Central European Seminar on Computer Graphics (CESCG)
   date: 2010 - 2014
 
@@ -61,10 +93,6 @@
 - author: streit 
   title: Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften)
   date: 2014, 2010
-
-- author: streit 
-  title: ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)
-  date: 2024, 2014
 
 - author: streit 
   title: Austrian Computer Society (Österreichische Computer Gesellschaft)
@@ -79,10 +107,6 @@
   date: 2014
 
 - author: streit 
-  title: IEEE Pacific Visualization Symposium (PacificVis)
-  date: 2012 - 2013
-
-- author: streit 
   title: IEEE Computer
   date: 2013
 
@@ -93,10 +117,6 @@
 - author: streit 
   title: International Conference on Human Factors in Computing & Informatics (SouthCHI)
   date: 2013
-
-- author: streit 
-  title: IEEE Conference on Visual Analytics Science and Technology (VAST)
-  date: 2010 - 2012
 
 - author: streit 
   title: Conference on Information Visualisation

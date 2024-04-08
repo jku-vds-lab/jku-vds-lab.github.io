@@ -1,12 +1,37 @@
 - author: streit 
-  role: "Co-Organizer"
-  title: Dagstuhl Seminar on Human-Centered Approaches for Provenance in Automated Data Science (202206009)
-  date: 2023
-
-- author: streit 
   role: "Program Committee"
   title: IEEE Pacific Visualization Symposium
   date: 2024
+
+- author: streit 
+  role: Program Committee
+  title: EuroVis Workshop on Visual Analytics (EuroVA)
+  date: 2024, 2021, 2017 - 2019, 2013 - 2015 
+
+- author: streit 
+  role: Program Committee
+  title: Eurographics Conference on Visualization Short Papers (EuroVis Short Papers)
+  date: 2024, 2014 - 2018
+
+- author: streit 
+  role: Best Reviewer Award Committee 
+  title: EuroVis 2024
+  date: 2024
+
+- author: streit 
+  role: "Strategy & Programme Board"
+  title: FFG Pro2Future COMET K1-Centre
+  date: 2017 - 2024  
+
+- author: streit 
+  role: "Steering Committee"
+  title: Symposium on Biological Data Visualization (BioVis)
+  date: 2018 - 2024  
+
+- author: streit 
+  role: "Co-Organizer"
+  title: Dagstuhl Seminar on Human-Centered Approaches for Provenance in Automated Data Science (202206009)
+  date: 2023
 
 - author: streit 
   role: Best Abstract Award Committee 
@@ -27,11 +52,6 @@
   role: "Organizer"
   title: ProvViz Workshop part of the ProvenanceWeek 2021
   date: 2021
-
-- author: streit 
-  role: "Steering Committee"
-  title: Symposium on Biological Data Visualization (BioVis)
-  date: 2018 - 2022
 
 - author: streit 
   role: "Steering Committee"
@@ -115,16 +135,6 @@
 
 - author: streit 
   role: Program Committee
-  title: EuroVis Workshop on Visual Analytics (EuroVA)
-  date: 2024, 2021, 2017 - 2019, 2013 - 2015 
-
-- author: streit 
-  role: Program Committee
-  title: Eurographics Conference on Visualization Short Papers (EuroVis Short Papers)
-  date: 2014 - 2018
-
-- author: streit 
-  role: Program Committee
   title: Eurographics Conference on Visualization (EuroVis)
   date: 2019, 2014 - 2016
 
@@ -182,11 +192,6 @@
   role: Program Committee
   title: Workshop on Molecular Graphics and Visual Analysis of Molecular Data (MolVA)
   date: 2020  
-
-- author: streit 
-  role: "Strategy & Programme Board"
-  title: FFG Pro2Future COMET K1-Centre
-  date: 2017 - 2020
 
 - author: streit 
   role: Expert Team
