@@ -23,22 +23,22 @@
   type: PhD Thesis
 
 - author: streit 
-  date: Since 2019-02
-  title: Visual Cohort Analysis (working title)
-  name: Patrick Adelberger
-  type: PhD Thesis
-
-- author: streit 
-  date: Since 2019-01
-  title: Human-Interpretable AI (working title)
-  name: Andreas Hinterreiter
-  type: PhD Thesis
-
-- author: streit 
   date: Since 2018-11
-  title: Visual Cohort Analysis (working title)
+  title: "Visualizing Differences: Interactive Exploration and Comparison of High-Dimensional Data Sets"
   name: Klaus Eckelt
   type: PhD Thesis  
+
+- author: streit 
+  date: 2019-02 - 2023-07
+  title: Visual Cohort Analysis (aborted)
+  name: Patrick Adelberger
+  type: PhD Thesis  
+
+- author: streit 
+  date: 2019-01 - 2022-11
+  title: Visual Explanations of High-dimensional and Temporal Processes
+  name: Andreas Hinterreiter
+  type: PhD Thesis
 
 # - author: streit 
 #   date: 2020-03 - 2020-08
