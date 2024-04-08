@@ -12,7 +12,6 @@ type: preprint
 # The shortname is used for auto-generated titels
 shortname: Loops
 
-# TODO update images
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
 image: 2024_loops_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
@@ -36,7 +35,7 @@ bib:
   publisher: 
   address: 
   doi:  10.31219/osf.io/79eyn 
-  url: https://doi.org/ 10.31219/osf.io/79eyn  
+  url: https://doi.org/10.31219/osf.io/79eyn  
   volume: 
   number: 
   pages: 
