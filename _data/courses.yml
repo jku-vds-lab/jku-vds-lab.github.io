@@ -11,22 +11,28 @@
   years: since 2012
 
 - author: streit 
-  title: Computer Graphics
-  institution: jku
-  contribution: Lab
-  years: since 2012
-
-- author: streit 
   title: Explainable AI
   institution: jku
   contribution: Lecture and lab
   years: since 2020  
 
 - author: streit 
+  title: "Special Topcis: Visual Data Science Journal Club"
+  institution: jku
+  contribution: Seminar
+  years: since 2023
+
+- author: streit 
   title: Accompanying Courses for PhD, Master and Bachelor Students
   institution: jku
   contribution: Seminar
   years: since 2012
+
+- author: streit 
+  title: Computer Graphics
+  institution: jku
+  contribution: Lab
+  years: 2012 - 2021
 
 - author: streit 
   title: Visual Computing for Virtual Anatomy
@@ -44,7 +50,7 @@
   title: Visualisation (BUSI97273)
   institution: imperial
   contribution: Lecture and lab (together with Andy Kirk, Ryo Sarkai)
-  years: since 2016
+  years: 2016 - 2023
 
 - author: streit 
   title: Visualisation (BS2307)
