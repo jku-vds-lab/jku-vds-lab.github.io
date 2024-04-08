@@ -4,7 +4,7 @@ layout: publication
 title: "Explainable Long- and Short-term Pattern Detection in Projected Sequential Data"
 key: 2023_pattern_detection_xai
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -28,7 +28,7 @@ year: 2023
 
 bibentry: inproceedings
 bib:
-  journal: "ECML PKDD Workshop on Explainable AI for Time Series: Advances and Applications (XAI-TS '23, to appear)"
+  journal: "ECML PKDD Workshop on Explainable AI for Time Series: Advances and Applications (XAI-TS '23)"
   booktitle: 
   editor: 
   publisher: 
