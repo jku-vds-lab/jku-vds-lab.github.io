@@ -61,6 +61,11 @@ pdf: 2024_loops.pdf
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/loops
 
+videos:
+ - name: 'Paper Video'
+   youtube-id: jCUwLm5wfNo
+
+
 abstract: "
 Exploratory data science is an iterative process of obtaining, cleaning, profiling, analyzing, and interpreting data. This cyclical way of working creates challenges within the linear structure of computational notebooks, leading to issues with code quality, recall, and reproducibility.
 To remedy this, we present Loops, a set of visual support techniques for iterative and exploratory data analysis in computational notebooks. Loops leverages provenance information to visualize the impact of changes made within a notebook. In visualizations of the notebook provenance, we trace the evolution of the notebook over time and highlight differences between versions. Loops visualizes the provenance of code, markdown, tables, visualizations, and images and their respective differences. Analysts can explore these differences in detail in a separate view.
