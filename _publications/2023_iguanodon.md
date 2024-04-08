@@ -62,6 +62,10 @@ pdf: 2023_iguanodon.pdf
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/iguanodon/
 
+videos:
+ - name: 'Paper Video'
+   youtube-id: 8Lumj331Ea8
+
 abstract: "
 In today's data-rich environment, visualization literacy—the ability to understand and communicate information through charts—is increasingly important. However, constructing effective charts can be challenging due to the numerous design choices involved. Off-the-shelf systems and libraries produce charts with carefully selected defaults that users may not be aware of, making it hard to increase their visualization literacy with those systems. In addition, traditional ways of improving visualization literacy, such as textbooks and tutorials, can be burdensome as they require sifting through a plethora of resources.
 To address this challenge, we designed Iguanodon, an easy-to-use game application that complements the traditional methods of improving visualization literacy. In our game application, users interactively choose whether to apply
