@@ -66,7 +66,7 @@ bib:
   month: June
 
 preprint: https://osf.io/7vd5j/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
-
+publisherurl: https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2221605
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
