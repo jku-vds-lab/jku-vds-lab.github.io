@@ -76,7 +76,7 @@ bib:
   month: February
 
 preprint: https://osf.io/n4w6u/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
-
+publisherurl: https://dl.acm.org/doi/10.1016/j.chb.2022.107539
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
