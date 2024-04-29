@@ -46,7 +46,7 @@ journal-short: J. Cheminformatics
 year: 2022
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
-publisherurl: # add link to publisher page of your publication
+publisherurl: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00600-z # add link to publisher page of your publication
 
 # what is the publication type and other bib specific properties
 bibentry: article
