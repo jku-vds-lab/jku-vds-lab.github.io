@@ -14,7 +14,7 @@ shortname: D_Tour
 
 # TODO update images
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2024_d-tour_small.png
+image: 2024_d_tour_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
 image_large: 2024_d_tour.png
 
