@@ -124,7 +124,7 @@ supplements:
 #  linksym: true
 
 # Link to the repository where the code is hostet
-code: https://github.com/jku-vds-lab/hoxai-at-visxai
+# code: https://github.com/jku-vds-lab/hoxai-at-visxai
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
