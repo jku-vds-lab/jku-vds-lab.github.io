@@ -109,12 +109,5 @@ code: https://osf.io/bq85c/
 
 # Acknowledgements
 
-This work was funded by Johannes Kepler University Linz, Linz Institute of Technology (LIT), the State of Upper Austria,
-and the Federal Ministry of Education, Science and Research under grant number LIT-2019-7-SEE-117, awarded to
-MM and MS, the Austrian Science Fund under grant number FWF DFH 23–N, and under the Human-Interpretable
-Machine Learning project (funded by the State of Upper Austria). We thank Moritz Heckmann for helping with the
-implementation of the AI Forest - The Schwammerl Hunting Gameand Stefan Eibelwimmer for the graphic design of the
-game. We thank Dr. Otto Stoik, the members of the Mycological Working Group (MYAG) at the Biology Center Linz,
-Austria, and the German Mycological Society (DGfM) for providing mushroom images for this study. Finally, we thank
-Alfio Ventura for helping with the study setup.
+We thank Moritz Heckmann for helping with the implementation of the AI Forest—The Schwammerl Hunting Game and Stefan Eibelwimmer for the graphic design of the game. We thank Dr. Otto Stoik, the members of the Mycological Working Group (MYAG) at the Biology Center Linz, Austria, and the German Mycological Society (DGfM) for providing mushroom images for this study. Finally, we thank Alfio Ventura for helping with the study setup.
 
