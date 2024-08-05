@@ -8,8 +8,8 @@ title: "Reassuring, Misleading, Debunking: Comparing Effects of XAI Methods on H
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
-abstract: "Trust calibration is essential in AI-assisted decision-making. If human users understand the rationale on which an AI model has made a prediction, they can decide whether they consider this prediction reasonable. Especially in high-risk tasks such as mushroom hunting (where a wrong decision may be fatal), it is important that users make correct choices to trust or overrule the AI. Various explainable AI (XAI) methods are currently being discussed as potentially useful for facilitating understanding and subsequently calibrating user trust. So far, however, it remains unclear which approaches are most effective. In this paper the effects of XAI methods on human AI-assisted decision-making in the high-risk task of mushroom picking were tested. For that endeavor, the effects of (i) Grad-CAM attributions, (ii) nearest-neighbor examples, and (iii) network-dissection concepts were compared in a between-subjects experiment with 𝑁 = 501 participants. In general, nearest-neighbor examples improved decision correctness the most. However, varying effects for different task items became apparent. All explanations seemed to be particularly effective when they revealed reasons to (i) doubt a specific AI classification when the AI was wrong and (ii) trust a specific AI classification when the AI was correct. Our results suggest that well-established methods, such as Grad-CAM attribution maps, might not be as beneficial to end users as expected and that XAI techniques for use in real-world scenarios must be chosen carefully." 
+type: paper
+abstract: "Trust calibration is essential in AI-assisted decision-making. If human users understand the rationale on which an AI model has made a prediction, they can decide whether they consider this prediction reasonable. Especially in high-risk tasks such as mushroom hunting (where a wrong decision may be fatal), it is important that users make correct choices to trust or overrule the AI. Various explainable AI (XAI) methods are currently being discussed as potentially useful for facilitating understanding and subsequently calibrating user trust. So far, however, it remains unclear which approaches are most effective. In this article, the effects of XAI methods on human AI-assisted decision-making in the high-risk task of mushroom picking were tested. For that endeavor, the effects of (i) Grad-CAM attributions, (ii) nearest-neighbor examples, and (iii) network-dissection concepts were compared in a between-subjects experiment with N=501 participants representing end-users of the system. In general, nearest-neighbor examples improved decision correctness the most. However, varying effects for different task items became apparent. All explanations seemed to be particularly effective when they revealed reasons to (i) doubt a specific AI classification when the AI was wrong and (ii) trust a specific AI classification when the AI was correct. Our results suggest that well-established methods, such as Grad-CAM attribution maps, might not be as beneficial to end users as expected and that XAI techniques for use in real-world scenarios must be chosen carefully." 
 
 # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
@@ -47,23 +47,23 @@ authors:
 - streit
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: OSF Preprint
+journal-short: TiiS
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2022
+year: 2024
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: OSF Preprint		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: ACM Transactions on Interactive Intelligent Systems	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
   publisher:
-  doi: 10.31219/osf.io/h6dwz
-  url: https://doi.org/10.31219/osf.io/h6dwz
-  volume: 
-  number: 
+  doi: 10.1145/3665647
+  url: https://doi.org/10.1145/3665647
+  volume: 14
+  number: 3
   pages: 
-  month: October
+  month: September
 
 preprint: https://osf.io/h6dwz/ # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
