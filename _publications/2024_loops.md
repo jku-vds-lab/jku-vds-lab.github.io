@@ -25,17 +25,17 @@ authors:
 - streit
 
 year: 2024
-journal-short: OSF
+journal-short: IEEE VIS
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '24, to appear)
   booktitle: 
   editor: 
   publisher: 
   address: 
   doi:  10.31219/osf.io/79eyn 
-  url: https://doi.org/10.31219/osf.io/79eyn  
+  url: 
   volume: 
   number: 
   pages: 
