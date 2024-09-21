@@ -1,32 +1,38 @@
 - author: streit 
+  date: Since 2024-06
+  title: Explainable AI (working title)
+  name: Amal Alnouri
+  type: PhD Thesis 
+
+- author: streit 
   date: Since 2021-12
   title: Explainable AI (working title)
   name: Christian Steinparz
   type: PhD Thesis 
 
 - author: streit 
-  date: Since 2020-10
-  title: Explainable AI (working title)
-  name: Christina Humer
-  type: PhD Thesis 
-
-- author: streit 
   date: Since 2019-10
-  title: Provenance Intent (working title)
+  title: "Understanding User Behavior and Adoption of Visual Analysis Systems"
   name: Conny Walchshofer
   type: PhD Thesis  
-
-- author: streit 
-  date: Since 2019-10
-  title: Dashboard Onboarding (working title)
-  name: Vaishali Dhanoa
-  type: PhD Thesis
 
 - author: streit 
   date: Since 2018-11
   title: "Visualizing Differences: Interactive Exploration and Comparison of High-Dimensional Data Sets"
   name: Klaus Eckelt
-  type: PhD Thesis  
+  type: PhD Thesis    
+
+- author: streit 
+  date: 2020-10 - 2024-10
+  title: "Human-Centered Techniques to Foster Trust Calibration and Understanding of Machine Learning Models"
+  name: Christina Humer
+  type: PhD Thesis 
+
+- author: streit 
+  date: 2019-10 - 2024-10
+  title: "From Analysis to Communication: Supporting Users in Understanding Complex Spreadsheets and Dashboards"
+  name: Vaishali Dhanoa
+  type: PhD Thesis
 
 - author: streit 
   date: 2019-02 - 2023-07
