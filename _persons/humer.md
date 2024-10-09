@@ -15,8 +15,8 @@ location: "Johannes Kepler University Linz<br />
 phone: "+43 732 2468 6638"
 twitter:
 github: "ginihumer"
-google_scholar: 
-linkedin: 
+google_scholar: https://scholar.google.com/citations?user=YOHHiKoAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/christina-humer-33013a316/
 cv: 
 
 key: humer
@@ -26,7 +26,7 @@ email: christina.humer@jku.at
 image: /assets/images/team_colored/humer.jpg
 organization: Johannes Kepler University Linz
 position: Project Assistant
-website: 
+website: https://christina.humer.dev/
 ---
 
 <p>
