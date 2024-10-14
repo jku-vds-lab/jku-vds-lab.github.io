@@ -2,7 +2,7 @@
 layout: publication # do not change
 
 #### these fields are mandatory. please fill them out
-title: "Moral reasoning in a digital age: blaming artificial intelligence for incorrect high-risk decisions"
+title: "Moral reasoning in a digital age: Blaming artificial intelligence for incorrect high-risk decisions"
 
 # choose one of the following types:
 # "paper": Peer-Reviewed Journal and Conference Papers
