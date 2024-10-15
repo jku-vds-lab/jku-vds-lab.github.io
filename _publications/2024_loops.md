@@ -4,7 +4,7 @@ layout: publication
 title: "Loops: Leveraging Provenance and Visualization to Support Exploratory Data Analysis in Notebooks"
 key: 2024_loops
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -24,17 +24,13 @@ authors:
 - Alexander Lex
 - streit
 
+journal-short: TVCG
 year: 2024
-journal-short: IEEE VIS
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS '24, to appear)
-  booktitle: 
-  editor: 
-  publisher: 
-  address: 
-  doi:  10.31219/osf.io/79eyn 
+  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
+  doi:  10.1109/TVCG.2024.3456186
   url: 
   volume: 
   number: 
@@ -66,11 +62,21 @@ videos:
 
 
 abstract: "
+<div style='border: 0.25rem dashed #ae619d; border-radius: 1rem; margin: 2rem 5rem; padding: 1rem'>
+  <h1 style='text-align: center;'>🌴 IEEE VIS Notice! 🐊</h1>
+  <p> If you want to chat about <b>loops</b>, join me during one of the coffee breaks:</p>
+  <ul>
+    <li> Thursday: 14:00 CEST // 8am EDT // 6am MDT </li>
+    <li> Thursday: 19:15 CEST // 1:15pm  EDT // 11:15am MDT </li>
+    <li> Friday: 14:00 CEST // 8am EDT // 6am MDT </li>
+  </ul>
+  <p style='text-align: center; font-weight: bold; font-size: 1.2em'>➡️ <a href='https://jku.zoom.us/j/95360086865?pwd=OrslsMaWBbWvNiqem80YT4chyMVby8.1' >Zoom Meeting</a> ⬅️</p>
+</div>
+
+
 Exploratory data science is an iterative process of obtaining, cleaning, profiling, analyzing, and interpreting data. This cyclical way of working creates challenges within the linear structure of computational notebooks, leading to issues with code quality, recall, and reproducibility. To remedy this, we present Loops, a set of visual support techniques for iterative and exploratory data analysis in computational notebooks. Loops leverages provenance information to visualize the impact of changes made within a notebook. In visualizations of the notebook provenance, we trace the evolution of the notebook over time and highlight differences between versions. Loops visualizes the provenance of code, markdown, tables, visualizations, and images and their respective differences. Analysts can explore these differences in detail in a separate view. Loops not only makes the analysis process transparent but also supports analysts in their data science work by showing the effects of changes and facilitating comparison of multiple versions. We demonstrate our approach's utility and potential impact in two use cases and feedback from notebook users from various backgrounds. This paper and all supplemental materials are available at https://osf.io/79eyn.
 "
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 
 ---
-
-
