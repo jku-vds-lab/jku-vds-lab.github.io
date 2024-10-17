@@ -67,7 +67,6 @@ abstract: "
   <p> If you want to chat about <b>loops</b>, join me during one of the coffee breaks:</p>
   <ul>
     <li> Thursday: 14:00 CEST // 8am EDT // 6am MDT </li>
-    <li> Thursday: 19:15 CEST // 1:15pm  EDT // 11:15am MDT </li>
     <li> Friday: 14:00 CEST // 8am EDT // 6am MDT </li>
   </ul>
   <p style='text-align: center; font-weight: bold; font-size: 1.2em'>➡️ <a href='https://jku.zoom.us/j/95360086865?pwd=OrslsMaWBbWvNiqem80YT4chyMVby8.1' >Zoom Meeting</a> ⬅️</p>
