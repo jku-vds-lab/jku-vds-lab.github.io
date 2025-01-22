@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Iguanodon: A Code-Breaking Game for Improving Visualization Literacy"
-key: 2023_iguanodon
+key: 2024_iguanodon
 # paper | preprint | poster
 type: preprint
 # optional url for a different site; defaults to data.jku-vds-lab.at
@@ -14,9 +14,9 @@ shortname: Iguanodon
 
 # TODO update images
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2023_iguanodon_small.png
+image: 2024_iguanodon_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2023_iguanodon.png
+image_large: 2024_iguanodon.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -27,17 +27,17 @@ authors:
 - streit
 
 journal-short: OSF
-year: 2023
+year: 2024
 
 bibentry: article
 bib:
-  journal: OSF Preprint
+  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
   booktitle: 
   editor: 
   publisher: 
   address: 
-  doi: 10.31219/osf.io/xung4
-  url: https://doi.org/10.31219/osf.io/xung4 
+  doi: 10.1109/TVCG.2024.3468948 #10.31219/osf.io/xung4
+  url: 
   volume: 
   number: 
   pages: 
