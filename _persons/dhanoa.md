@@ -3,14 +3,21 @@ layout: team-member
 first_name: Vaishali
 last_name: Dhanoa
 title: "Vaishali Dhanoa"
-degrees_pre: "DI"
+degrees_pre: "DI Dr."
 # cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/team/klaus-eckelt/" #remove to show person directly on data-vis page
 key: dhanoa
 permalink: /persons/dhanoa/
-role: raPhD
+
+# choose one of the following: 
+# - "faculty": Faculty
+# - "raPhD": Research Associates & PhD Students
+# - "undergrad": Undergraduate Students
+# - "phdgrad": PhD Graduates
+# - "alumni": Other Alumni
+role: phdgrad
 email: vaishali.dhanoa@pro2future.at
 image: /assets/images/team_colored/dhanoa.jpg
-organization: Johannes Kepler University Linz
+organization: Aarhus University
 position: Project Assistant
 twitter:
 github: "VAISHALI-DHANOA"
