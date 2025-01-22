@@ -18,7 +18,7 @@ role: phdgrad
 email: vaishali.dhanoa@pro2future.at
 image: /assets/images/team_colored/dhanoa.jpg
 organization: Aarhus University
-position: Project Assistant
+position: PhD 2023
 twitter:
 github: "VAISHALI-DHANOA"
 google_scholar:
