@@ -3,7 +3,7 @@ layout: team-member
 first_name: Christina
 last_name: Humer
 title: "Christina Humer"
-degrees_pre: "DI"
+degrees_pre: "DI Dr."
 # degrees_post: "BSc"
 # cg_website: "https://www.jku.at/en/institute-of-computer-graphics/about-us/vcc/christina-humer/" #remove to show person directly on data-vis page
 
@@ -21,15 +21,16 @@ cv:
 
 key: humer
 permalink: /persons/humer/
-role: raPhD
+role: phdgrad
 email: christina.humer@jku.at
 image: /assets/images/team_colored/humer.jpg
 organization: Johannes Kepler University Linz
-position: Project Assistant
+position: PhD Graduate 2024
 website: https://christina.humer.dev/
 ---
 
 <p>
+<b>Note that the following information is outdated and no longer updated.</b><br />
 I am a PhD Student and Project Assistant at the Visual Data Science Lab. 
 Before that, I studied Computer Science at Johannes Kepler University and finished the Masters Program with focus on Data Science in August 2020. 
 In my Master Thesis, my research focused on Semantic Image Segmentation and Image Classification in the area of bark beetle detection.

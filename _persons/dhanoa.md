@@ -18,7 +18,7 @@ role: phdgrad
 email: vaishali.dhanoa@pro2future.at
 image: /assets/images/team_colored/dhanoa.jpg
 organization: Aarhus University
-position: PhD 2023
+position: PhD Graduate 2024
 twitter:
 github: "VAISHALI-DHANOA"
 google_scholar:
@@ -27,7 +27,7 @@ website:
 ---
 
 <p>
-  I'm a PhD student and project assistant in the Visual Data Science Lab of the <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria.
+  <b>Note that the following information is outdated and no longer updated.</b><br />I'm a PhD student and project assistant in the Visual Data Science Lab of the <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria.
   My research focuses on interactive visualizations in the data visualization field. Together with my colleagues, I design and build data analysis tools to support domain experts.
   Prior to this , I worked as a software developer at Intel, Linz (now owned by Apple) while pursuing my my master's at <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria, with a major in Pervasive Computing. My education at JKU and work at Intel inspired me to venture into the field of data sciences.
 </p>
