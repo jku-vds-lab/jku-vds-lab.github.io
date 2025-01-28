@@ -10,6 +10,6 @@ role: phdgrad
 email: holger.stitz@datavisyn.io
 image: /assets/images/team_colored/stitz.jpg
 organization: datavisyn GmbH
-position: PhD Graduate 2019
+position: PhD Graduation 2019
 website: http://holgerstitz.de
 ---
