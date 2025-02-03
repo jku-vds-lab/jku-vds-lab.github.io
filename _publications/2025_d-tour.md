@@ -2,9 +2,9 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "D-Tour: Semi-Automatic Generation of Interactive Guided Tours forVisualization Dashboard Onboarding"
-key: 2024_d_tour
+key: 2025_d-tour
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url:
 
@@ -14,9 +14,9 @@ shortname: D_Tour
 
 # TODO update images
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2024_d_tour_small.png
+image: 2025_d-tour_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2024_d_tour.png
+image_large: 2025_d-tour.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -27,7 +27,7 @@ authors:
 - Eduard Gröller
 - streit
 
-year: 2024
+year: 2025
 journal-short: IEEE VIS
 
 bibentry: article
@@ -37,11 +37,11 @@ bib:
   editor:
   publisher: IEEE Computer Society
   address:
-  doi:  10.31219/osf.io/t5m3u
-  url: https://osf.io/preprints/osf/t5m3u
-  volume:
+  doi: 10.1109/TVCG.2024.3456347
+  url: 
+  volume: 31
   number:
-  pages:
+  pages: 721-731
   month:
 
 preprint: https://osf.io/preprints/osf/t5m3u # here you can put all preprint links (arxiv.org, osf.io,...)
@@ -58,7 +58,7 @@ project:
 # Use this if you have an external project website
 external-project:
 
-pdf: 2024_d_tour.pdf
+pdf: 2025_d-tour.pdf
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/dashboard-onboarding
