@@ -28,7 +28,7 @@ year: 2025
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
+  journal: IEEE Transactions on Visualization and Computer Graphics
   doi: 10.1109/TVCG.2024.3456186
   url:
   volume: 31
