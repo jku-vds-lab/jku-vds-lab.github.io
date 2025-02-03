@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Loops: Leveraging Provenance and Visualization to Support Exploratory Data Analysis in Notebooks"
-key: 2024_loops
+key: 2025_loops
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
@@ -12,9 +12,9 @@ type: paper
 shortname: Loops
 
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2024_loops_small.png
+image: 2025_loops_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2024_loops.png
+image_large: 2025_loops.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -24,16 +24,16 @@ authors:
   - streit
 
 journal-short: TVCG
-year: 2024
+year: 2025
 
 bibentry: article
 bib:
   journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
   doi: 10.1109/TVCG.2024.3456186
   url:
-  volume:
-  number:
-  pages:
+  volume: 31
+  number: 1
+  pages: 1213-1223
   month:
 
 preprint: https://osf.io/79eyn/ # here you can put all preprint links (arxiv.org, osf.io,...)
