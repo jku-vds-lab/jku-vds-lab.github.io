@@ -10,7 +10,7 @@ type: paper
 
 
 # The shortname is used for auto-generated titels
-shortname: D_Tour
+shortname: D-Tour
 
 # TODO update images
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
@@ -35,7 +35,7 @@ bib:
   journal: IEEE Transactions on Visualization and Computer Graphics
   booktitle:
   editor:
-  publisher: IEEE Computer Society
+  publisher: 
   address:
   doi: 10.1109/TVCG.2024.3456347
   url: 
