@@ -49,7 +49,7 @@ project:
 # Use this if you have an external project website
 external-project: https://mybinder.org/v2/gh/jku-vds-lab/loops/main?labpath=notebooks
 
-pdf: 2024_loops.pdf
+pdf: 2025_loops.pdf
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/loops
