@@ -62,9 +62,9 @@ bib:
   doi: 10.1007/s12144-024-06658-2
   url: https://doi.org/10.1007/s12144-024-06658-2
   volume: 43
-  number: 41
+  number:
   pages: 32412-‌32421
-  month: 
+  month: November
 
 preprint: # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
