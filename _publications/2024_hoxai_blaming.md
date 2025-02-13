@@ -28,9 +28,9 @@ abstract: "The increasing involvement of Artificial Intelligence (AI) in moral d
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
 shortname: HOXAIStudyBlaming
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
-image: 2024_preprint_hoxai_blaming.png
+image: 2024_hoxai_blaming.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
-image_large: 2024_preprint_hoxai_blaming_teaser.png
+image_large: 2024_hoxai_blaming_teaser.png
 
 # Authors in the "database" can be used with just the key that is specified in the corresponding .md file (usually it is the lastname in lower case e.g. doe). Authors that do not have an individual page here should be stated with their full name (e.g. John Doe)
 # each author is one item in the list. the list is enumerated with dashes ("-")
@@ -58,13 +58,13 @@ bib:
   journal: Current Psychology	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle:
   editor:
-  publisher:
+  publisher: Springer
   doi: 10.1007/s12144-024-06658-2
   url: https://doi.org/10.1007/s12144-024-06658-2
-  volume: 
-  number: 
-  pages: 
-  month: October
+  volume: 43
+  number: 41
+  pages: 32412-‌32421
+  month: 
 
 preprint: # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
