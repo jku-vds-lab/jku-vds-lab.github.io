@@ -1,4 +1,20 @@
 - author: streit 
+  agency: Austrian Research Promotion agency (FFG)
+  website:
+  logo:
+  title: "Pro2Future – Products and Production Systems of the Future"
+  recipient: jku
+  pi:
+  copi:
+  partners: voestalpine, Graz University of Technology, etc.
+  time: 2025- 2029
+  program: COMET K1-Centre program
+  project-link:
+  number: 911655
+  active: true
+  amount: 
+
+- author: streit 
   agency: Boehringer Ingelheim Regional Center Vienna
   website:
   logo:
@@ -102,12 +118,12 @@
   recipient: jku
   pi:
   copi:
-  partners: Graz University of Technology
+  partners: voestalpine, Graz University of Technology, etc.
   time: 2017 - 2024
   program: COMET K1-Centre program
   project-link:
   number: 854184
-  active: true
+  active: false
   amount: 19M EUR
 
 - author: streit 
