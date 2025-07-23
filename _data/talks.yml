@@ -1,4 +1,32 @@
 - author: streit 
+  title: "BioVis + ML: Quo Vadis"
+  event: "AI & I – Exploring the Psychological & Scientific Dimensions of AI, Austrian Cultural Forum New York (ACFNY)" 
+  date: 2025-05-07
+  location: New York City, US
+  type: invited talk & panelist
+
+- author: streit 
+  title: "BioVis + ML: Quo Vadis"
+  event: "International Meeting on Visualizing Biological Data (VIZBI 2025)" 
+  date: 2025-04-09
+  location: Cambridge, UK
+  type: keynote talk
+
+- author: streit 
+  title: "VIS4ML & ML4VIS - Quo Vadis"
+  event: "EBI Industry Programme Workshop: Synergizing human expertise and AI in drug discovery" 
+  date: 2025-04-30
+  location: Cambridge, UK
+  type: invited talk    
+
+- author: streit 
+  title: "VIS + ML: Quo Vadis"
+  event: "Pfizer IB University" 
+  date: 2025-03-13
+  location: virtual event
+  type: invited talk 
+
+- author: streit 
   title: "Visualizing Insights from Data"
   event: "Bayer Data Science Fellow Symposium" 
   date: 2024-04-10
