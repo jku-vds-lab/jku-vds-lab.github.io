@@ -61,7 +61,7 @@ bib:
   publisher: 
   address: 
   doi: 		# e.g.10.1109/TVCG.2020.3012063
-  url: https://jku-vds-lab.at/hoxai-at-visxai
+  url: 
   volume: 
   number: 
   pages: 
@@ -77,7 +77,7 @@ award:
 project: 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
-external-project: 
+external-project: https://jku-vds-lab.at/hoxai-at-visxai
 
 # (deprecated)
 # # The key of the video .md file (in _videos subfolder)
