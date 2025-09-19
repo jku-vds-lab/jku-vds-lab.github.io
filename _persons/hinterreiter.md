@@ -45,13 +45,13 @@ phone: "+43 732 2468 6638"
 # if you have a fax you can enter your fax information here
 fax:
 # add your twitter handle (e.g. "marc_streit")
-twitter: AHinterreiter
+twitter:
 # add your github username (e.g. "mstreit")
 github: einbandi
 # add your google scholar key (e.g. "l7TTSP0AAAAJ")
 google_scholar: MERWm3QAAAAJ
 # add your linkedin username (e.g. "marcstreit")
-linkedin:
+linkedin: https://www.linkedin.com/in/andreas-hinterreiter/
 # here you can add a link to your CV (e.g. "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf")
 cv:
 # here you can add a link to a personal website
