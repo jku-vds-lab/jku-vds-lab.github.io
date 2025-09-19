@@ -63,7 +63,7 @@ bib:
   publisher: 
   address: 
   doi: 		# e.g.10.1109/TVCG.2020.3012063
-  url: https://gfn-playground.jku-vds-lab.at/
+  url: 
   volume: 
   number: 
   pages: 
@@ -76,10 +76,10 @@ preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. htt
 award:
 
 # state key of an internal tool. This will link to the tool site e.g. lineup (usually not needed)
-project: https://gfn-playground.jku-vds-lab.at/
+project: 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
-external-project: 
+external-project: https://gfn-playground.jku-vds-lab.at/
 
 # (deprecated)
 # # The key of the video .md file (in _videos subfolder)
