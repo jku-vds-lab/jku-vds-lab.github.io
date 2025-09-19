@@ -41,7 +41,7 @@ image_large: 2025_gfn-playground.png
 authors:
 - Florian Holeczek
 - Alexander Hillisch
-- Andreas Hinterreiter
+- hinterreiter
 - Alex Hernández-García
 - streit
 - humer
@@ -63,7 +63,7 @@ bib:
   publisher: 
   address: 
   doi: 		# e.g.10.1109/TVCG.2020.3012063
-  url: https://jku-vds-lab.at/hoxai-at-visxai
+  url: https://gfn-playground.jku-vds-lab.at/
   volume: 
   number: 
   pages: 
@@ -76,7 +76,7 @@ preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. htt
 award:
 
 # state key of an internal tool. This will link to the tool site e.g. lineup (usually not needed)
-project: 
+project: https://gfn-playground.jku-vds-lab.at/
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
 external-project: 
@@ -113,7 +113,7 @@ external-project:
 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: gln-playground-at-visxai
+pdf: 
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 
