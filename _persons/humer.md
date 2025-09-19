@@ -25,7 +25,7 @@ role: phdgrad
 email: christina.humer@jku.at
 image: /assets/images/team_colored/humer.jpg
 organization: Johannes Kepler University Linz
-position: PhD Graduate 2024
+position: PhD Graduation 2024
 website: https://christina.humer.dev/
 ---
 

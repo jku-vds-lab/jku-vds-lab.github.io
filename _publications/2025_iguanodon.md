@@ -4,7 +4,7 @@ layout: publication
 title: "Iguanodon: A Code-Breaking Game for Improving Visualization Literacy"
 key: 2025_iguanodon
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url: 
 
@@ -26,21 +26,21 @@ authors:
 - Markus Schedl
 - streit
 
-journal-short: OSF
+journal-short: TVCG
 year: 2025
 
 bibentry: article
 bib:
-  journal: IEEE Transactions on Visualization and Computer Graphics (Early Access)
+  journal: IEEE Transactions on Visualization and Computer Graphics
   booktitle: 
   editor: 
-  publisher: 
+  publisher:
   address: 
   doi: 10.1109/TVCG.2024.3468948 #10.31219/osf.io/xung4
   url: 
-  volume: 
-  number: 
-  pages: 
+  volume: 33
+  number: 9
+  pages: 5713-5725
   month:
 
 preprint: https://osf.io/xung4/ # here you can put all preprint links (arxiv.org, osf.io,...)
