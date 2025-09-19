@@ -2,15 +2,14 @@
 layout: publication # do not change
 
 #### these fields are mandatory. please fill them out
-title: "GFlowNet Playground - Theory and Examples for an Intuitive Understanding" # title of your publication 
+title: "Of Deadly Skullcaps and Amethyst Deceivers: Reflections on a Transdisciplinary Study on XAI and Trust" # title of your publication 
 
 # choose one of the following types:
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
-abstract: "Imagine you want to discover new molecules for a life-saving drug. With an estimated size of 10^60, the space of possible molecular structures is vast, and promising candidates are potentially sparse and difficult to find. Traditional methods might guide you to a single best guess, but what if this guess is toxic, has side effects, or fails in a later stage of testing? What if you need many diverse, high-quality candidates to test? This is where Generative Flow Networks (GFlowNets) come in. They are a class of generative models that don't just aim for a single optimal solution—they aim to diversely sample from a space of possibilities, with a preference for high-reward outcomes.
-In this article, we introduce the core concepts behind GFlowNets, outline their theoretical foundations and common training pitfalls, and guide readers toward an intuitive understanding of how they work. We provide an interactive Playground, where reward functions and hyperparameters can be adjusted on the fly to reveal a GFlowNet’s learning dynamics. A Tetris example brings these ideas to life, as the network uncovers stacking strategies in real time. By journey’s end, readers will have both a practical grasp of GFlowNet behavior and inspiration for applying them to their own challenges." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
+type: paper
+abstract: "Does explainability change how users interact with an artificially intelligent agent? We sought to answer this question in a transdisciplinary research project with a team of computer scientists and psychologists. We chose the high-risk decision making task of AI-assisted mushroom hunting to study the effects that explanations of AI predictions have on user trust. We present an overview of three studies, one of which was carried out in an unusual environment as part of a science and art festival. Our results show that visual explanations can lead to more adequate trust in AI systems and thereby to an improved decision correctness." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
 ####
 
@@ -25,11 +24,11 @@ paper_content_url: https://jku-vds-lab.at/
 
 #### the following fields are optional, but it is recommended to enter as much information as possible
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
-shortname: GFlowPlayground@VISxAI
+shortname: HOXAI@VISxAI
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
-image: 2025_gfn-playground_small.png
+image: 2023_visxai_hoxai.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
-image_large: 2025_gfn-playground.png
+image_large: 2023_visxai_hoxai_teaser.png
 
 # Authors in the "database" can be used with just the key that is specified in the corresponding .md file (usually it is the lastname in lower case e.g. doe). Authors that do not have an individual page here should be stated with their full name (e.g. John Doe)
 # each author is one item in the list. the list is enumerated with dashes ("-")
@@ -39,17 +38,16 @@ image_large: 2025_gfn-playground.png
 # - streit # .md file exists for this person
 # - Max Mustermann # there is no .md file for this person.
 authors:
-- Florian Holeczek
-- Alexander Hillisch
-- Andreas Hinterreiter
-- Alex Hernández-García
-- streit
+- hinterreiter
 - humer
+- Benedikt Leichtmann
+- Martina Mara
+- streit
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
 journal-short: VISxAI
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2025
+year: 2023
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
 publisherurl: https://visxai.io/ # add link to publisher page of your publication
@@ -57,7 +55,7 @@ publisherurl: https://visxai.io/ # add link to publisher page of your publicatio
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: 8th Workshop on Visualization for AI Explainability 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: 6th Workshop on Visualization for AI Explainability 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
   publisher: 
@@ -67,7 +65,7 @@ bib:
   volume: 
   number: 
   pages: 
-  month: 
+  month: October
 
 preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
@@ -113,7 +111,7 @@ external-project:
 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: gln-playground-at-visxai
+pdf: hoxai-at-visxai
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 
@@ -132,6 +130,6 @@ supplements:
 ---
 
 # Acknowledgements
-The work was partyly funded by the Austrian Science Fund under grant number FWF DFH 23–N,
-Some implementations and ideas are based on great work of others:
-The continuous line example by Joseph Viviano & Kolya Malkin. The idea for the playground environment is based on their notebook and much of the training code is adapted from their tutorial. The neural network playground by Daniel Smilkov and Shan Carter was an inspiration on how to visualize machine learning and the training progress in the browser. The code for the flow field visualization is adapted from Mathcurious' implementation.
+The main part of this project work was funded by Johannes Kepler University Linz, Linz Institute of Technology (LIT), the State of Upper Austria, and the Federal Ministry of Education, Science and Research under grant number LIT-2019-7-SEE-117, awarded to Martina Mara and Marc Streit. The “AI Forest” installation and tablet game could be realized by funding through the LIT Special Call for the Ars Electronica Festival 2021 awarded to Martina Mara. We gratefully acknowledge additional funding by the Austrian Science Fund under grant number FWF DFH 23--N, by the State of Upper Austria through the Human-Interpretable Machine Learning project, and by the Johannes Kepler Open Access Publishing Fund.
+
+This project would not have been possible without the support of many highly motivated people. We want to thank Nives Meloni, Birke van Maartens, Leonie Haasler, Gabriel Vitel, Kenji Tanaka, Stefan Eibelwimmer, Christopher Lindinger, Moritz Heckmann, Alfio Ventura, all supporting student assistants and colleagues from the Robopsychology Lab at JKU, Roman Peherstorfer and the JKU press team, Otto Stoik and the members of the Mycological Working Group (MYAG) at the Biology Center Linz, and all involved members of the German Mycological Society (DGfM).
