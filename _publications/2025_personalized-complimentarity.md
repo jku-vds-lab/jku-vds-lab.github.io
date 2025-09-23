@@ -2,20 +2,20 @@
 layout: publication # do not change
 
 #### these fields are mandatory. please fill them out
-title: "Of Deadly Skullcaps and Amethyst Deceivers: Reflections on a Transdisciplinary Study on XAI and Trust" # title of your publication 
+title: "Personalized Complementarity in Human-AI Collaboration" # title of your publication 
 
 # choose one of the following types:
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
 type: paper
-abstract: "Does explainability change how users interact with an artificially intelligent agent? We sought to answer this question in a transdisciplinary research project with a team of computer scientists and psychologists. We chose the high-risk decision making task of AI-assisted mushroom hunting to study the effects that explanations of AI predictions have on user trust. We present an overview of three studies, one of which was carried out in an unusual environment as part of a science and art festival. Our results show that visual explanations can lead to more adequate trust in AI systems and thereby to an improved decision correctness." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
+abstract: "Uncertainty and the potential for complementarity between humans and AI have shaped a new kind of interaction, typically referred to as a collaborative relationship. In this paper, we pick up on the discussion of common issues in human-AI collaboration based on a literature review and further discuss ways to and challenges of personalized complementarity in human-AI relations. We hypothesize that a combination of reciprocal, mixed-initiative communication may support up-to-date mental models and therefore strengthen appropriate trust and reliance, ultimately leading to a higher chance of effectively exploiting existing complementarity potentials." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
 ####
 
 
 # set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
-paper_content_url: https://jku-vds-lab.at/
+paper_content_url: 
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True
 # uncomment the "non_group_project" property, if you only want the publication to be displayed on your personal page (i.e. publications where you contributed, but does not have anything to do with the Vis Group e.g. Master Thesis,...)
@@ -24,11 +24,11 @@ paper_content_url: https://jku-vds-lab.at/
 
 #### the following fields are optional, but it is recommended to enter as much information as possible
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
-shortname: HOXAI@VISxAI
+shortname: 
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
-image: 2023_visxai_hoxai.png
+image: 
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
-image_large: 2023_visxai_hoxai_teaser.png
+image_large: 
 
 # Authors in the "database" can be used with just the key that is specified in the corresponding .md file (usually it is the lastname in lower case e.g. doe). Authors that do not have an individual page here should be stated with their full name (e.g. John Doe)
 # each author is one item in the list. the list is enumerated with dashes ("-")
@@ -38,34 +38,33 @@ image_large: 2023_visxai_hoxai_teaser.png
 # - streit # .md file exists for this person
 # - Max Mustermann # there is no .md file for this person.
 authors:
-- hinterreiter
-- humer
-- Benedikt Leichtmann
-- Martina Mara
+- Karin Breckner
+- Thomas Neumayr
 - streit
+- Mirjam Augstein
 
 # abreviation of the journal/conference ... e.g. IEEE TVCG
-journal-short: VISxAI
+journal-short: MuC2024
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2023
+year: 2024
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
-publisherurl: https://visxai.io/ # add link to publisher page of your publication
+publisherurl:  # add link to publisher page of your publication
 
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: Workshop on Visualization for AI Explainability 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
-  booktitle: 
+  journal: International Workshop on Personalization and Recommendation 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  booktitle: Mensch und Computer 2024 - Workshopband
   editor: 
-  publisher: 
+  publisher: Gesellschaft für Informatik e.V."
   address: 
-  doi: 		# e.g.10.1109/TVCG.2020.3012063
+  doi: 10.18420/muc2024-mci-ws11-206
   url: 
   volume: 
   number: 
   pages: 
-  month: October
+  month: 
 
 preprint:	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
@@ -77,7 +76,7 @@ award:
 project: 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
-external-project: https://jku-vds-lab.at/hoxai-at-visxai
+external-project: 
 
 # (deprecated)
 # # The key of the video .md file (in _videos subfolder)
@@ -111,7 +110,7 @@ external-project: https://jku-vds-lab.at/hoxai-at-visxai
 
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: hoxai-at-visxai
+pdf: 2024_personalized-complementarity.pdf
 # A supplement PDF e.g. 2017_preprint_taggle_supplement.pdf; this is usually uploaded to the caleydo aws server
 supplement: 
 
@@ -130,6 +129,4 @@ supplements:
 ---
 
 # Acknowledgements
-The main part of this project work was funded by Johannes Kepler University Linz, Linz Institute of Technology (LIT), the State of Upper Austria, and the Federal Ministry of Education, Science and Research under grant number LIT-2019-7-SEE-117, awarded to Martina Mara and Marc Streit. The “AI Forest” installation and tablet game could be realized by funding through the LIT Special Call for the Ars Electronica Festival 2021 awarded to Martina Mara. We gratefully acknowledge additional funding by the Austrian Science Fund under grant number FWF DFH 23--N, by the State of Upper Austria through the Human-Interpretable Machine Learning project, and by the Johannes Kepler Open Access Publishing Fund.
-
-This project would not have been possible without the support of many highly motivated people. We want to thank Nives Meloni, Birke van Maartens, Leonie Haasler, Gabriel Vitel, Kenji Tanaka, Stefan Eibelwimmer, Christopher Lindinger, Moritz Heckmann, Alfio Ventura, all supporting student assistants and colleagues from the Robopsychology Lab at JKU, Roman Peherstorfer and the JKU press team, Otto Stoik and the members of the Mycological Working Group (MYAG) at the Biology Center Linz, and all involved members of the German Mycological Society (DGfM).
+This research has been conducted within the scope of the Human-Centered Artificial Intelligence (HCAI) project, funded by the Austrian Science Fund (FWF) [DFH 23-N].
