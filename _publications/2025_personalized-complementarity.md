@@ -54,7 +54,7 @@ publisherurl:  # add link to publisher page of your publication
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: International Workshop on Personalization and Recommendation 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Mensch und Computer 2024, International Workshop on Personalization and Recommendation 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: Mensch und Computer 2024 - Workshopband
   editor: 
   publisher: Gesellschaft für Informatik e.V."
