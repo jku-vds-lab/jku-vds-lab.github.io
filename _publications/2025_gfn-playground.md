@@ -57,7 +57,7 @@ publisherurl: https://visxai.io/ # add link to publisher page of your publicatio
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: 8th Workshop on Visualization for AI Explainability 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: Workshop on Visualization for AI Explainability 		# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
   publisher: 
