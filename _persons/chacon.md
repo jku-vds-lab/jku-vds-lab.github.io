@@ -51,7 +51,7 @@ github: denisseram
 # add your google scholar key (e.g. "l7TTSP0AAAAJ")
 # google_scholar: 
 # add your linkedin username (e.g. "marcstreit")
-linkedin: https://www.linkedin.com/in/denisse-chacon218/
+linkedin: denisse-chacon218/
 # here you can add a link to your CV (e.g. "http://data.jku-vds-lab.at/team/marc/cv_streit.pdf")
 cv: 
 # here you can add a link to a personal website
