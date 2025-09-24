@@ -64,4 +64,9 @@ website:
 ####
 ---
 
+I am a PhD student and DANIO-ReCODE Fellow in the Visual Data Science Lab at Johannes Kepler University Linz, Austria. My research focuses on interactive visualization to support bioinformatics, particularly in genomics and single-cell analysis.
+
+I hold a Master’s degree in Computer Science from Tecnológico de Monterrey and a Bachelor’s degree in Biotechnology Engineering. During my Master’s thesis, I explored the impact of data imputation on single-cell RNA sequencing analysis and the integration of spatial transcriptomics.
+
+I am fascinated by the intersection of computer science, mathematics, and biology, and I am excited about the advances that can be achieved by combining these disciplines. I really enjoy learning, working in interdisciplinary research teams, and contributing to projects where different perspectives come together.
 
