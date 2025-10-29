@@ -25,7 +25,7 @@ authors:
   - streit
   - Niklas Elmqvist
 
-journal-short: 
+journal-short: arXiv
 year: 2025
 
 bibentry: preprint
