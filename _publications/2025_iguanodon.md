@@ -55,7 +55,7 @@ non_group_project: False
 project: 
 
 # Use this if you have an external project website
-external-project: https://iguanodon.jku-vds-lab.at/
+external-project: https://jku-vds-lab.at/iguanodon/
 
 pdf: 2025_iguanodon.pdf
 
