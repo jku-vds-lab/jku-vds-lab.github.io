@@ -1,7 +1,7 @@
 ---
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
-title: "Iguanodon: A Code-Breaking Game for Improving Visualization Literacy"
+title: "Iguanodon: A Code-Breaking Game for Improving Visualization Construction Literacy"
 key: 2025_iguanodon
 # paper | preprint | poster
 type: paper
@@ -67,8 +67,8 @@ videos:
    youtube-id: 8Lumj331Ea8
 
 abstract: "
-In today's data-rich environment, visualization literacy—the ability to understand and communicate information through charts—is increasingly important. However, constructing effective charts can be challenging due to the numerous design choices involved. Off-the-shelf systems and libraries produce charts with carefully selected defaults that users may not be aware of, making it hard to increase their visualization literacy with those systems. In addition, traditional ways of improving visualization literacy, such as textbooks and tutorials, can be burdensome as they require sifting through a plethora of resources.
-To address this challenge, we designed Iguanodon, an easy-to-use game application that complements the traditional methods of improving visualization literacy. In our game application, users interactively choose whether to apply
+In today's data-rich environment, visualization literacy—the ability to understand and communicate information through charts—is increasingly important. However, constructing effective charts can be challenging due to the numerous design choices involved. Off-the-shelf systems and libraries produce charts with carefully selected defaults that users may not be aware of, making it hard to increase their visualization literacy with those systems. In addition, traditional ways of improving visualization literacy, such as textbooks and tutorials, can be burdensome as they require sifting through a plethora of resources. 
+To address this challenge, we designed Iguanodon, an easy-to-use game application that complements the traditional methods of improving visualization construction literacy. In our game application, users interactively choose whether to apply 
 design choices, which we assign to sub-tasks that must be optimized to create an effective chart. The application offers multiple game variations to help users learn how different design choices should be applied to construct effective charts. Furthermore, our approach easily adapts to different visualization design guidelines. We describe the application's design and present the results of a user study with 37 participants. 
 Our findings indicate that our game-based approach supports users in improving their visualization literacy.
 "
