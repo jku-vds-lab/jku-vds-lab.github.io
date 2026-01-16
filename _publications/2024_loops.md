@@ -2,7 +2,7 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Loops: Leveraging Provenance and Visualization to Support Exploratory Data Analysis in Notebooks"
-key: 2025_loops
+key: 2024_loops
 # paper | preprint | poster
 type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
@@ -12,9 +12,9 @@ type: paper
 shortname: Loops
 
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2025_loops_small.png
+image: 2024_loops_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2025_loops.png
+image_large: 2024_loops.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -24,7 +24,7 @@ authors:
   - streit
 
 journal-short: TVCG
-year: 2025
+year: 2024
 
 bibentry: article
 bib:
@@ -49,7 +49,7 @@ project:
 # Use this if you have an external project website
 external-project: https://mybinder.org/v2/gh/jku-vds-lab/loops/main?labpath=notebooks
 
-pdf: 2025_loops.pdf
+pdf: 2024_loops.pdf
 
 # Link to the repository where the code is hostet
 code: https://github.com/jku-vds-lab/loops
