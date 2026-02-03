@@ -41,7 +41,7 @@ bib:
   pages: 501-513
   month: July
 
-#preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
+preprint: https://osf.io/gux9w # here you can put all preprint links (arxiv.org, osf.io,...)
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
 award:
@@ -52,7 +52,7 @@ non_group_project: False
 project:
 
 # Use this if you have an external project website
-external-project: https://osf.io/gux9w
+external-project: 
 
 # The reference to the video entry
 videos:
@@ -62,7 +62,7 @@ videos:
    youtube-id: t7PVqvh0iQ4
    timestamp: 4888
    description: ''
-   extraurl: '[EuroVis Program](https://conferences.eg.org/eurovis2022/program/)'
+   extraurl: 
    slides:
     - file: 2022_eurovis_dhanoa.pptx
     - file: 2022_eurovis_dhanoa.pdf
