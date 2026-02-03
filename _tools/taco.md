@@ -38,11 +38,6 @@ github:
  -
   url: https://github.com/Caleydo/taco_server
   name: TACO Server
-
-web:
- -
-  url: https://taco.caleydoapp.org
-  name: TACO Web Version
   
 ---
 
