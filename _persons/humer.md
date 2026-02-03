@@ -16,7 +16,7 @@ phone: "+43 732 2468 6638"
 twitter:
 github: "ginihumer"
 google_scholar: https://scholar.google.com/citations?user=YOHHiKoAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/christina-humer-33013a316/
+linkedin: "christina-humer-33013a316"
 cv: 
 
 key: humer
