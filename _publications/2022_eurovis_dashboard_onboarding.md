@@ -59,9 +59,9 @@ videos:
 
 #  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
  - name: 'Talk @ EuroVis 2022'
-   youtube-id: t7PVqvh0iQ4
-   timestamp: 4888
-   description: ''
+   youtube-id: 
+   timestamp: 
+   description:
    extraurl: 
    slides:
     - file: 2022_eurovis_dhanoa.pptx
