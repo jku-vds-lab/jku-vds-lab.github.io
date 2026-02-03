@@ -57,16 +57,6 @@ external-project:
 # The reference to the video entry
 videos:
 
-#  file: filename to look for, prefix http://data.jku-vds-lab.at/papers/
- - name: 'Talk @ EuroVis 2022'
-   youtube-id: 
-   timestamp: 
-   description:
-   extraurl: 
-   slides:
-    - file: 2022_eurovis_dhanoa.pptx
-    - file: 2022_eurovis_dhanoa.pdf
-
 # the prerint
 pdf: 2022_eurovis_dashboard-onboarding.pdf
 # A supplement PDF
@@ -77,6 +67,13 @@ supplements:
 - name: Dashboard Onboarding Supplements
   abslink: https://osf.io/zsb5a/
   linksym: true
+- name: EuroVis Slides (PPTX)
+  abslink: 2022_eurovis_dhanoa.pptx
+  linksym: true
+- name: EuroVis Slides (PPTX)
+  abslink: 2022_eurovis_dhanoa.pdf
+  linksym: true  
+
 #- name: General UpSet
 #  # use link instead of abslink if you want to link to the master directory
 #  abslink: http://vials.io/talk/
