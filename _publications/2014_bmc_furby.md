@@ -77,7 +77,7 @@ Datasets
 
 The following projects contain public demo data, which can be used to test Furby. But everyone is welcome to load his/her own data, via the `Load BiCluster Results` tab within the Caleydo Startup-Wizard.
 
-* <i class="fa fa-download"></i>&nbsp;[Caleydo-Project (CAL)]({{site.paper_content_url}}2014_bmc_furby_multi_tissue_fabia20.cal) containing Microarray data from Broad Institute "Cancer Program Data Sets" which was produced by [Su et al. 2002](https://www.broadinstitute.org/cancer/cancer-program-scientific-tools-and-resources). It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.
+* <i class="fa fa-download"></i>&nbsp;[Caleydo-Project (CAL)]({{site.paper_content_url}}2014_bmc_furby_multi_tissue_fabia20.cal) containing Microarray data from Broad Institute "Cancer Program Data Sets" which was produced by Su et al. 2002. It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.
 * <i class="fa fa-download"></i>&nbsp;[Zip package (ZIP)]({{site.paper_content_url}}2014_bmc_furby_multi_tissue_fabia20.zip) containing the exported CSV-files using to create the previous Caleydo-Project
 
 Utilities
