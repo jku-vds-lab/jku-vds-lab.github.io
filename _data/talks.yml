@@ -1,9 +1,16 @@
 - author: streit 
   title: "VIS4ML & ML4VIS - Quo Vadis"
+  event: "Monash University, Human-Centred Computing" 
+  date: 2026-02-12
+  location: Melbourne, Australia
+  type: invited talk
+
+- author: streit 
+  title: "VIS4ML & ML4VIS - Quo Vadis"
   event: "KI START-UP TAG BMW Group Steyr" 
   date: 2025-11-26
   location: Steyr, Austria
-  type: invited talk
+  type: keynote talk
 
 - author: streit 
   title: "Exploring and Explaining High-Dimensional Data with Interactive Projections"
