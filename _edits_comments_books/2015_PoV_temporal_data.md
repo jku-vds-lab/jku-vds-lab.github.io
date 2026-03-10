@@ -20,7 +20,7 @@ bib:
   doi: 10.1038/nmeth.3262
 
 paper_content_url: "" # you need this to overwrite the default of data.jku-vds-lab.at/papers/, if you have an external pdf link.
-pdf: http://www.nature.com/nmeth/journal/v12/n2/pdf/nmeth.3262.pdf
+pdf: 2015_PoV_temporal_data.pdf
 
 ---
 
