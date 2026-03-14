@@ -20,7 +20,7 @@ bib:
   doi: 10.1038/nmeth.2807
 
 paper_content_url: ""
-pdf: http://www.nature.com/nmeth/journal/v11/n2/pdf/nmeth.2807.pdf
+pdf: https://data.jku-vds-lab.at/papers/2014_PoV_bar_charts_and_box_plots.pdf
 
 ---
 
