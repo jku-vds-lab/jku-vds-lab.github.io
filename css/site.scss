@@ -1432,7 +1432,9 @@ ul.project-icon-list li {
 
 .paper-image-home-small{
   width: 100%;
-  height: auto;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+  display: block;
   // float: left;
   margin-right: 10px;
   @include box-shadow(1px, 1px, 4px, transparentize(black, 0.75));
@@ -1441,22 +1443,30 @@ ul.project-icon-list li {
 
 #recent-publications-div{
   margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+
+  @include media($md-lg-display) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @include media($sm-md-display) {
+    grid-template-columns: 1fr;
+  }
+}
+
+#recent-publications-div > a {
+  display: block;
 }
 
 #recent-publications-div .pubs{
   min-height: 210px;
-  width: 31%;
-  float: left;
-  margin-right: 12px;
-  margin-bottom: 10px;
+  width: auto;
+  float: none;
+  margin-right: 0;
+  margin-bottom: 0;
   padding: 2px;  
-
-  @include media($md-lg-display) {
-    width: 45%;
-  }
-  @include media($sm-md-display) {
-    width: 100%;
-  }
 }
 
 // team-member various lists
@@ -1573,6 +1583,11 @@ ul.project-icon-list li {
   opacity: 1;
   color: white;
   height: 40px;
+  width: 100%;
+  float: none;
+  margin: 0;
+  clear: both;
+  grid-column: 1 / -1;
   
   //margin-top: 50%;
   min-height: 0px !important;
