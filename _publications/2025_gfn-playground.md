@@ -8,7 +8,7 @@ title: "GFlowNet Playground - Theory and Examples for an Intuitive Understanding
 # "paper": Peer-Reviewed Journal and Conference Papers
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
-type: preprint
+type: paper
 abstract: "Imagine you want to discover new molecules for a life-saving drug. With an estimated size of 10^60, the space of possible molecular structures is vast, and promising candidates are potentially sparse and difficult to find. Traditional methods might guide you to a single best guess, but what if this guess is toxic, has side effects, or fails in a later stage of testing? What if you need many diverse, high-quality candidates to test? This is where Generative Flow Networks (GFlowNets) come in. They are a class of generative models that don't just aim for a single optimal solution—they aim to diversely sample from a space of possibilities, with a preference for high-reward outcomes.
 In this article, we introduce the core concepts behind GFlowNets, outline their theoretical foundations and common training pitfalls, and guide readers toward an intuitive understanding of how they work. We provide an interactive Playground, where reward functions and hyperparameters can be adjusted on the fly to reveal a GFlowNet’s learning dynamics. A Tetris example brings these ideas to life, as the network uncovers stacking strategies in real time. By journey’s end, readers will have both a practical grasp of GFlowNet behavior and inspiration for applying them to their own challenges." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
