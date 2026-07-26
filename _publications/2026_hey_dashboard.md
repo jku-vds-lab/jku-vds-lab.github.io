@@ -31,7 +31,6 @@ year: 2026
 bibentry: inproceedings
 bib:
   booktitle: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
-  title = "Hey Dashboard!: Supporting Voice, Text, and Pointing Modalities in Dashboard Onboarding using Large Language Models"
   publisher: ACM
   doi: 10.1145/3772318.3791766
   url: https://dl.acm.org/doi/10.1145/3772318.3791766
