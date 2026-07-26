@@ -25,8 +25,8 @@ authors:
   - streit
   - Niklas Elmqvist
 
-journal-short: arXiv
-year: 2025
+journal-short: CHI26
+year: 2026
 
 bibentry: inproceedings
 bib:
