@@ -1,4 +1,18 @@
-
+- authors:
+  - chacon
+  - Mark S. Keller
+  - Eric Mörth 
+  - Nils Gehlenborg
+  - streit
+  - hinterreiter
+  title: How Do We Visualize Space in Molecular Biology? A Study of Spatial Transcriptomics Visualization Practices
+  journal: Symposium on Biological Data Visualization (BioVis '26), ISMB, Washington, DC, USA
+  year: 2026
+  abstract-pdf: 2026_biovis_star_spatial_abstract.pdf
+  poster-pdf: 
+  video: 
+  award: 
+  
 - authors:
   - Markus Trainer
   - humer
