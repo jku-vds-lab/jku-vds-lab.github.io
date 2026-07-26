@@ -2,19 +2,19 @@
 layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Hey Dashboard!: Supporting Voice, Text, and Pointing Modalities in Dashboard Onboarding"
-key: 2025_hey_dashboard
+key: 2026_hey_dashboard
 # paper | preprint | poster
-type: preprint
+type: paper
 # optional url for a different site; defaults to data.jku-vds-lab.at
 #paper_content_url:
 
 # The shortname is used for auto-generated titels
-shortname: Hey Dashboard
+shortname: HeyDashboard
 
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2025_hey_dashboard_small.png
+image: 2026_hey_dashboard_small.png
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
-image_large: 2025_hey_dashboard.png
+image_large: 2026_hey_dashboard.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
@@ -28,15 +28,16 @@ authors:
 journal-short: arXiv
 year: 2025
 
-bibentry: preprint
+bibentry: inproceedings
 bib:
-  journal: arXiv
-  doi: 10.48550/arXiv.2510.12386
-  url:
+  booktitle: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
+  title = "Hey Dashboard!: Supporting Voice, Text, and Pointing Modalities in Dashboard Onboarding using Large Language Models"
+  publisher: ACM
+  doi: 10.1145/3772318.3791766
+  url: https://dl.acm.org/doi/10.1145/3772318.3791766
   volume: 
   number: 
-  pages: 
-  month:
+  pages:
 
 preprint: https://arxiv.org/abs/2510.12386 # here you can put all preprint links (arxiv.org, osf.io,...)
 
@@ -51,7 +52,7 @@ project:
 # Use this if you have an external project website
 external-project: 
 
-pdf: 2025_hey_dashboard.pdf
+pdf: 2026_hey_dashboard.pdf
 
 # Link to the repository where the code is hostet
 code: 
