@@ -61,7 +61,7 @@ code:
 
 videos:
 
-abstract: "The global demand for high-quality, robust and up-to-date evidence to guide decision-making has never been higher. The vast quantity of scientific literature being produced and made accessible presents an unparalleled opportunity for evidence-based decision-making to become a widespread reality. In addition, the world has at its fingertips cutting-edge technologies, such as AI, to make sense of this extensive knowledge base and deliver insights more quickly to decision-makers most in need. AI-powered evidence syntheses promises to be transformative, saving many lives and enhancing livelihoods globally."
+abstract: "Well-conducted evidence syntheses are the cornerstone of evidence-based health care decisions.1 Whether systematic reviews, scoping reviews, or qualitative evidence syntheses, these approaches are designed to provide decision-makers with the best available evidence through systematic, rigorous, and transparent methods.2 Over recent decades, the scientific community has advanced methods for every step of the evidence synthesis process to increase trustworthiness and rigor. Yet these gains have also increased the workload: evidence syntheses are resource-intensive and can take a year or longer to complete.3 For those making health care decisions – in clinical practice or at organizational and policy levels – this is often too long."
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 
