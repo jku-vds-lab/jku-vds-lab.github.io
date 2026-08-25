@@ -9,7 +9,7 @@ title: "time-i-gram: A Grammar for Interactive Visualization of Time-based Data"
 # "preprint": Preprint
 # "thesis": Thesis (e.g. Master/PhD Thesis)
 type: preprint
-abstract: "The importance of temporal aspects in data analysis and visualization is paramount across various disciplines. Due to the unique characteristics of time, multi-scale temporal analysis, comparisons over different periods, and the examination of variable correlations pose particular challenges for visualization methods. Currently, existing grammars for data visualization cannot model advanced time characteristics adequately. To fill this gap, we present a novel time-based visualization grammar. Our contribution is twofold: Firstly, we introduce a comprehensive grammar designed for time-based visualization, providing a versatile toolkit for a wide range of analytical needs and user preferences. Secondly, we implement this grammar in time-i-gram." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
+abstract: "The visual analysis of time-oriented data demands capabilities that general-purpose visualization grammars do not provide: multi-scale encoding that spans orders of temporal magnitude, native support for cyclic layouts that reveal periodic structure, and coordinated interaction that links heterogeneous variables at a shared temporal resolution. We present <em>time-i-gram</em>, a declarative visualization grammar that addresses these gaps through six components designed around the semantic structure of time: data types and time primitives, visual marks, visual channels, scales, layouts, and interaction. A prototype implementation extends Gosling.js, inheriting a scalable tile-based rendering engine originally developed for genomics. We demonstrate the grammar's expressiveness through three usage scenarios in epidemiology, renewable energy monitoring, and transportation-producing visualizations that are either unavailable or prohibitively complex in current grammars." # insert the abstract of your publication between the quotes; you can use html e.g. to make links (<a></a>) or generate bold (<b></b>) etc. text 
 
 ####
 
@@ -39,6 +39,7 @@ image_large: 2024_preprint_time-i-gram-teaser.png
 # - Max Mustermann # there is no .md file for this person.
 authors:
 - Vanessa Stoiber
+- chacon
 - Nils Gehlenborg
 - Wolfgang Aigner
 - streit
@@ -46,7 +47,7 @@ authors:
 # abreviation of the journal/conference ... e.g. IEEE TVCG
 journal-short: 
 # when was this publication written/ when was the publication accepted (e.g. 2020)
-year: 2024
+year: 2026
 
 # if you have an explicit page you want to reference, use this tag; otherwise it will be generated from your doi
 publisherurl: # add link to publisher page of your publication
