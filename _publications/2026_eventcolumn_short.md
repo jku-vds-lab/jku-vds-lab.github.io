@@ -57,14 +57,14 @@ bib:
   pages: 
   month:
 
-paper_content_url: 
+# paper_content_url: 
 
 
 # Use this if you have an external project website e.g. https://ordino.caleydoapp.org/
 external-project: https://jku-vds-lab.at/pro2future-event-table-viewer
 
 # the name of your publication pdf e.g. 2020_tvcg_confusionflow.pdf; this is usually uploaded to the caleydo aws server
-pdf: 2026_eventcolumn.pdf
+pdf: 2026_eventcolumn_short.pdf
 
 
 # Link to the repository where the code is hostet
