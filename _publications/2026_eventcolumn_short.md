@@ -16,7 +16,7 @@ abstract: "We introduce EventColumn, a new column type that integrates event-seq
 
 #### the following fields are optional, but it is recommended to enter as much information as possible
 # The shortname is used for auto-generated titels. e.g. ConfusionFlow
-shortname: eventcolumn
+shortname: EventColumn
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow.png
 image: 2026_eventcolumn_small.jpg
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/ e.g. 2020_tvcg_confusionflow_teaser.png
@@ -42,7 +42,7 @@ year: 2026
 
 
 # what is the publication type and other bib specific properties
-bibentry: article
+bibentry: inproceedings
 bib:
   journal:
   booktitle: IEEE VIS 2026 - Short Papers (to appear)
