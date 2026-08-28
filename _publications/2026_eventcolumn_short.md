@@ -32,7 +32,6 @@ image_large: 2026_eventcolumn.jpg
 authors:
 - Jakob Zethofer
 - hinterreiter
-- steinparz
 - Lukas Schiefermüller
 - Belgin Mutlu
 - streit
