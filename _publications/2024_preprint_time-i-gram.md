@@ -60,14 +60,14 @@ bib:
   editor: 
   publisher: 
   address: 
-  doi: 		https://osf.io/m9ubg # e.g.10.1109/TVCG.2020.3012063
+  doi: 		10.31219/osf.io/m9ubg_v2 # e.g.10.1109/TVCG.2020.3012063
   url: 
   volume: 
   number: 
   pages: 
   month: 
 
-preprint: https://osf.io/preprints/osf/m9ubg_v1	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
+preprint: https://osf.io/preprints/osf/m9ubg_v2	 # here you can put the preprint link (arxiv.org, osf.io,...) e.g. https://arxiv.org/abs/1910.00969
 
 
 # Add things like "Best Paper Award at InfoVis 2099, selected out of 4000 submissions"
