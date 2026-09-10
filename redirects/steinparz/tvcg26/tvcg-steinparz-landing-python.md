@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_link: /rl_trajectories/#/python
+redirect_link: /tvcg26-details-on-demand/#/python
 permalink: /tvcg26-steinparz-python/
 ---
