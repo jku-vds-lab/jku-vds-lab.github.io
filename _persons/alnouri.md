@@ -10,7 +10,7 @@ role: raPhD
 email: amal.alnouri@jku.at 
 image: /assets/images/team_colored/alnouri.jpg 
 organization: Johannes Kepler University Linz
-position: Project Assistant
+position: University Assistant
 degrees_post: BSc MSc
 location: "Johannes Kepler University Linz<br />
                 Institute of Computer Graphics<br />
@@ -23,7 +23,7 @@ google_scholar: 8jZh5ZsAAAAJ&hl
 linkedin: amal-alnouri-780bb2107
 ---
 
-<p>I am a PhD student and a project assistant in the Visual Data Science Lab at <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria. I hold a Bachelor's degree in Information Technology Engineering with a specialization in AI, as well as a Master's degree in Big Data Systems. Throughout my academic pursuits, I have actively contributed as an AI engineer within various technology startups. My work in AI sparked a deep interest in XAI, which became the focus of both my undergraduate project and Master's thesis. 
+<p>I am a PhD student and a university assistant in the Visual Data Science Lab at <a href="https://www.jku.at/en/">Johannes Kepler University Linz</a>, Austria. I hold a Bachelor's degree in Information Technology Engineering with a specialization in AI, as well as a Master's degree in Big Data Systems. Alongside my academic studies, I gained hands-on experience as an AI engineer at several technology startups. This experience sparked my interest in XAI, which became the central focus of both my Bachelor's and Master's theses.
 </p>
-<p>At the Visual Data Science Lab, my research revolve around the design and development of data analysis tools to support domain experts, with a specific emphasis on XAI. I am eager to pursue a PhD in this field, driven by my passion for telling stories with data and my understanding regarding the impact of enhancing the transparency and interpretability of AI systems.
+<p>At the Visual Data Science Lab, my research focuses on designing and developing interactive visualizations that empower domain experts to explore, understand, and interpret complex data and AI systems. My PhD research brings together my passion for storytelling with data and my commitment to making AI systems interpretable, and accessible.
 </p>
