@@ -55,7 +55,7 @@ publisherurl: https://visxai.io/ # add link to publisher page of your publicatio
 # what is the publication type and other bib specific properties
 bibentry: article
 bib:
-  journal: 9th Workshop on Visualization for AI Explainability (IEEE VIS 2026)	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
+  journal: "VISxAI: 9th Workshop on Visualization for AI Explainability, IEEE VIS 2026"	# e.g. IEEE Transactions on Visualization and Computer Graphics (to appear)
   booktitle: 
   editor: 
   publisher: 
@@ -130,4 +130,5 @@ code: https://github.com/jku-vds-lab/proto
 ---
 
 # Acknowledgements
-This work was funded by the Austrian Marshall Plan Foundation under the Marshall Plan Scholarship, the Austrian Science Fund under grant number FWF DFH 23--N, and under the Human-Interpretable Machine Learning project (funded by the State of Upper Austria). The project was conducted during a research visit at the MIT-IBM Watson AI Lab in Cambridge, MA. We would like to thank Elisabeth Rumetshofer for her feedback on CLOOB and its analysis.
+
+Write acknowledgements for contributors.
