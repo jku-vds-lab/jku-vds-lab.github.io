@@ -15,7 +15,7 @@ abstract: "Text-to-image (T2I) models generate complex visual content from textu
 
 
 # set this url, if your paper is on another server; defaults to data.jku-vds-lab.at
-paper_content_url: https://jku-vds-lab.at/
+paper_content_url: https://t2i-geo-assumptions.jku-vds-lab.at/
 # uncomment the "hide" property, if you do not want the publication to be displayed on the website (usually you don't need this)
 # hide: True
 # uncomment the "non_group_project" property, if you only want the publication to be displayed on your personal page (i.e. publications where you contributed, but does not have anything to do with the Vis Group e.g. Master Thesis,...)
@@ -124,7 +124,7 @@ supplements:
 #  linksym: true
 
 # Link to the repository where the code is hostet
-code: https://github.com/jku-vds-lab/t2i-geo-assumptions-redirect
+code: https://github.com/jku-vds-lab/proto
 
 # After the --- you can put information that you want to appear on the website using markdown formatting or HTML. A good example are acknowledgements, extra references, an erratum, etc.
 ---
